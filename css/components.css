@@ -1,0 +1,279 @@
+/* ============================================
+   Market Pulse Korea — Component Extras
+   추가 컴포넌트 스타일 & 마이크로 인터랙션
+   ============================================ */
+
+/* ─── 배경 그리드 패턴 ─── */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(255,255,255,0.015) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.015) 1px, transparent 1px);
+  background-size: 40px 40px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.dashboard-layout,
+.site-header,
+.ticker-tape,
+.site-footer {
+  position: relative;
+  z-index: 1;
+}
+
+/* ─── 스크롤 진행 인디케이터 ─── */
+.scroll-progress {
+  position: fixed;
+  top: 0; left: 0;
+  height: 2px;
+  background: linear-gradient(90deg, #3b82f6 0%, #8b5cf6 50%, #ec4899 100%);
+  z-index: 999;
+  transition: width 0.1s linear;
+}
+
+/* ─── 카드 호버 글로우 효과 ─── */
+.stock-card:hover {
+  box-shadow: 0 4px 20px rgba(59,130,246,0.08), 0 8px 32px rgba(0,0,0,0.3);
+}
+
+.news-card:hover {
+  box-shadow: 0 4px 20px rgba(59,130,246,0.07), 0 8px 32px rgba(0,0,0,0.3);
+}
+
+/* ─── Index Card 상승/하락 좌측 보더 ─── */
+.index-card.up   { border-left: 3px solid var(--up-primary); border-bottom: none; }
+.index-card.down { border-left: 3px solid var(--down-primary); border-bottom: none; }
+
+/* ─── Section Divider ─── */
+.section-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--border-subtle), transparent);
+  margin: 8px 0 24px;
+}
+
+/* ─── 뉴스 카드 임팩트 좌측 컬러 라인 ─── */
+.news-card[data-impact="positive"] { border-left: 3px solid var(--up-primary); }
+.news-card[data-impact="negative"] { border-left: 3px solid var(--down-primary); }
+.news-card[data-impact="neutral"]  { border-left: 3px solid var(--neutral-primary); }
+
+/* ─── 토스트 알림 ─── */
+.toast-container {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 2000;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.toast {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-md);
+  padding: 12px 18px;
+  font-size: 13px;
+  color: var(--text-primary);
+  box-shadow: var(--shadow-card);
+  animation: toast-in 0.3s ease both;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  max-width: 320px;
+}
+
+.toast.success { border-left: 3px solid var(--up-primary); }
+.toast.error   { border-left: 3px solid var(--down-primary); }
+.toast.info    { border-left: 3px solid var(--cat-blue); }
+
+@keyframes toast-in {
+  from { opacity: 0; transform: translateX(20px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes toast-out {
+  from { opacity: 1; transform: translateX(0); }
+  to   { opacity: 0; transform: translateX(20px); }
+}
+
+/* ─── 종목 카드 모멘텀 아이콘 ─── */
+.momentum-icon { font-size: 12px; }
+.momentum-icon.up   { color: var(--up-primary); }
+.momentum-icon.down { color: var(--down-primary); }
+
+/* ─── 섹터 바 레이블 ─── */
+.sector-strength-label {
+  font-size: 10px;
+  color: var(--text-muted);
+  font-weight: 600;
+  font-family: var(--font-mono);
+}
+
+/* ─── 뱃지 스타일 공통 ─── */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 8px;
+  border-radius: 99px;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.badge-outline-blue {
+  border: 1px solid rgba(99,179,237,0.3);
+  color: var(--text-accent);
+}
+
+/* ─── 리스크 아이템 날짜 구분선 ─── */
+.risk-divider {
+  height: 1px;
+  background: var(--border-subtle);
+  margin: 4px 0;
+}
+
+/* ─── 로딩 스켈레톤 색상 보정 ─── */
+.index-card .skeleton,
+.stock-card .skeleton,
+.sector-item .skeleton,
+.news-card .skeleton,
+.risk-item .skeleton {
+  margin: 0;
+}
+
+/* ─── 체크포인트 섹션 하단 글로우 ─── */
+.checkpoint-section::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 50%;
+  transform: translateX(-50%);
+  width: 60%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(99,179,237,0.4), transparent);
+}
+
+/* ─── 커스텀 팝업 툴팁 ─── */
+[data-tooltip] {
+  position: relative;
+  cursor: help;
+}
+
+[data-tooltip]::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-sm);
+  padding: 6px 10px;
+  font-size: 11px;
+  color: var(--text-secondary);
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity var(--transition-fast);
+  z-index: 50;
+}
+
+[data-tooltip]:hover::after {
+  opacity: 1;
+}
+
+/* ─── 슬라이드 인 애니메이션 (섹션 진입) ─── */
+.slide-in {
+  animation: slideInLeft 0.5s ease both;
+}
+
+@keyframes slideInLeft {
+  from { opacity: 0; transform: translateX(-24px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+/* ─── Hero 배경 animated gradient ─── */
+@keyframes hero-glow {
+  0%, 100% { opacity: 0.6; }
+  50%       { opacity: 1; }
+}
+
+.market-hero::after {
+  content: '';
+  position: absolute;
+  bottom: -40px; left: 10%;
+  width: 200px; height: 200px;
+  background: radial-gradient(circle, rgba(139,92,246,0.04) 0%, transparent 70%);
+  border-radius: 50%;
+  animation: hero-glow 4s ease infinite;
+  pointer-events: none;
+}
+
+/* ─── 수급 흐름 바 ─── */
+.flow-bar-wrap {
+  display: flex;
+  height: 3px;
+  background: var(--bg-elevated);
+  border-radius: 99px;
+  overflow: hidden;
+  margin-top: 3px;
+}
+
+.flow-bar-fill {
+  height: 100%;
+  border-radius: 99px;
+  transition: width 0.8s ease;
+}
+
+/* ─── 커스텀 스크롤바 (Firefox) ─── */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--bg-elevated) var(--bg-surface);
+}
+
+/* ─── 포커스 스타일 접근성 ─── */
+:focus-visible {
+  outline: 2px solid var(--cat-blue);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
+
+/* ─── 프린트 스타일 ─── */
+@media print {
+  .ticker-tape,
+  .header-controls,
+  .refresh-btn,
+  .site-footer { display: none; }
+  body { background: white; color: black; }
+}
+
+/* ─── 다크모드 미디어 쿼리 (이미 기본 다크) ─── */
+@media (prefers-color-scheme: light) {
+  /* 라이트 모드 override는 추후 구현 예정 */
+}
+
+/* ─── 모바일 접촉 대상 크기 확보 ─── */
+@media (max-width: 768px) {
+  .news-filter-btn,
+  .nav-btn,
+  .refresh-btn {
+    min-height: 36px;
+    min-width: 36px;
+  }
+
+  .ticker-tape {
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .checkpoint-section::after { display: none; }
+
+  .toast-container {
+    bottom: 12px;
+    right: 12px;
+    left: 12px;
+  }
+
+  .toast { max-width: 100%; }
+}
