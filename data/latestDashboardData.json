@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-05-30T14:49:26.896Z",
+    "generatedAt": "2026-05-30T18:17:57.420Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
     "sources": {
-      "news": "google_news_rss (무료)",
+      "news": "mock (기존 유지)",
       "riskCalendar": "mock (기존 유지)",
       "aiSummary": "mock (기존 유지)",
       "disclosures": "mock (기존 유지)",
@@ -27,7 +27,7 @@
         "message": "HTTP 429: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a"
       }
     ],
-    "nextUpdateAt": "2026-05-30T15:19:26.896Z"
+    "nextUpdateAt": "2026-05-30T18:47:57.420Z"
   },
   "overview": {
     "id": "market_overview",
@@ -881,7 +881,7 @@
         "low": 754.69,
         "open": 755.91,
         "prevClose": 754.6,
-        "updatedAt": "2026-05-30T14:49:19.634Z",
+        "updatedAt": "2026-05-30T18:17:03.391Z",
         "isMockData": false
       },
       {
@@ -895,11 +895,11 @@
         "low": 735.25,
         "open": 737.85,
         "prevClose": 735.6,
-        "updatedAt": "2026-05-30T14:49:19.854Z",
+        "updatedAt": "2026-05-30T18:17:03.668Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-05-30T14:49:20.505Z",
+    "collectedAt": "2026-05-30T18:17:04.443Z",
     "provider": "finnhub",
     "isMockData": false
   }
