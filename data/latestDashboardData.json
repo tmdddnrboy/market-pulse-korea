@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-06-01T19:14:10.338Z",
+    "generatedAt": "2026-06-01T23:59:36.563Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -27,7 +27,7 @@
         "message": "HTTP 429: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a"
       }
     ],
-    "nextUpdateAt": "2026-06-01T19:44:10.338Z"
+    "nextUpdateAt": "2026-06-02T00:29:36.563Z"
   },
   "overview": {
     "id": "market_overview",
@@ -502,7 +502,7 @@
   ],
   "news": [
     {
-      "id": "rss_1780341243269_0",
+      "id": "rss_1780358366848_0",
       "headline": "[증시-마감] '파죽지세' 코스피, 8,700선 안착…사상 최고치(종합) - 연합인포맥스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5MeXY0N0wwSWp5QVNIV1ZyOTlYQ2lKOXRTVDI4SEIxNHp1T0tHVk5YREZLb1l6MXBNaWxtNEdFY1l3WUhWUHdHZlRpYzlicVo1Ni1NYjlTRXRLN09CMWQzMkRXT0NXNWRhenhVUDU",
       "insight": null,
@@ -518,7 +518,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780341243270_1",
+      "id": "rss_1780358366848_1",
       "headline": "[주간증시전망] 또 코스피 '사상 최고치'...6월은 '9천피' 시대로? - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWQlJqbWhOWjU0bWdwWWhSOFJaYS1pVHlnaGMzSGVKa01ZN2tFNmlJdTk1VFhtQjhKZzN4VmRSWm1sWGFiX196dTg0TE5vNjQ?oc=5\" target=\"_blank\"&gt;[주간증시전망] 또 코스피",
       "insight": null,
@@ -534,8 +534,40 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780341243270_2",
-      "headline": "젠�� 황 효과에 코스피 8,800 터치 - KB Think",
+      "id": "rss_1780358366848_2",
+      "headline": "“반도체주 쏠림에도 조정 없다…코스피 상승 지속” - 마켓인",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBNQjJFZkhLUkVhcjhWMS12b1lOX2hHRHM2LVg5U2ZZZG5yYmE2Y082dWlnVnktZkFBU21JbVp0eUJZMldJVGhkN19HZHM5WTNIWVpwWXJuOVpTVEo4MXkzMVJ3M1pDTU9NdERnTXd",
+      "insight": null,
+      "source": "마켓인",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNQjJFZkhLUkVhcjhWMS12b1lOX2hHRHM2LVg5U2ZZZG5yYmE2Y082dWlnVnktZkFBU21JbVp0eUJZMldJVGhkN19HZHM5WTNIWVpwWXJuOVpTVEo4MXkzMVJ3M1pDTU9NdERnTXdScVhhc0k?oc=5",
+      "publishedAt": "2026-06-01T23:32:31.000Z",
+      "category": "sector",
+      "categoryLabel": "섹터",
+      "sentiment": "positive",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1780358366849_3",
+      "headline": "[모닝 리포트] \"AI 내러티브가 증시 장악…코스피·코스닥 극단 양극화\" - 뉴스핌",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EOTh4WmhYUGFiWFNBRlV5SjlHcHg0VkNjWG13b3k4Zll3TUZrUVJvUXdOb29PXzVMaDVISzQ4ZkhjMDdQZ3pucUpqOUtmTjA0ZVFvQVk3cnpKNE01?oc=5\" target=\"_blank\"&",
+      "insight": null,
+      "source": "뉴스핌",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EOTh4WmhYUGFiWFNBRlV5SjlHcHg0VkNjWG13b3k4Zll3TUZrUVJvUXdOb29PXzVMaDVISzQ4ZkhjMDdQZ3pucUpqOUtmTjA0ZVFvQVk3cnpKNE01?oc=5",
+      "publishedAt": "2026-06-01T23:21:00.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1780358366849_4",
+      "headline": "젠슨 황 효과에 코스피 8,800 터치 - KB Think",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1va2xIQWJNcUh5M2E1UEZ2akRrdXBQNHN1LTZTZ3JWTjdmS0pzc1BmSFhTUjRSZ3A1OTlZTnBkb3laUEJkNGFJYkpEeFNwLUIxZmlrZEtNdEVvdVdiWWVQdzN0OHJndWNGY2YwTw?",
       "insight": null,
       "source": "KB Think",
@@ -550,39 +582,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780341243270_3",
-      "headline": "이 대통령, ‘반도체 빼면 코스피 4100’ 조선일보 기사에 “축구 실력 빼면 손흥민도 보통 사람?” 반박 - 경향신문",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE13bE9hcy1lQ0NUUWRaa1FyVGRSN0laNkRIQVNuU2VhQ2ZpVlF1TjI5MUEzVzNod0pxV3lyTmdGUzZRWWZST19RenJ5V3M3dkpPb0c3b29tV291d9IBX0FVX3lxTFBmZ21nTWw0M19",
-      "insight": null,
-      "source": "경향신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13bE9hcy1lQ0NUUWRaa1FyVGRSN0laNkRIQVNuU2VhQ2ZpVlF1TjI5MUEzVzNod0pxV3lyTmdGUzZRWWZST19RenJ5V3M3dkpPb0c3b29tV291d9IBX0FVX3lxTFBmZ21nTWw0M19zZVhGdlRQMWtIa3NxT3lEbTFEOTRWamxnX2duZVVVQ2tJZjJaQm1LMFlvYVo4aGRyd3VVQ0hPRnlQRzQwRDgzOG5NM1lma3QwLTFKbm40?oc=5",
-      "publishedAt": "2026-06-01T03:00:00.000Z",
-      "category": "sector",
-      "categoryLabel": "섹터",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1780341243270_4",
-      "headline": "DB증권 \"AI 투자로 상승세 계속…코스피, 하반기 11,700도 가능\" - 연합뉴스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rcjNzUTJMcVNoYWsyV3ZCVXlzQ1hzTEV3a0JsNmt4Snl1ZFF5R3llbEh5ZDNFN1VpMU1pSC10OEZtSzNra2JmRHY3QnJpMUEtRDUwYzhfWW1mZmPSAWBBVV95cUxQRlhJVFh2Y0p",
-      "insight": null,
-      "source": "연합뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rcjNzUTJMcVNoYWsyV3ZCVXlzQ1hzTEV3a0JsNmt4Snl1ZFF5R3llbEh5ZDNFN1VpMU1pSC10OEZtSzNra2JmRHY3QnJpMUEtRDUwYzhfWW1mZmPSAWBBVV95cUxQRlhJVFh2Y0p0cDRJTldyYXdub3g5b2pFaXVrcFVEc0hmdG5PR04tblh2aWVZbElfVGhPMGNhMEdESEVjcFdONTdLZHhYSWVuVklLZzBIRVFmUTZJcktvYUI?oc=5",
-      "publishedAt": "2026-05-31T23:55:32.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "positive",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1780341244169_0",
+      "id": "rss_1780358367677_0",
       "headline": "高금리발 회의론 댓글에도 美증시 붕괴 없는 이유 - 연합인포맥스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5mYk9HbllkSm1Nay1sdGpqdGphTlpINkdLSHRxaS01aFlpNjhRTXdVV1VWNEJTalgtV0RzZ2lmMU02YTlVclZVVUViZWNnbVkteXFIQWlFTVpPRDhjSFVyMWVBUzRqTUJzdElpSUV",
       "insight": null,
@@ -598,7 +598,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780341244169_1",
+      "id": "rss_1780358367677_1",
       "headline": "[투자의 창] 미국 물가와 금리를 주목해야 하는 이유 - 서울경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iNm9mczI3T3hCcmpteF9WMkJPLThTQ1lMMTVrajhIaTVKcnptVURpZHJhVVpHRmdodGdnRUo2Ti1fMHR0RXM2bTBxbV8tcS1qTFHSAVNBVV95cUxQaFo0V3VDTTdnMmxJOGFlVlZ",
       "insight": null,
@@ -614,7 +614,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780341244169_2",
+      "id": "rss_1780358367677_2",
       "headline": "\"한국, 금리인상할 '절묘한 타이밍 왔다\" 주식시장 뒤흔들 '나비효과' - 네이트",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE55Nzh2UW8xaG1lQm9iaEVIdnNlMm1VaVJ2dVpSWUxPaGlNZG5VQkJFc3ZsR0RqdGlOeDZoVG5FblBiSGpweFlaLTBjZm11UEx2c1Vr?oc=5\" target=\"_blank\"&gt;\"한국, 금리인상",
       "insight": null,
@@ -630,7 +630,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780341244169_3",
+      "id": "rss_1780358367677_3",
       "headline": "美 자산운용사 증시, 연준 금리인하 가능성 재조정 안 해 - biz.sbs.co.kr.",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsY1BRaFRlN0FOVUx3NEdkaGZDc2UzRUZTVFdKaXBKWXhDR3RGQnFIRXZFZlJfdEdGZGlVV2NVTW1BV1pZazI2eUJzeVZqWHdwTUpZ0gFYQVVfeXFMTzUxcTFTYzlQX25Ic2lZOXB",
       "insight": null,
@@ -646,7 +646,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780341244169_4",
+      "id": "rss_1780358367677_4",
       "headline": "[마켓노트] 금리가 자산시장을 지배한다 - 연합뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yLTNST05VbExibElmd2pJbDV5WU5vQm9VanhhMEFhSDVOZXBhLVA5a1VRXzFHU19rTkU0YlhYZ3QyMlhTZHA5c0tDVTYwYU1WSWpNWGlRVHQ0QlHSAWBBVV95cUxQNWxTS2xickR",
       "insight": null,
@@ -662,7 +662,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780341245027_0",
+      "id": "rss_1780358368514_0",
       "headline": "코스피로 몰려간 '빚투'…반도체 쏠림에 코스닥 신용잔고 10조도 무너졌다 - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVTVRlamRKZkNNS0J5WUIwYXRHNUpENGV0OWI2UHNKaS1ELUxHcG5hQ2tHcnVsWlUtMFh6a1VsV0cwR0NvdTl5M1dvS0Y0eVk?oc=5\" target=\"_blank\"&gt;코스피로 몰려간 '빚투'…",
       "insight": null,
@@ -678,7 +678,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780341245027_1",
+      "id": "rss_1780358368514_1",
       "headline": "외인, 코스피 '44조' 던지고 코스닥 '2.8조' 담았다 - 뉴스퀘스트",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9jVTZqVDJGYWc0c2JUNmpTTHJtOGd5bjI4M0dFNUE4U05FeFR2Y1FkVUVJbjFRNHhKWHBQMDlwWmdoRm4yS05UeTlVdjc3S2R6UG5NMGVZSHl3NVJ6b2RGM25Eenl6RHdXczB2YmR",
       "insight": null,
@@ -694,7 +694,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780341245028_2",
+      "id": "rss_1780358368514_2",
       "headline": "[코스닥] 2.03포인트(0.19%) 내린 1072.77 출발 - 서울경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qN29EQktBd0xPWHR5aDgzQTZ6YWlYejZncWxsX2tqM3o0ZjcxUXdfaEpLME5KQk5Yc2IwM2tYQnVNZDlFWHVidUhMTzZBWWI1WHfSAVNBVV95cUxNY19pNHQ3RWd6eFdTOWRFdnE",
       "insight": null,
@@ -710,7 +710,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780341245028_3",
+      "id": "rss_1780358368514_3",
       "headline": "[분석] \"코스닥 시간이 온다\"…미래에셋운용, AI·바이오·산업재 성장론 주목 - 오늘경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFB3ZS00SEFsR0x6c3B6UXdZNzYzLTYxSFA1WkRyUzdKajhhSW5aY05yZm5MajQydUczbmwzMHpYZHRhQk1nT0ZseTVYYUVXMEJWdEZ6eTZBN211VXhGYTBLaTRLRUtoTE5QQTRMMUh",
       "insight": null,
@@ -726,7 +726,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780341245028_4",
+      "id": "rss_1780358368514_4",
       "headline": "기관투자자용 국민성장펀드도 시동…코스닥 시장에 힘 될까 - 파이낸셜뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE80bXJBbHJPLUdxZjFqcFhwMlJRTmVLb0RNdzdSMlRxcGdkVG56N0Q4aGp6enlhWk1DaGh0LVZFWl9NVUZQcU1qOTFzM3BVT3FzWW54U3VEMVUxd9IBXkFVX3lxTE1Zc0pZY0MtSzA",
       "insight": null,
@@ -874,32 +874,32 @@
         "symbol": "SPY",
         "label": "S&P 500 ETF",
         "region": "US",
-        "price": 759.58,
-        "change": 3.1,
-        "changePercent": 0.4098,
+        "price": 758.54,
+        "change": 2.06,
+        "changePercent": 0.2723,
         "high": 760.28,
         "low": 754.69,
-        "open": 756.78,
+        "open": 755.36,
         "prevClose": 756.48,
-        "updatedAt": "2026-06-01T19:14:03.075Z",
+        "updatedAt": "2026-06-01T23:59:29.154Z",
         "isMockData": false
       },
       {
         "symbol": "QQQ",
         "label": "NASDAQ 100",
         "region": "US",
-        "price": 744.41,
-        "change": 6.1,
-        "changePercent": 0.8262,
+        "price": 742.74,
+        "change": 4.43,
+        "changePercent": 0.6,
         "high": 745.65,
         "low": 735.99,
-        "open": 739.115,
+        "open": 737.04,
         "prevClose": 738.31,
-        "updatedAt": "2026-06-01T19:14:03.346Z",
+        "updatedAt": "2026-06-01T23:59:29.973Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-06-01T19:14:04.633Z",
+    "collectedAt": "2026-06-01T23:59:31.574Z",
     "provider": "finnhub",
     "isMockData": false
   }
