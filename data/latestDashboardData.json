@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-06-06T08:17:18.287Z",
+    "generatedAt": "2026-06-06T12:19:31.147Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -27,7 +27,7 @@
         "message": "HTTP 429: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a"
       }
     ],
-    "nextUpdateAt": "2026-06-06T08:47:18.287Z"
+    "nextUpdateAt": "2026-06-06T12:49:31.147Z"
   },
   "overview": {
     "id": "market_overview",
@@ -502,7 +502,7 @@
   ],
   "news": [
     {
-      "id": "rss_1780733831288_0",
+      "id": "rss_1780748364128_0",
       "headline": "코스피 '검은 월요일' 온다…\"떨어지는 칼날 잡지마라\" - 연합인포맥스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9wa29ZbFFpUkx2U2xWLXVKd2ppUWNIbmxqMXVOWVgtTjUwd2VSN3AwOFhLT29CUTd4QjhmQlIxLWx5MWgyaGtoeUptRUJBU3lSTDREQXYxakkxRUFUTGZZWmVnb1BlZ2hxRzItNG9",
       "insight": null,
@@ -518,7 +518,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780733831289_1",
+      "id": "rss_1780748364128_1",
       "headline": "美증시 반도체주 시총 하루새 2000조원 증발…코스피 ‘블랙 먼데이’ 우려 - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzMDhCdXk4X2pTZkhjTmZTaVVJWDdoV09FTXR5anBzdzBUSHA0OXRXaUZLUjB4dF9OV0NXWDZ6M1N0TlM2eHZ4VEt1MHd0aGs?oc=5\" target=\"_blank\"&gt;美증시 반도체주 시총 하루",
       "insight": null,
@@ -534,7 +534,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780733831289_2",
+      "id": "rss_1780748364128_2",
+      "headline": "미친 듯이 파는 외국인…증시·환율 '검은 금요일' - 한국경제",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rc2VkUnY5d0ZZZVZMUW44emVIY1g3TDZocnlxdWJOS09KQmZfUUxfbjlQZGdscHlGR1JYWExfcVdJNVdUbmVSaGRPT2J2aHRmMmFuNkRYMmtqQdIBVEFVX3lxTFBEN3J2aXp2amx",
+      "insight": null,
+      "source": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rc2VkUnY5d0ZZZVZMUW44emVIY1g3TDZocnlxdWJOS09KQmZfUUxfbjlQZGdscHlGR1JYWExfcVdJNVdUbmVSaGRPT2J2aHRmMmFuNkRYMmtqQdIBVEFVX3lxTFBEN3J2aXp2amxGcjFmblYyMUFMME0wdW9rZXpwMUkxTjF5UEluMmVEdmpWQl80aGN4UkpiQWRSd2I3ZHlGUmVfVFlhYmdjOWl3S243Ng?oc=5",
+      "publishedAt": "2026-06-06T11:20:47.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1780748364128_3",
       "headline": "“코스피 블랙먼데이 무섭다”…AI 관련주 투매, ‘간달프’도 재등장 [머니+] - 에너지경제신문",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXWGVxN3ZEOXJaV3lpc0JhMzg5Sk9hZ1pHV0xtN1VnOXkzUG1XaExyY3IxSUMtTGVDZHBDbV8yN2RzZnkxczBqS2xqbVpjdTliQmNxQWtVR1NaalU?oc=5\" target=\"_blank\"&g",
       "insight": null,
@@ -550,39 +566,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780733831289_3",
-      "headline": "삼전 –6.40%, SK하닉 –9.92%… 미국발 충격에 반도체주 ‘출렁’ [주간 증시해설서] - 더스쿠프",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBSTjVKTXgwLWZvdjM3UXdLc3FKc3NzUzZtdnowZ0JNZXNQMzJEUW1zX1JMbjFQR2x2VUNaN18tZjZGQklXcld4Tjlhd1NHMVMxaXBNQXBfQUxmOHlzTmEybXcteWJGVnY2TlM5anN",
+      "id": "rss_1780748364128_4",
+      "headline": "코스피 4% 넘게 하락 8,200선까지 밀려‥매도 사이드카도 발령 - MBC 뉴스",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBVU1VvRWtQejB1Qkl1Mm5Ib1JEZUNqVi1SX2NoYUUwNzExNDZvVHBhMTZveE9YVThoaklaZ3dQT09yM3NfUzJsNzhEYWZ0eE9vcEJLLXZhemFCV3BFMkJNRU5QQnBZdEo0SHNOOFZ",
       "insight": null,
-      "source": "더스쿠프",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSTjVKTXgwLWZvdjM3UXdLc3FKc3NzUzZtdnowZ0JNZXNQMzJEUW1zX1JMbjFQR2x2VUNaN18tZjZGQklXcld4Tjlhd1NHMVMxaXBNQXBfQUxmOHlzTmEybXcteWJGVnY2TlM5anNR?oc=5",
-      "publishedAt": "2026-06-06T01:03:46.000Z",
-      "category": "sector",
-      "categoryLabel": "섹터",
-      "sentiment": "neutral",
+      "source": "MBC 뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVU1VvRWtQejB1Qkl1Mm5Ib1JEZUNqVi1SX2NoYUUwNzExNDZvVHBhMTZveE9YVThoaklaZ3dQT09yM3NfUzJsNzhEYWZ0eE9vcEJLLXZhemFCV3BFMkJNRU5QQnBZdEo0SHNOOFZBc3FqWDI50gF0QVVfeXFMT3hKY0p3cThBdnZFVnJ3T21feDBQZUd3M20wU1J4YUJHaXhmeVlpZVNQUkhiWXY4elBZc2FhUlVfM3E3TXAxSUlPcjdMaUJHcVgySWViRmlvN1NFUHdTZFlDbzAxUFFPMkloRkdtbVNhSWFKdzE?oc=5",
+      "publishedAt": "2026-06-05T00:16:14.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "negative",
       "impact": "medium",
       "relatedTickers": [],
       "provider": "google_news_rss",
       "isMockData": false
     },
     {
-      "id": "rss_1780733831289_4",
-      "headline": "[6월 첫째 주 세계경제동향 브리핑] 코스피 8,100선 후퇴…글로벌 증시 동반 조정 - 기호일보",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE8wX05pQVc4TUM1MVpKbmVQQ1AtU0VNQnV5R1VWdjNxLTlWbktHSExCaVllX2RpNGYwcjBQbzBmQzFRdGZVeTRSazFNbkp2eHJISVBPeWxsVDVhZWJqT1JFV3FSZlY0X1BUVjRjX3p",
-      "insight": null,
-      "source": "기호일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wX05pQVc4TUM1MVpKbmVQQ1AtU0VNQnV5R1VWdjNxLTlWbktHSExCaVllX2RpNGYwcjBQbzBmQzFRdGZVeTRSazFNbkp2eHJISVBPeWxsVDVhZWJqT1JFV3FSZlY0X1BUVjRjX3pmcw?oc=5",
-      "publishedAt": "2026-06-06T02:47:07.000Z",
-      "category": "global",
-      "categoryLabel": "글로벌",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1780733832082_0",
+      "id": "rss_1780748364918_0",
       "headline": "연준 금리인상 전망에 뉴욕증시 급락… 3대 지수 하락 - 조선비즈 - Chosunbiz",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlpjSWpCR0VJSFgtZ09Ma0pxeG1TVXYxaEhkc2lhZlN4RWRiMDZwWEMtV0hFWExyY3JSRU4xeTc4UDFBQ2t0Nko4c2dOcUdfblVhZFpkaXBDeTIzTDRsdzB3QVhfVS13LTBVbV8",
       "insight": null,
@@ -598,7 +598,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780733832082_1",
+      "id": "rss_1780748364918_1",
       "headline": "나스닥 4.2% 폭락, 금리인상 공포 덮친 월가 - 마켓인",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE4ySzMwNE03VnVGOXhDaUNucm5DblJ0dU1ITXJNaTFZTzJyVERvUFhWOFp1S0hRdGtqMGxuV2RHakZJUWNRUk85V05HRm9wQkZZLXF5RGpCSHhNY29wdVd5S3Q2SmZSX2RaOU41dXV",
       "insight": null,
@@ -614,7 +614,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780733832082_2",
+      "id": "rss_1780748364918_2",
       "headline": "'검은 금요일' 뉴욕증시... 美연준 금리인상 가능성 확대에 급락 - 글로벌경제신문",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBjVWR1c3JVREpLRG5kU0RwSVREMVZHa19jRFNLOW9LcWdBbjJyYVlzWjVSTWpKbGprVUQ4MHFfcm1IZnpKaWhZRFhxLVlvVHRBNmkzV1hCa19RVkVpUmdjTHNGeEZnNVRUMWtlQdI",
       "insight": null,
@@ -630,7 +630,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780733832082_3",
+      "id": "rss_1780748364918_3",
       "headline": "뉴욕증시, 금리 쇼크에 엔비디아·SOXL 급락 - TopStarNews",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBsQXA5M3JudmRHSmpGSXR1LUc2Qjl5OU9zQmk1TGttVE0tZWp1bDlaOHpKYlNDRElfQzc3bUdUMjNqa1d0WDhydlZFTjE1TWthRV82OUZNbk9PQXhyVjRNME00bVNScG02RXplS2R",
       "insight": null,
@@ -646,7 +646,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780733832082_4",
+      "id": "rss_1780748364918_4",
       "headline": "나스닥 4.2% 급락…AI 거품 우려·금리인상 전망에 투매 - 마켓인",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE0xb2VRbGRHUHhzclM1U3dxelNqN1o0MFdyM1lNX3dUNnJZM0dPcW82X3Zwd015VEs0YXNSUDRXQlZ0MHctampyMWVqZ0JSZkVJSUZULUZNUFVvNXYxVmRKcXE0Yk9sdE5EQVJ3QUt",
       "insight": null,
@@ -662,7 +662,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780733832949_0",
+      "id": "rss_1780748365762_0",
       "headline": "소외된 코스닥에…당국, 시장 활성화 방안 찾는다 - 서울경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Edy1HZWV5STk1bDVtMXhENVJXQXEwdmNabTZCMHRUVVFkaVRwazgtVHdIWi1TT3ZydC1jXzJ6UE9YcTBiT2JaMklrZG1CeURRU1HSAVNBVV95cUxQTTVyVno2QkdiTjVza3BmUWV",
       "insight": null,
@@ -678,7 +678,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780733832949_1",
+      "id": "rss_1780748365762_1",
       "headline": "[고침] 경제('검은 금요일' 코스닥 5%대 급락해 8,160…코…) - 매일경제 마켓",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mZmUtRDJLX3V1UnBLbnYzYkZDM1JVNFh4bS1TVHRfdnFUUmx1ZVhYSUVXU05mX3h4bmpLelN5Z1JKMGtINUh6TEJjamptM0pDeXc?oc=5\" target=\"_blank\"&gt;[고침] 경제('검",
       "insight": null,
@@ -694,7 +694,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780733832949_2",
+      "id": "rss_1780748365762_2",
       "headline": "‘상한가 하루 만에 급락’ 코스닥 반도체 소부장株 ‘출렁’ - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zd2hGTHVlNEphcXczcmQxS2xIeFdWaF9LQUc0RE9VRzdQaFJEVlhpMm1wYjFMeU05ZURQWWNlQm5Cak9EWEdRcTFjd2EwTnc?oc=5\" target=\"_blank\"&gt;‘상한가 하루 만에 급락’",
       "insight": null,
@@ -710,7 +710,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780733832949_3",
+      "id": "rss_1780748365762_3",
       "headline": "[속보] 코스닥, 1000선 붕괴…4%대 급락 - 아주경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FWm52WmZQQXBPeGhtX3VyLTAwNXJiWF9zX1ZYWEVhZmpvVHNldXc2Ml9mYVJQWDBIdU1oOEItQjYwRm94Qm9rY1oxdUVGQlZDRmZvSnJrVHVLQdIBWEFVX3lxTE8yNlY4MGZMWml",
       "insight": null,
@@ -726,7 +726,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1780733832949_4",
+      "id": "rss_1780748365762_4",
       "headline": "'하나 빼고 모조리 하락', 지금 불장 맞아?…코스닥 '곡소리' 언제까지 [투자360] - 네이트",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TVWZBM1RJbW5JVDAwQ21DVjlsUktfUVc1cktrMUcwM0xJTU1OajNwXy1UMEdIUXBHN2djUml2UFpsM3kxVm82Yk5GQ3BnZzRYNWFj?oc=5\" target=\"_blank\"&gt;'하나 빼고 모조",
       "insight": null,
@@ -881,7 +881,7 @@
         "low": 735.525,
         "open": 752.31,
         "prevClose": 757.09,
-        "updatedAt": "2026-06-06T08:17:11.051Z",
+        "updatedAt": "2026-06-06T12:19:23.828Z",
         "isMockData": false
       },
       {
@@ -895,11 +895,11 @@
         "low": 704.32,
         "open": 730.06,
         "prevClose": 740.61,
-        "updatedAt": "2026-06-06T08:17:11.279Z",
+        "updatedAt": "2026-06-06T12:19:24.112Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-06-06T08:17:11.931Z",
+    "collectedAt": "2026-06-06T12:19:24.871Z",
     "provider": "finnhub",
     "isMockData": false
   }
