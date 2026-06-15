@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-06-15T16:22:43.394Z",
+    "generatedAt": "2026-06-15T23:17:01.297Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -22,16 +22,12 @@
         "message": "HTTP 400: https://pro-api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,ripple,solana&order=market_cap_desc&per_page=10&page=1&price_change_percentage=24h"
       },
       {
-        "section": "disclosures",
-        "message": "Timeout (12000ms): https://opendart.fss.or.kr/api/list.json?crtfc_key=9958558ff66adb6916012fa072f58041e75b4a81&bgn_de=20260615&end_de=20260615&pblntf_ty=A&corp_cls=Y&page_no=1&page_count=10"
-      },
-      {
         "section": "aiSummary",
         "provider": "gemini",
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API Key not found. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-06-15T16:52:43.394Z"
+    "nextUpdateAt": "2026-06-15T23:47:01.297Z"
   },
   "overview": {
     "id": "market_overview",
@@ -506,7 +502,23 @@
   ],
   "news": [
     {
-      "id": "rss_1781540539039_0",
+      "id": "rss_1781565414405_0",
+      "headline": "[코스피 1만시대]③국내 증권사 센터장 11명 중 9명 \"연내 1만피\" - 아시아경제",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Sc0JNSWxDWGZZaTFvbTJ1NlVZb0hXYVdqYjBNS2RfUUtzSXVUeUNVVUItbWxLNGctU3M4dXB1cm1SSTQ2elVVWHlMOFFhdGltand3ZDhfZmdNQ0lJWXNvNXhR?oc=5\" target=\"",
+      "insight": null,
+      "source": "아시아경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Sc0JNSWxDWGZZaTFvbTJ1NlVZb0hXYVdqYjBNS2RfUUtzSXVUeUNVVUItbWxLNGctU3M4dXB1cm1SSTQ2elVVWHlMOFFhdGltand3ZDhfZmdNQ0lJWXNvNXhR?oc=5",
+      "publishedAt": "2026-06-15T22:40:20.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1781565414406_1",
       "headline": "코스피, 5%대↑ 8,500선 유지…\"중동 리스크 완화, 투심 회복\" - 연합뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zYXdsMjVIOVVDSXlmSGdxckRGSjc4M3JudGw5NXBBdEl3OWZYTGZGMFV2aGtwUEp5VjdwSkxRaHl1RzlyM0lxbkJacnZ1THRSZTBndnlQSTJYU29JMlVINNIBYEFVX3lxTE9zYXd",
       "insight": null,
@@ -522,7 +534,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1781540539040_1",
+      "id": "rss_1781565414406_2",
       "headline": "[오늘의증시] 코스피, 중동 훈풍에 5%대 급등…8,500선 회복 - 경인방송 뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wRElibFFoQkpZODBDQzFxZDU5ZlZTVEZCTjRGUkw2TjZyODA3NmdhVDc5VEQ4bDNvUEF3TkhUTkJwWHgzVGJVQnZTOFRwVmtaYmtyeGtfb050cVFVTE1DUEZUVzFvSDdJ0gFoQVV",
       "insight": null,
@@ -538,7 +550,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1781540539040_2",
+      "id": "rss_1781565414406_3",
       "headline": "국내증시, 대형주 쏠림 심화...코스피 급등에 코스닥 강보합 - 오피니언뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAtREtna0Fjd0huVTk4RnFraXFzbHFMeWxjazhLRVdERklTakc0RkI0WklleC1zQ0d6N1RhbGJsOVkta3BDRmppN0pYZTFHYzJmVUN5dWw0dnZKaUZjVEJJZDc3WVdDblZ1MXB3cDR",
       "insight": null,
@@ -554,13 +566,13 @@
       "isMockData": false
     },
     {
-      "id": "rss_1781540539040_3",
-      "headline": "'종전 훈풍'에 코스피, 다시 8500선 뚫었다 - 오마이뉴스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE82Uklvc2JyVWFuTUtaanFqZHBJRGs5VWlGczdVNFIwZ29FeHlHaDNLdktPcDZ0ajBxMkkxNWJ3V0NIa1IyZGtnV1Z5TEEyWld4RDhvVzJVdWtGX3FDOTdZeDdJZmlrd3FMakUxdm5",
+      "id": "rss_1781565414406_4",
+      "headline": "종전 소식에 탄력 받은 코스피… 이제 케빈 워시 입만 본다 - v.daum.net",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lZHJLVUphTHN4OXplZmFXV2x6WDQyUnp1QTR4U1R6YUZOSUxESjZnUHM0aXlDQlA4WkpLOHZIWVBMV2Zpb3BFaEx0OGY5SzQ?oc=5\" target=\"_blank\"&gt;종전 소식에 탄력 받은 코",
       "insight": null,
-      "source": "오마이뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82Uklvc2JyVWFuTUtaanFqZHBJRGs5VWlGczdVNFIwZ29FeHlHaDNLdktPcDZ0ajBxMkkxNWJ3V0NIa1IyZGtnV1Z5TEEyWld4RDhvVzJVdWtGX3FDOTdZeDdJZmlrd3FMakUxdm5ndFRiTGlNR3FF?oc=5",
-      "publishedAt": "2026-06-15T07:39:00.000Z",
+      "source": "v.daum.net",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lZHJLVUphTHN4OXplZmFXV2x6WDQyUnp1QTR4U1R6YUZOSUxESjZnUHM0aXlDQlA4WkpLOHZIWVBMV2Zpb3BFaEx0OGY5SzQ?oc=5",
+      "publishedAt": "2026-06-15T17:07:38.000Z",
       "category": "macro",
       "categoryLabel": "거시경제",
       "sentiment": "neutral",
@@ -570,15 +582,15 @@
       "isMockData": false
     },
     {
-      "id": "rss_1781540539040_4",
-      "headline": "“주식 안 하면 손해?”…코스피 최고치 행진에 ‘빚투’ 다시 고개 - 진일보",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9mcWlsUDNFNWlNNkJObnhvNWZyTGsyRWxHZzZfV2d1dWVmTTZ6M1VWWWlIdG5mQk11SFVEc1ZxdW1hQmZLdlduaHhFandJSFNsdGM3Z0hyUVEweW83YmN0RERjZU9XRWdlNG9oTWt",
+      "id": "rss_1781565415304_0",
+      "headline": "전쟁 끝나고 미국 금리 내리면 또 불장? 오건영 \"안 믿는다\" - 조선일보",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOOVFVOUhMRVhMN2sxbVVELWVaT0FZUGFvbl93MXBSUld3UzY1MXYxUEFNb0dLRm15OHFPY0ZVdXdoOU5fZ01uN2ZmOXNJRzFtaFlCV0hZNm9PR0x3TjJVQTNEUlNsTEpNS2JIYmF",
       "insight": null,
-      "source": "진일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mcWlsUDNFNWlNNkJObnhvNWZyTGsyRWxHZzZfV2d1dWVmTTZ6M1VWWWlIdG5mQk11SFVEc1ZxdW1hQmZLdlduaHhFandJSFNsdGM3Z0hyUVEweW83YmN0RERjZU9XRWdlNG9oTWtfNA?oc=5",
-      "publishedAt": "2026-06-15T15:16:44.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
+      "source": "조선일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOVFVOUhMRVhMN2sxbVVELWVaT0FZUGFvbl93MXBSUld3UzY1MXYxUEFNb0dLRm15OHFPY0ZVdXdoOU5fZ01uN2ZmOXNJRzFtaFlCV0hZNm9PR0x3TjJVQTNEUlNsTEpNS2JIYmFfQW40VTNUeU5MOWd1bTRqWjA2TQ?oc=5",
+      "publishedAt": "2026-06-15T20:30:00.000Z",
+      "category": "fed",
+      "categoryLabel": "연준",
       "sentiment": "neutral",
       "impact": "medium",
       "relatedTickers": [],
@@ -586,7 +598,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1781540539938_0",
+      "id": "rss_1781565415304_1",
       "headline": "기정사실화된 금리인상… ‘주식시장 악재’ 공식 깨지나 - 더쎈뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KSTFyWWtfR0lxUm12Umo4ZFdVWHg4Y2dWTEtmQnZtUGVlUTJaMExQY1dlWnNQanp6c29HYzNXbk5GUGJIU1NhY3NtU3dLMWd6NlNmZzhiNGdaUDZwLTltZVhJa0dkd1l0?oc=5\" ",
       "insight": null,
@@ -602,7 +614,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1781540539938_1",
+      "id": "rss_1781565415304_2",
+      "headline": "금리·환율에 갇힌 유동성…130조 순매도한 외인이 노리는 ‘진짜 타이밍’[포스트워 투자전략] - 한경매거진&북",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBDMC0wOFAxd2ZmMXpnX3p3UkxvblQ0NVkxS2NaU1hYRHlSdERpcDhFaTZfdDdXUldEVy1GLWVmNzNIbmJUU01MN1l2U3J6WkJZM3ZBVHpwa1JLYjlWdTNBbVpTTEdYdHRJZmx6eQ?",
+      "insight": null,
+      "source": "한경매거진&북",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDMC0wOFAxd2ZmMXpnX3p3UkxvblQ0NVkxS2NaU1hYRHlSdERpcDhFaTZfdDdXUldEVy1GLWVmNzNIbmJUU01MN1l2U3J6WkJZM3ZBVHpwa1JLYjlWdTNBbVpTTEdYdHRJZmx6eQ?oc=5",
+      "publishedAt": "2026-06-12T07:00:00.000Z",
+      "category": "fed",
+      "categoryLabel": "연준",
+      "sentiment": "negative",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1781565415304_3",
       "headline": "[종전 합의] 日 전문가들 \"장기금리 2.5%대 가능\" - KB Think",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBnaTBYWVlqaVdnenJCbmRsbkpxbzRhWmRudTZGb1A4RUhxbEJyQUZFWU43RmEtTGhmSE9jQmhZNUs1LUlvbGR2dmltZU9BdEtzcTgtdFozclUycUROOVpscjVNUkYydkliVHRCa1J",
       "insight": null,
@@ -618,13 +646,13 @@
       "isMockData": false
     },
     {
-      "id": "rss_1781540539938_2",
-      "headline": "“금리가 오르면 주가는 내린다?”… 오랜 공식이 깨진다 [금리인상의 시간] - 한경매거진&북",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96WFIwWkZ0ZXZNcjNWTXd3eGxhQ1ZCY3ZQdlY0NllCTGxzM0d5ZDZQa2gwQTluQ2dZbjFBZ1BqSkY0TXR5a3dLSWs3dkxwdUlnNU5Uc0JIZnBDeUsyMXJ2UDdQZXo1bG8?oc=5\" t",
+      "id": "rss_1781565415304_4",
+      "headline": "[아주사설｜기본·원칙·상식] 스페이스X 상장도, 전쟁도 끝나…투자자 관심은 금리 - 아주경제",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjbmZIelZvMGtzNFhPQXFzMjJDRm9WNk1KUzR0U1NfRkdlcGhJWV83S2NSeGNtUDc1alpDbmptb1YwY0pUQU91UTh4NDZLajlPa0tYN1JRek3SAVhBVV95cUxQY25mSHpWbzBrczR",
       "insight": null,
-      "source": "한경매거진&북",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96WFIwWkZ0ZXZNcjNWTXd3eGxhQ1ZCY3ZQdlY0NllCTGxzM0d5ZDZQa2gwQTluQ2dZbjFBZ1BqSkY0TXR5a3dLSWs3dkxwdUlnNU5Uc0JIZnBDeUsyMXJ2UDdQZXo1bG8?oc=5",
-      "publishedAt": "2026-06-14T23:35:27.000Z",
+      "source": "아주경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjbmZIelZvMGtzNFhPQXFzMjJDRm9WNk1KUzR0U1NfRkdlcGhJWV83S2NSeGNtUDc1alpDbmptb1YwY0pUQU91UTh4NDZLajlPa0tYN1JRek3SAVhBVV95cUxQY25mSHpWbzBrczRYT0FxczIyQ0ZvVjZNSlM0dFNTX0ZHZXBoSVlfN0tjUnhjbVA3NWpaQ25qbW9WMGNKVEFPdVE4eDQ2S2o5T2tLWDdSUXpN?oc=5",
+      "publishedAt": "2026-06-15T05:21:42.000Z",
       "category": "fed",
       "categoryLabel": "연준",
       "sentiment": "neutral",
@@ -634,39 +662,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1781540539938_3",
-      "headline": "6월 FOMC, 나스닥은 상승할 수 있을까? - 네이버 프리미엄콘텐츠",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOb29odjd0RkNvUlk3bUg0YVBscmxqZUFFRnUzcFktcWNmaGg0YnZUcjFuRWJSaWkydUNlUG5Qd0k5OHZrd1RuLUpGQWh4bkpHc3BYZkxhWlExN3lwd1N5YjRtVk44dml0dmQwRDJ",
-      "insight": null,
-      "source": "네이버 프리미엄콘텐츠",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb29odjd0RkNvUlk3bUg0YVBscmxqZUFFRnUzcFktcWNmaGg0YnZUcjFuRWJSaWkydUNlUG5Qd0k5OHZrd1RuLUpGQWh4bkpHc3BYZkxhWlExN3lwd1N5YjRtVk44dml0dmQwRDJWWm1YRDFPMndDLVM5Qy1OTEx1ckRrQQ?oc=5",
-      "publishedAt": "2026-06-15T02:40:00.000Z",
-      "category": "fed",
-      "categoryLabel": "연준",
-      "sentiment": "positive",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1781540539938_4",
-      "headline": "[하반기 자산 전망] 주식시장 변동성 대비 전략 필요…AI 주도권은 굳건 - ebn.co.kr",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKYUR5UEhuOHcwOVZ4ZDZRUmJ5MWZ3cHhuUzdUYTZ3UVktaGNhSFpra280ZVpUUG9QX2NKRC1rLU9DTnREUk5FaDNmeUstZTgzY1RtUXNscFA4ZC1aX3VSS3VWX1BVTzIw?oc=5\" ",
-      "insight": null,
-      "source": "ebn.co.kr",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKYUR5UEhuOHcwOVZ4ZDZRUmJ5MWZ3cHhuUzdUYTZ3UVktaGNhSFpra280ZVpUUG9QX2NKRC1rLU9DTnREUk5FaDNmeUstZTgzY1RtUXNscFA4ZC1aX3VSS3VWX1BVTzIw?oc=5",
-      "publishedAt": "2026-06-15T02:02:28.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1781540540756_0",
+      "id": "rss_1781565416120_0",
       "headline": "“코스닥 상장사 20%가 상폐 대상 위기” 벤처업계 李정부 자본시장 개편에 ‘자금 위축’ 우려 [중기+] - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE80RmNXNG1WS3JFOTkycTVLQzhXOHBLOWlmVnphQ1pxWlkzOEsyMDhlRmJiR2E1U2RXU1kxdTVtREJaMFByT01TaDdBUUhPb1U?oc=5\" target=\"_blank\"&gt;“코스닥 상장사 20%가 ",
       "insight": null,
@@ -682,13 +678,13 @@
       "isMockData": false
     },
     {
-      "id": "rss_1781540540756_1",
-      "headline": "[코스닥] 19.14포인트(1.86%) 오른 1048.19 출발 - 서울경제",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KWDNaSG05SVQ4cXc1MmctRzJGZWJacVk0Qnd3TTVSMlJsejZ5ampXeG9WcGpJd2J6RHN2Nml6OThBSnpTNE15MHYyTW9iYTZfakHSAVNBVV95cUxOak5UZ3lQeU5qenN5YnhhVFN",
+      "id": "rss_1781565416120_1",
+      "headline": "[코스닥] 4.98포인트(0.48%) 오른 1034.03 마감 - 서울경제",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qNm5aUWxDZWg4ZmRyNHNDc2F1a0d2ZXZBOUVvSW4tYTY3a3M5NzZnUlZqa1VkSzl0RXNqS1FZMnljUHBLYjd3T0FLTXhaVTJVMnc?oc=5\" target=\"_blank\"&gt;[코스닥] 4.98",
       "insight": null,
       "source": "서울경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KWDNaSG05SVQ4cXc1MmctRzJGZWJacVk0Qnd3TTVSMlJsejZ5ampXeG9WcGpJd2J6RHN2Nml6OThBSnpTNE15MHYyTW9iYTZfakHSAVNBVV95cUxOak5UZ3lQeU5qenN5YnhhVFNkZnpGXy1OejRQS1V3TDJXSjZrTEtUOHd6cXppYkpPWXI3ZVB5MnZBRmNyTHZ3RWhzOWRmYnJMSFp5bw?oc=5",
-      "publishedAt": "2026-06-15T00:08:37.000Z",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qNm5aUWxDZWg4ZmRyNHNDc2F1a0d2ZXZBOUVvSW4tYTY3a3M5NzZnUlZqa1VkSzl0RXNqS1FZMnljUHBLYjd3T0FLTXhaVTJVMnc?oc=5",
+      "publishedAt": "2026-06-15T06:34:52.000Z",
       "category": "macro",
       "categoryLabel": "거시경제",
       "sentiment": "neutral",
@@ -698,8 +694,8 @@
       "isMockData": false
     },
     {
-      "id": "rss_1781540540756_2",
-      "headline": "\"스페이스X, 흑자라서 상장했나 테슬라도 10년 적자\"...벤처업계, 코스닥 개편에 '반발' - 아시아타임즈",
+      "id": "rss_1781565416120_2",
+      "headline": "\"스페이스X, 흑자라서 상장했나 테슬라도 10년 적자\"...벤처업계, 코스닥 개편�� '반발' - 아시아타임즈",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE00bEdGUk1YcmVFVFRGcE0xYjhialZnVG9ieHpXTE81Yy1fVEE2MUVsOWN4enMyOV9JRk03ZTd6cjdYRzRNbE1zc2dhRFBGVjVtVldKcG1XUm5zazBOZFE?oc=5\" target=\"_blan",
       "insight": null,
       "source": "아시아타임즈",
@@ -714,7 +710,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1781540540756_3",
+      "id": "rss_1781565416121_3",
       "headline": "[현장] \"부실 퇴출은 공감\" 벤처업계, 코스닥 개편 속도조절 요구 - 프라임경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1qV0xqc3NDT1pHaFNKNHd4M3FBSGR4a0JHbXVVU1NVZWJVZWNxclZHTVpXRGpTQ0g3ZFNGVlBxZ1IyLXE3V1hTaUFKd2d6cW41NVZJa3NaREpQTkFaaU5IeS1hSk5jYmZjM0N2Nw?",
       "insight": null,
@@ -730,7 +726,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1781540540756_4",
+      "id": "rss_1781565416121_4",
       "headline": "하반기 호재 줄줄이 대기… 코스닥 ETF 향하는 뭉칫돈 - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE03RGlGb2dhWW9PNkwxZTNqY0x4NTRVdUUxcmtTbEp6aGRFUkxydF91aTI5UDh4QnNwN1B3Q3NJTTRUeThYRXNHd2ZBckc1ZWc?oc=5\" target=\"_blank\"&gt;하반기 호재 줄줄이 대기…",
       "insight": null,
@@ -878,32 +874,32 @@
         "symbol": "SPY",
         "label": "S&P 500 ETF",
         "region": "US",
-        "price": 756.24,
-        "change": 14.49,
-        "changePercent": 1.9535,
+        "price": 754.83,
+        "change": 13.08,
+        "changePercent": 1.7634,
         "high": 756.68,
-        "low": 751.2,
-        "open": 751.2,
+        "low": 751.76,
+        "open": 751.85,
         "prevClose": 741.75,
-        "updatedAt": "2026-06-15T16:22:18.747Z",
+        "updatedAt": "2026-06-15T23:16:53.887Z",
         "isMockData": false
       },
       {
         "symbol": "QQQ",
         "label": "NASDAQ 100",
         "region": "US",
-        "price": 744.1,
-        "change": 22.76,
-        "changePercent": 3.1552,
-        "high": 744.52,
-        "low": 737.03,
-        "open": 737.03,
+        "price": 744,
+        "change": 22.66,
+        "changePercent": 3.1414,
+        "high": 744.7599,
+        "low": 737.38,
+        "open": 738.1,
         "prevClose": 721.34,
-        "updatedAt": "2026-06-15T16:22:19.043Z",
+        "updatedAt": "2026-06-15T23:16:54.154Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-06-15T16:22:20.283Z",
+    "collectedAt": "2026-06-15T23:16:54.841Z",
     "provider": "finnhub",
     "isMockData": false
   }
