@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-06-24T17:32:52.887Z",
+    "generatedAt": "2026-06-24T22:48:17.664Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API Key not found. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-06-24T18:02:52.888Z"
+    "nextUpdateAt": "2026-06-24T23:18:17.664Z"
   },
   "overview": {
     "id": "market_overview",
@@ -502,7 +502,7 @@
   ],
   "news": [
     {
-      "id": "rss_1782322366006_0",
+      "id": "rss_1782341290802_0",
       "headline": "증시 급등락에…코스피 변동성지수, 금융위기 이후 최고치(종합) - 연합뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFByVElfeVRoMXFWSC1jY1RfZUZKUWxTcGxrcjhiMWFTeThzd1NSTW01bjFiUjVDVWRQMFQwRGVZTmg0dHpWd0w0eVVkbEF0VHpCYkNxVnZNTzJvM1k4STJDT9IBYEFVX3lxTFByVEl",
       "insight": null,
@@ -518,23 +518,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782322366006_1",
-      "headline": "레버리지가 만든 ‘롤러코스피’...증시 변동성은 금융위기 수준 웃돌아 - 조선일보",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPbnBjUHF4S1BocTdXelZfLXlUX29XNWQ4RENOMGFHNHpRYmRZcGRYU0ZrSlF6Uk9BZGRNQ2dwZmFIRlYzWDZMbUZZTTY2aUJDVy1zSjVVM3Q3bDdNOUd3am9oNGZiNmpZaU5GTGZ",
-      "insight": null,
-      "source": "조선일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbnBjUHF4S1BocTdXelZfLXlUX29XNWQ4RENOMGFHNHpRYmRZcGRYU0ZrSlF6Uk9BZGRNQ2dwZmFIRlYzWDZMbUZZTTY2aUJDVy1zSjVVM3Q3bDdNOUd3am9oNGZiNmpZaU5GTGZMYzhLZGxaUGUtT18tQTJOTmltaA?oc=5",
-      "publishedAt": "2026-06-23T23:44:07.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "negative",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1782322366007_2",
+      "id": "rss_1782341290803_1",
       "headline": "[증시-마감] 되찾은 '왕좌'…삼성전자 10% 폭등에 코스피 267P 솟구쳤다 - 연합인포맥스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1IUDNRYVNFTFlWZ0Z1NkxvY3pJcmxLeFE1ZDB2X3NWaHJ5bExibnl4LTRBLUs5NXV4UHFXckFZTUliQjZjaFpkZkZ6MW5tZWlTVDA2alZDUlpqNXhENmlhZWIzQmNha0I5ak5ybzN",
       "insight": null,
@@ -550,7 +534,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782322366007_3",
+      "id": "rss_1782341290803_2",
       "headline": "[투자 노하우] 뉴욕증시, 코스피 지수 하락 및 아시아 약세 영향 - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YTXR3TmV6eDFKYmw1YjZhcFZUWlZodldjZktRUjFNeXZWRDFwUG5IWE8xU3I3MGFMOXg3eU1nTGhfci1RdTVfUnhqRHlMQUU?oc=5\" target=\"_blank\"&gt;[투자 노하우] 뉴욕증시,",
       "insight": null,
@@ -566,13 +550,13 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782322366007_4",
-      "headline": "코스피, 어제 급락 딛고 3%대 상승 마감‥8,400선 회복 - MBC 뉴스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBRQ21LY0dVZ2Z1Vm1mNnFGNExkM2tfYTg5cFpZWjhlbTZjUEVabDhnaTJBR0NYV3pCQTh5bF9DRnBRYUNmN3lneGY4UEN5LWNfcmxkWWxuWTJJOHpCNzFMVW1DV05ZYmNPQjhnazk",
+      "id": "rss_1782341290803_3",
+      "headline": "[자막뉴스] \"한국 증시 위험하다\" 전문가 경고...사상 최고 코스피의 불안한 민낯 - YTN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YZEVEV3FFam1GUWJWNFJ4VlZZeHgyWWlnN3RfbHJFRHhaWmhKUE9ZMm55MFBZeHRWeGg2dlBFQ0Jmc1h3X2NYTzgyZzBVaV9mR1RPcC1GYjk3X1FKSFE?oc=5\" target=\"_blan",
       "insight": null,
-      "source": "MBC 뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRQ21LY0dVZ2Z1Vm1mNnFGNExkM2tfYTg5cFpZWjhlbTZjUEVabDhnaTJBR0NYV3pCQTh5bF9DRnBRYUNmN3lneGY4UEN5LWNfcmxkWWxuWTJJOHpCNzFMVW1DV05ZYmNPQjhnazk0aVhtdkU50gF0QVVfeXFMTzlRSFgxNmtDR3pqbWc1VmRtamJoOTVIUmVQRjhkSV9pYTI3ZkgwRm1oa2Z3YmZZaXVyZnJHUTRXWndVMWpGMGhXRVo1MnRSVmdheGpUWlVJZkFqdmdTWER2VF9sN0J2TGowcjN5ODVlNjBpdHU?oc=5",
-      "publishedAt": "2026-06-24T06:51:42.000Z",
+      "source": "YTN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YZEVEV3FFam1GUWJWNFJ4VlZZeHgyWWlnN3RfbHJFRHhaWmhKUE9ZMm55MFBZeHRWeGg2dlBFQ0Jmc1h3X2NYTzgyZzBVaV9mR1RPcC1GYjk3X1FKSFE?oc=5",
+      "publishedAt": "2026-06-21T10:33:00.000Z",
       "category": "macro",
       "categoryLabel": "거시경제",
       "sentiment": "neutral",
@@ -582,7 +566,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782322366848_0",
+      "id": "rss_1782341290803_4",
+      "headline": "레버리지가 만든 ‘롤러코스피’...증시 변동성은 금융위기 수준 웃돌아 - 조선일보",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPbnBjUHF4S1BocTdXelZfLXlUX29XNWQ4RENOMGFHNHpRYmRZcGRYU0ZrSlF6Uk9BZGRNQ2dwZmFIRlYzWDZMbUZZTTY2aUJDVy1zSjVVM3Q3bDdNOUd3am9oNGZiNmpZaU5GTGZ",
+      "insight": null,
+      "source": "조선일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbnBjUHF4S1BocTdXelZfLXlUX29XNWQ4RENOMGFHNHpRYmRZcGRYU0ZrSlF6Uk9BZGRNQ2dwZmFIRlYzWDZMbUZZTTY2aUJDVy1zSjVVM3Q3bDdNOUd3am9oNGZiNmpZaU5GTGZMYzhLZGxaUGUtT18tQTJOTmltaA?oc=5",
+      "publishedAt": "2026-06-23T23:44:07.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "negative",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1782341291669_0",
       "headline": "뉴욕 증시 3대 지수 일제히 하락…나스닥, 2% 넘게 뚝 - 조선일보",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNZXBXTDNrRm5oZUNUallxZ3JXN3ZWTHc0S1BrUTZSYWduSm40c3owSzdkcDJjeWFVQzg4VWVOeDFEbWo2VnNQbFBmV3N1YVhUaExNRThJYkMxOS05S1ktS3Zra3RzRFdiQnUxaVh",
       "insight": null,
@@ -598,7 +598,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782322366848_1",
+      "id": "rss_1782341291669_1",
       "headline": "주식 ‘빚투’ 올해 11.2조↑사상 최대…한은 “금리인상기 더 큰 충격 온다” [금융안정보고서] - 헤럴드경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xLVM2eUtIVU9xMHd0M0o0RkFzTWUybG5qVWc5TmJIbFc2c0l3THg2RDdzbjBudzMwVHF0N052azhVR21HT2tmbUFYTHg3M21SX2RMbmF3?oc=5\" target=\"_blank\"&gt;주식 ‘빚",
       "insight": null,
@@ -614,7 +614,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782322366848_2",
+      "id": "rss_1782341291669_2",
       "headline": "하반기 시장, 금리 인상 분위기에서 답을 찾아라 - 한국경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NVlhjZDkwLWJ3ZVVWdEdtNUNQNnlyMFJyamZMOFV5czFsNmwwRnhMSVRvb0cyaURNMXFxNzBQQnJnQ25BM0w2d0h6N1U3Wjh0Wi16S0JTcjd5QdIBVEFVX3lxTFBuWmtpWGFvUVM",
       "insight": null,
@@ -630,7 +630,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782322366848_3",
+      "id": "rss_1782341291669_3",
       "headline": "���장이 10개월 만에 기준금리 6회 인하 전망에서 2회 인상 전망으로 돌아선 이유 - Investing.com 한국어",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE82cjQwZ2diVFlPaXlnSk1VV3B5V2pUa1diNVYzal92ZUNNRS1YZEhEZm9CSndUOTRkRWM1WkRrV1I4aDM0b0lpV21GcnVjQWlibXZKekx0dXR5bmdKQXJ6cA?oc=5\" target=\"_b",
       "insight": null,
@@ -646,7 +646,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782322366848_4",
+      "id": "rss_1782341291669_4",
       "headline": "금리인상 앞둔 한은의 경고…\"사상 최대 빚투·레버리지 ETF 후폭풍 우려\" - 뉴시스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uZDVjZ1VLdl9ieGxuRVF3WmFoVUQ0REZPNG9lWkFhVmlTLVJaWURGMjRJZ1pRSjNpb1BINW05WHpjbEZnSDVBQ0ZSUGoxdFJLaGw1UXppSXVrYUVfVFEwV9IBeEFVX3lxTFBYYUw",
       "insight": null,
@@ -662,7 +662,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782322367704_0",
+      "id": "rss_1782341292475_0",
       "headline": "코스피·코스닥 5%대 급락…동반 매도 사이드카 - 한겨레",
       "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52U2FBcC1URC1zSXg2SjBUcDI2Q2M5dWVIQ2RBbF9UakZteFp2SWIzRGFld0thQTVhV2QyRlExdDdSQ3FhLThlSzVtVHZMZFFZQVlmejRVdzFialc3Y19",
       "insight": null,
@@ -678,7 +678,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782322367704_1",
+      "id": "rss_1782341292475_1",
       "headline": "'9000피' 축포 쏠 때 박스권 갇힌 코스닥…하반기 훈풍부나 - 더팩트",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUaTZUWE5LRkhpY2ZHV04yV1gxdC1mNjF6V0pkdmpWZERuamo0dkFsdk5DaHZCZG9YeVItTmJNTzBwZ1FfcFhRMjlpTVU0Mk9IazJWSnpmQjVad9IBVEFVX3lxTE42bGM1ZmVUU1Z",
       "insight": null,
@@ -694,7 +694,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782322367704_2",
+      "id": "rss_1782341292475_2",
       "headline": "\"바닥 찍었나, 더 빠지나\"…코스닥 바이오 반 년 새 15조 증발 - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yV2lZeDZDaTFqWXFqb2k3RGdyVWRRRUZTOXAzbld2aUF1Wk9tVW9WZ0pjandjQzhpRklhOVBYdlVhb3BZMUlZSVpoU2gyWUU?oc=5\" target=\"_blank\"&gt;\"바닥 찍었나, 더 빠지나",
       "insight": null,
@@ -710,7 +710,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782322367704_3",
+      "id": "rss_1782341292475_3",
       "headline": "[코스닥] 13.61포인트(1.53%) 오른 905.13 출발 - 서울경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiWVNSMEJDS2k5Uk12NHV0TzZhSWJSZ0lkWFFqaWJfemdIZWx5UVByMmVOdjl6X3Z0bWdLc1IteDh3M1hJeGhkREMwclo1UElib0HSAVNBVV95cUxQWl92MjhkS2lSVjhDMzdNaWd",
       "insight": null,
@@ -726,7 +726,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782322367704_4",
+      "id": "rss_1782341292475_4",
       "headline": "코스피, '검은 화요일' 충격 딛고 8470선 회복…코스닥 2.00%↑ - 네이트",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VbDk1eVliVWV2UmpqOTV6c2RjYWFidGV2cW1xTFZRaVJ1ZUZSb2d6SF9UNWQyOUo0am50dWZWQkdTWENaaHo2QWtQWVVtdHNwQ1lv?oc=5\" target=\"_blank\"&gt;코스피, '검은 ",
       "insight": null,
@@ -874,32 +874,32 @@
         "symbol": "SPY",
         "label": "S&P 500 ETF",
         "region": "US",
-        "price": 731.76,
-        "change": -1.82,
-        "changePercent": -0.2481,
+        "price": 733.24,
+        "change": -0.34,
+        "changePercent": -0.0463,
         "high": 739.945,
-        "low": 731.63,
-        "open": 734.99,
+        "low": 730.84,
+        "open": 735.17,
         "prevClose": 733.58,
-        "updatedAt": "2026-06-24T17:32:46.182Z",
+        "updatedAt": "2026-06-24T22:48:10.499Z",
         "isMockData": false
       },
       {
         "symbol": "QQQ",
         "label": "NASDAQ 100",
         "region": "US",
-        "price": 707.47,
-        "change": -6.18,
-        "changePercent": -0.866,
+        "price": 710.62,
+        "change": -3.03,
+        "changePercent": -0.4246,
         "high": 719.93,
-        "low": 707.28,
-        "open": 716.09,
+        "low": 704.45,
+        "open": 715.37,
         "prevClose": 713.65,
-        "updatedAt": "2026-06-24T17:32:46.433Z",
+        "updatedAt": "2026-06-24T22:48:10.734Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-06-24T17:32:47.331Z",
+    "collectedAt": "2026-06-24T22:48:11.409Z",
     "provider": "finnhub",
     "isMockData": false
   }
