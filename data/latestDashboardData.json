@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-06-26T15:36:29.205Z",
+    "generatedAt": "2026-06-26T17:42:31.749Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
     "sources": {
-      "news": "google_news_rss (무료)",
+      "news": "mock (기존 유지)",
       "riskCalendar": "mock (기존 유지)",
       "aiSummary": "mock (기존 유지)",
       "disclosures": "mock (기존 유지)",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-06-26T16:06:29.205Z"
+    "nextUpdateAt": "2026-06-26T18:12:31.749Z"
   },
   "overview": {
     "id": "market_overview",
@@ -874,32 +874,32 @@
         "symbol": "SPY",
         "label": "S&P 500 ETF",
         "region": "US",
-        "price": 734.85,
-        "change": 0.55,
-        "changePercent": 0.0749,
-        "high": 735.61,
+        "price": 733.88,
+        "change": -0.42,
+        "changePercent": -0.0572,
+        "high": 736.53,
         "low": 726.86,
         "open": 730.3975,
         "prevClose": 734.3,
-        "updatedAt": "2026-06-26T15:36:21.672Z",
+        "updatedAt": "2026-06-26T17:41:44.403Z",
         "isMockData": false
       },
       {
         "symbol": "QQQ",
         "label": "NASDAQ 100",
         "region": "US",
-        "price": 712.71,
-        "change": -3.67,
-        "changePercent": -0.5123,
-        "high": 714.33,
+        "price": 712.23,
+        "change": -4.15,
+        "changePercent": -0.5793,
+        "high": 715.555,
         "low": 702.81,
         "open": 709.09,
         "prevClose": 716.38,
-        "updatedAt": "2026-06-26T15:36:21.896Z",
+        "updatedAt": "2026-06-26T17:41:44.684Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-06-26T15:36:22.552Z",
+    "collectedAt": "2026-06-26T17:41:45.451Z",
     "provider": "finnhub",
     "isMockData": false
   }
