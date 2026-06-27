@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-06-27T11:09:28.419Z",
+    "generatedAt": "2026-06-27T12:49:55.439Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-06-27T11:39:28.419Z"
+    "nextUpdateAt": "2026-06-27T13:19:55.439Z"
   },
   "overview": {
     "id": "market_overview",
@@ -502,7 +502,7 @@
   ],
   "news": [
     {
-      "id": "rss_1782558561600_0",
+      "id": "rss_1782564588226_0",
       "headline": "코스피 급락의 나비 효과... 뉴욕·도쿄 주가도 흔들렸다 - 조선일보",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1BJLWptX2xCWGdfdU1DOXpDU3NDWTVtaF9zQ05YZTVURlVVaVV6Q05rSmRMSXFKeTZUcDV1YkdfSGxMNFhHc2RjMW5BcHZrVVE2RFdMTXF1Y05sYUk0V2F3RzNwck9URU5oZ3h",
       "insight": null,
@@ -518,7 +518,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782558561601_1",
+      "id": "rss_1782564588227_1",
       "headline": "JP모건, 코스피 12개월 목표치 12,500으로 상향…\"韓주식 비중 극대화\" - 연합인포맥스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5DdDA1RjZ0ODcybHd0T1lLQlU4UGhoN1lZdk5LZVotR09SZ3FhbmpOZmlVN2UzZ0pDT2RJXy1hVTZMSkN5QVQ1eDh3RzJ0QkphSjE0eXMtM2Q1RDFPallwaWZRdF9CcG5TbDlLaEJ",
       "insight": null,
@@ -534,7 +534,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782558561601_2",
+      "id": "rss_1782564588227_2",
       "headline": "올해 '역대급 조울증' 사이드카 29회 발동…금융위기 때 변동성 뛰어넘은 코스피 - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FNk8zcDA5WDlkbUhadnNhUTJldi13TEEtQXFkSzZ2SHFqc2l6bnA1b1c3VmJwVkUyUEdBaGFJbDJMOERsYWJhTURmSW1RQjg?oc=5\" target=\"_blank\"&gt;올해 '역대급 조울증' 사",
       "insight": null,
@@ -550,7 +550,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782558561601_3",
+      "id": "rss_1782564588227_3",
       "headline": "\"삼전닉스 던진다\" 코스피 와르르...이 때 오른 종목은?[김근희의 증시 랩업] - 머니투데이 - 머니투데이",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qRFNqVzk3MGRkM0VCQUpYYkJiOG9fSGp0QjlVeFBuN3ZzUy0tVktlSUhqMFZRdWRvdjY0ZHhYdnB4ZXJscnZobjktVjZ0RHNKMFg3eHJQVGczbWZLRDg3QVpRVXRncDBB0gFuQVV",
       "insight": null,
@@ -566,23 +566,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782558561601_4",
-      "headline": "회복했다 다시 급락‥'롤러코스피' 이겨내려면 - MBC 뉴스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFAyLVBjVFlNdnFKYWI1UVQ0RUllSmVKRnk0b2pGc255ZjRqcG4xLTh0bG9WWFc5VE9qRTZOMTUyXzNJX2RPUE1pcWJjRkJNN0NBaUtJY0ZrbzQxeUcxVld4WXNkUUNzTlYzOUZNVUd",
+      "id": "rss_1782564588227_4",
+      "headline": "코스피, 급등 부담감에 2% 하락해 8,700대…코스닥도 내려(종합) - 연합뉴스",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvS0ZWcVp1T3l3S2lWU2l0M2pLTVZKNjdWcGFlSVJvM3h2bko4NW5pcGNqTjViQmowcFVrdkxGYWZ1a3ZSVDBSVFNMZXpuSTRkbXlqdjk5QzBEbjdNOFlaVdIBYEFVX3lxTFBvS0Z",
       "insight": null,
-      "source": "MBC 뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyLVBjVFlNdnFKYWI1UVQ0RUllSmVKRnk0b2pGc255ZjRqcG4xLTh0bG9WWFc5VE9qRTZOMTUyXzNJX2RPUE1pcWJjRkJNN0NBaUtJY0ZrbzQxeUcxVld4WXNkUUNzTlYzOUZNVUdDTU9hQ09CbUd2cjFn?oc=5",
-      "publishedAt": "2026-06-26T22:15:32.000Z",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvS0ZWcVp1T3l3S2lWU2l0M2pLTVZKNjdWcGFlSVJvM3h2bko4NW5pcGNqTjViQmowcFVrdkxGYWZ1a3ZSVDBSVFNMZXpuSTRkbXlqdjk5QzBEbjdNOFlaVdIBYEFVX3lxTFBvS0ZWcVp1T3l3S2lWU2l0M2pLTVZKNjdWcGFlSVJvM3h2bko4NW5pcGNqTjViQmowcFVrdkxGYWZ1a3ZSVDBSVFNMZXpuSTRkbXlqdjk5QzBEbjdNOFlaVQ?oc=5",
+      "publishedAt": "2026-06-26T00:28:41.000Z",
       "category": "macro",
       "categoryLabel": "거시경제",
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "impact": "medium",
       "relatedTickers": [],
       "provider": "google_news_rss",
       "isMockData": false
     },
     {
-      "id": "rss_1782558562396_0",
+      "id": "rss_1782564589105_0",
       "headline": "주식 ‘빚투’ 올해 11.2조↑사상 최대…한은 “금리인상기 더 큰 충격 온다” [금융안정보고서] - 헤럴드경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xLVM2eUtIVU9xMHd0M0o0RkFzTWUybG5qVWc5TmJIbFc2c0l3THg2RDdzbjBudzMwVHF0N052azhVR21HT2tmbUFYTHg3M21SX2RMbmF3?oc=5\" target=\"_blank\"&gt;주식 ‘빚",
       "insight": null,
@@ -598,7 +598,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782558562396_1",
+      "id": "rss_1782564589105_1",
       "headline": "어? 물가 떨어진다고!…美 금리 인상 멀어져 주식시장 계속 가나 [주末머니] - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1heUVLQUt5N2NjZ1lmQzVDSlRMS2hYc3RSVG1Wbm90d1pWVnQ5QzduemY4ajZRbDZyMjVhSEFmbzdEQVptOE9QdE1fRzVrdDQ?oc=5\" target=\"_blank\"&gt;어? 물가 떨어진다고!…美",
       "insight": null,
@@ -614,7 +614,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782558562396_2",
+      "id": "rss_1782564589105_2",
       "headline": "[주간증시전망] 금리 경계감에 코스피 하락…다음주 8400~9500 전망 - 이투데이",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmYW1aMU5NcDEtVGhCcUZNcW9nNkh5MkNIRFc1eDlfUEI0NWRzLWs1Nl9ueVpZcnNWUWJxMkRlRUdVSU8xNExnV3YySVduNWNqWjlIbg?oc=5\" target=\"_blank\"&gt;[주간증시전망",
       "insight": null,
@@ -630,7 +630,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782558562396_3",
+      "id": "rss_1782564589105_3",
       "headline": "유가·금리 하락에도 혼조…'깜짝 실적' 마이크론 시간외 '급등' [뉴욕증시 브리핑] - 한국경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LUzNBVmI0cTd4X0JGcTNvalk4ZF9qazBnT0drN1Z2d3BPNDNVdmpiMFcyOUNBblc2Nkh0LXRsVkphY1Q0ODNLX3NGQ2VSWXJvVldzVTJRM010Z9IBVEFVX3lxTFBNUHlnQXJETmx",
       "insight": null,
@@ -646,7 +646,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782558562396_4",
+      "id": "rss_1782564589106_4",
       "headline": "금리인상 앞둔 한은의 경고…\"사상 최대 빚투·레버리지 ETF 후폭풍 우려\" - 뉴시스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uZDVjZ1VLdl9ieGxuRVF3WmFoVUQ0REZPNG9lWkFhVmlTLVJaWURGMjRJZ1pRSjNpb1BINW05WHpjbEZnSDVBQ0ZSUGoxdFJLaGw1UXppSXVrYUVfVFEwV9IBeEFVX3lxTFBYYUw",
       "insight": null,
@@ -662,7 +662,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782558563231_0",
+      "id": "rss_1782564589944_0",
       "headline": "\"기관이 쓸어담는다\" … 코스닥 소부장株 '나홀로 랠리' - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RUWZURV9PNXNCSmgwdjJHYkl6SW9OU1pmQ2ZtLXY2aXFKR1lZYTEtTGhRR1RUQ2VELXl1bTlfbHc2NTFVWlNVdnd3ZjMyV1E?oc=5\" target=\"_blank\"&gt;\"기관이 쓸어담는다\" … ",
       "insight": null,
@@ -678,7 +678,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782558563231_1",
+      "id": "rss_1782564589944_1",
       "headline": "[코스닥] 36.44포인트(4.10%) 내린 851.37 마감 - 서울경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IX0NpOXBYV0paVU9PdjZUd1BHdFkzYVlqVkpQNkRlS1BjZENaRUoyUUFOZkpBY1ZxQktlbHJLQW01YzFIMVpXUXNPWXZEX3hNaVHSAVNBVV95cUxQUzhRTkdRa1NYQ09pYU11Vld",
       "insight": null,
@@ -694,7 +694,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782558563231_2",
+      "id": "rss_1782564589944_2",
       "headline": "파랗게 질린 증시…코스피-코스닥 하락 마감 - 한국경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNVEF3bzRnN3BRVTJKU0lmdlNZYUNUS3FQYTIzNG5WaFlUVzd3WmpfUTZxbG1zc1dxalpyZC1OUVkzaExlcWpoUURzWEJMZ09UWkVCRTdTWjZyd9IBVEFVX3lxTE9qa2VmX0pRY1E",
       "insight": null,
@@ -710,7 +710,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782558563231_3",
+      "id": "rss_1782564589944_3",
       "headline": "한국거래소, 한국환경경제학회·코스닥협회와 포럼·워크숍 개최 - 라이센스뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBya2p2VklMNzcwMzRkTGozTi1hZlFTbmpSTTVCVHpSdmwzS3g3b0NITk44amJmZE9RSndzNFh6eXF2X2J2cE5uNXhvNlNBdHZzbUlRM2pwaXNfRGtrNWxfQ2tKTURiVTdoUjRV?oc",
       "insight": null,
@@ -726,7 +726,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1782558563231_4",
+      "id": "rss_1782564589944_4",
       "headline": "코스피, 하락 출발해 8,800선 공방…코스닥도 내려 - 파이낸셜뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QMmlaQ3NqUHcwaWlfbHhGVGJYLW9qRnFvSTBFeVQ1QzhWQUk3bWZRY2RQZmY1OWgtdTVfSFZZNUQtSlZUOUlwd0dIeEo1Qm91WEtoQS1FS2Zwdw?oc=5\" target=\"_blank\"&gt",
       "insight": null,
@@ -881,7 +881,7 @@
         "low": 716.58,
         "open": 728.945,
         "prevClose": 734.3,
-        "updatedAt": "2026-06-27T11:09:21.364Z",
+        "updatedAt": "2026-06-27T12:49:47.975Z",
         "isMockData": false
       },
       {
@@ -895,11 +895,11 @@
         "low": 702.81,
         "open": 707.13,
         "prevClose": 716.38,
-        "updatedAt": "2026-06-27T11:09:21.645Z",
+        "updatedAt": "2026-06-27T12:49:48.252Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-06-27T11:09:22.399Z",
+    "collectedAt": "2026-06-27T12:49:49.012Z",
     "provider": "finnhub",
     "isMockData": false
   }
