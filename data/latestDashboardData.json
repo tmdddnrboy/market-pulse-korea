@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-06-28T22:56:33.546Z",
+    "generatedAt": "2026-06-29T00:05:04.582Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
     "sources": {
-      "news": "google_news_rss (무료)",
+      "news": "mock (기존 유지)",
       "riskCalendar": "mock (기존 유지)",
       "aiSummary": "mock (기존 유지)",
       "disclosures": "mock (기존 유지)",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-06-28T23:26:33.546Z"
+    "nextUpdateAt": "2026-06-29T00:35:04.582Z"
   },
   "overview": {
     "id": "market_overview",
@@ -756,7 +756,7 @@
       "previous": "2.8%",
       "forecast": "2.7%",
       "actual": null,
-      "dDay": "D+396",
+      "dDay": "D+397",
       "source": "mock",
       "isMockData": true
     },
@@ -773,7 +773,7 @@
       "previous": "5.25~5.50%",
       "forecast": "5.25~5.50% (동결)",
       "actual": null,
-      "dDay": "D+381",
+      "dDay": "D+382",
       "source": "mock",
       "isMockData": true
     },
@@ -790,7 +790,7 @@
       "previous": null,
       "forecast": null,
       "actual": null,
-      "dDay": "D+380",
+      "dDay": "D+381",
       "source": "mock",
       "isMockData": true
     },
@@ -807,7 +807,7 @@
       "previous": "3.4%",
       "forecast": "2.5%",
       "actual": null,
-      "dDay": "D+382",
+      "dDay": "D+383",
       "source": "mock",
       "isMockData": true
     }
@@ -881,7 +881,7 @@
         "low": 716.58,
         "open": 728.945,
         "prevClose": 734.3,
-        "updatedAt": "2026-06-28T22:56:26.231Z",
+        "updatedAt": "2026-06-29T00:04:06.458Z",
         "isMockData": false
       },
       {
@@ -895,11 +895,11 @@
         "low": 702.81,
         "open": 707.13,
         "prevClose": 716.38,
-        "updatedAt": "2026-06-28T22:56:26.479Z",
+        "updatedAt": "2026-06-29T00:04:06.740Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-06-28T22:56:27.175Z",
+    "collectedAt": "2026-06-29T00:04:07.524Z",
     "provider": "finnhub",
     "isMockData": false
   }
