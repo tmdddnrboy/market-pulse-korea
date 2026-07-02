@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-07-02T20:18:14.744Z",
+    "generatedAt": "2026-07-02T21:41:28.695Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-07-02T20:48:14.744Z"
+    "nextUpdateAt": "2026-07-02T22:11:28.695Z"
   },
   "overview": {
     "id": "market_overview",
@@ -502,7 +502,23 @@
   ],
   "news": [
     {
-      "id": "rss_1783023487811_0",
+      "id": "rss_1783028481797_0",
+      "headline": "‘삼전닉스’에 60% 쏠린 코스피…“韓증시 구조적 불안”-WSJ - 문화일보",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OTFFmNU8yZ1NueGNjQ05VTzRfMWVjUDlwWmVPbmNwRjVSYjNxYmNETnc1czkwY2NaVGliWHpKN3BfVDhHQ2tPZWZtQXFYMUFJ?oc=5\" target=\"_blank\"&gt;‘삼전닉스’에 60% 쏠",
+      "insight": null,
+      "source": "문화일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OTFFmNU8yZ1NueGNjQ05VTzRfMWVjUDlwWmVPbmNwRjVSYjNxYmNETnc1czkwY2NaVGliWHpKN3BfVDhHQ2tPZWZtQXFYMUFJ?oc=5",
+      "publishedAt": "2026-07-02T20:39:42.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1783028481798_1",
       "headline": "[증시_마감] 코스피, 外人·기관 동반 매도에 7.89% 급락…코스닥 6%대 하락 - 연합인포맥스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0yRnhqQnM0cDhCSTNRTHRTTHlNdTNlYUdINEJ6MGVSSnNNblR4c19jSVVkSzlCemxHSnZ4VXBfQXdWc2NLV3RUX1p1UFc4QXVxMG1IVS1pak51dXFtOXZ5NmpxYjM5eEhxcGs4M2l",
       "insight": null,
@@ -518,7 +534,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783023487811_1",
+      "id": "rss_1783028481798_2",
       "headline": "[주식] 코스피 8000선 붕괴...코스닥도 동반 하락 - 히트뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBnOUJMUWwtTG5xRm1xdTVaZUU4MExMREQ4dzFISXRmdGt0ZzZuS1ItZ1BrY1hpeXFOMDZNTm5RS3hQeEMxa3hnZUMwSnFfYlhQYURIckVpcmlJUTZPMmloSVlzU0x6TEJCc3Zv?oc",
       "insight": null,
@@ -534,7 +550,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783023487811_2",
+      "id": "rss_1783028481798_3",
       "headline": "[증시 인사이트] 급락장에 코스피·코스닥 장중 매도 사이드카 발동 - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QcGRZQVhseThwUUpHZ2cyY2NDYUcyYUV0VXBQQ2FzcFRjZy13M0xlMG1WMWlYejdDRXN2RkJlRmYyclBqMmFYaEJiRXZkUlU?oc=5\" target=\"_blank\"&gt;[증시 인사이트] 급락장에",
       "insight": null,
@@ -550,7 +566,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783023487811_3",
+      "id": "rss_1783028481798_4",
       "headline": "반도체 쇼크에 증시 와르르…코스피 7600선 마감 - 전자신문",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE02RHo1NHdjTWV1UWNYVTRVd3E5NVZtNU1pazB2aEZOemNhTEEyUGNwMndVUkV6UDVQTEhYRGc5YjA0bDNHekg5ZHJyVm8tUQ?oc=5\" target=\"_blank\"&gt;반도체 쇼크에 증시 와르르…",
       "insight": null,
@@ -566,23 +582,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783023487811_4",
-      "headline": "'반도체 추락'에 코스피 7.9% 급락 7,648…코스닥도 6.7%↓(종합) - 연합뉴스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJZlB1UFMtcnNaN2t3dGF0Ujc5dkhjdU8zdzEtVFYwRHFXRXlWbUptNkhUT3lJNVJVRGpPdHA2NjlEZF8zQ05BeWluckRCMFlYUGFMNHRZaFBKSlRGMDhDTNIBYEFVX3lxTFBJZlB",
-      "insight": null,
-      "source": "연합뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJZlB1UFMtcnNaN2t3dGF0Ujc5dkhjdU8zdzEtVFYwRHFXRXlWbUptNkhUT3lJNVJVRGpPdHA2NjlEZF8zQ05BeWluckRCMFlYUGFMNHRZaFBKSlRGMDhDTNIBYEFVX3lxTFBJZlB1UFMtcnNaN2t3dGF0Ujc5dkhjdU8zdzEtVFYwRHFXRXlWbUptNkhUT3lJNVJVRGpPdHA2NjlEZF8zQ05BeWluckRCMFlYUGFMNHRZaFBKSlRGMDhDTA?oc=5",
-      "publishedAt": "2026-07-02T07:23:39.000Z",
-      "category": "sector",
-      "categoryLabel": "섹터",
-      "sentiment": "negative",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1783023488625_0",
+      "id": "rss_1783028482695_0",
       "headline": "\"美 금리인상 안해, 증시 빠지면 사세요\"…전문가 집은 업종은[부꾸미] - 머니투데이 - 머니투데이",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UWndERG0xZjdoRThlWDk5ZzR2SWQwRDZGT1VYVDN3bklYQkNjTXB1Y25hZ21SMHQ0czlsZTRxTE9kQjg2MVJwY21fQkZMNk5OX18yY05jcEF5QlNScFY4eGRNcHcyT1J20gFuQVV",
       "insight": null,
@@ -598,7 +598,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783023488625_1",
+      "id": "rss_1783028482695_1",
       "headline": "지금 주식이 상승하는 이유? 금리 인하 - 네이버 프리미엄콘텐츠",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVk2VjExUVJOX1pib2hjOF8zWGVhSHkwVHI5NnZlMzhGelc3M0VfdUZrTmFFMm01VUtBZTdqeE5CRmx1MzF5TTMzZzhBRVFvRk40dmlGQlluLV96TVRzQlBobkwtbXc5ZDVlNEp",
       "insight": null,
@@ -614,7 +614,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783023488625_2",
+      "id": "rss_1783028482695_2",
       "headline": "반도체는 ’질주’ 금리는 ’경고’…수출 호조에도 한국 증시·채권시장 흔들린 이유 By EBN - Investing.com 한국어",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9wVVAwVHExRWc1c25xNHlpbEh6M1lSU2IwWl9JVFR0aVFrNlh0a1d5dzNKLW9hMDBXTlk0YVMtMGxjUEVOMENNd0xaVk0tOVlTMzBCMi1VNkpSSE9Jbmh6MGtwWWZFSVJaSFVJVXA",
       "insight": null,
@@ -630,7 +630,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783023488625_3",
+      "id": "rss_1783028482695_3",
       "headline": "[채권-마감] 증시 급락·물가 안도…국고 3년 4.4bp↓ - 연합인포맥스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBYS2ltQXNjVXFpeVV5ODVqS2U1LUtsZFRTc3Z1ZWZWU2lXbFBxeFQwbDdPWE45WFVnN3VRa21JYjF5MTdFVXJqRnpyYnFXblVrRmRXNlZhTlRPZkctcEtNM1U3OVlFY0Z0RkVwNlR",
       "insight": null,
@@ -646,7 +646,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783023488625_4",
+      "id": "rss_1783028482695_4",
       "headline": "증권사 발행어음 금리 연 4%대까지 쑥…예금 대신 넣어볼까 - 한국경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3N0xFVlRFYlJ6UHU0Q05OQUEwdW5EY0Y2dGdpRDY1NlpXSDQ4eWdia21rdVVfeDFfbUllUm1yNXRFSmF6OExSNWxua1JSWS04cVU0R21FX24yUdIBVEFVX3lxTE84cjZyTlZzek1",
       "insight": null,
@@ -662,23 +662,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783023489407_0",
-      "headline": "'반도체株 직격탄' 코스피 7600선 마감…코스닥도 휘청 - v.daum.net",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tVUtFVmVDVGFGU2Fpem9CY3ROUzFUUER1aDIyYVp4aE94OWhNeDlaYXczZVJWN0ZPVkZFR1RvVHgyRV9xM0pTWmllaGU0cTQ?oc=5\" target=\"_blank\"&gt;'반도체株 직격탄' 코스피",
+      "id": "rss_1783028483463_0",
+      "headline": "6월 소비자물가 급등… 코스피·코스닥 폭락 [한강로 경제브리핑] - v.daum.net",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE80cDRwWU8ybXlPaU8xWlpWLUtVZW9ZNkRzcFVtblRqUUw2MkxaT181UzY4c05CZkxqQlBTaE5nU3VVQWRrUEZEVW8tNW5maUE?oc=5\" target=\"_blank\"&gt;6월 소비자물가 급등… 코",
       "insight": null,
       "source": "v.daum.net",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tVUtFVmVDVGFGU2Fpem9CY3ROUzFUUER1aDIyYVp4aE94OWhNeDlaYXczZVJWN0ZPVkZFR1RvVHgyRV9xM0pTWmllaGU0cTQ?oc=5",
-      "publishedAt": "2026-07-02T07:02:00.000Z",
-      "category": "sector",
-      "categoryLabel": "섹터",
-      "sentiment": "neutral",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80cDRwWU8ybXlPaU8xWlpWLUtVZW9ZNkRzcFVtblRqUUw2MkxaT181UzY4c05CZkxqQlBTaE5nU3VVQWRrUEZEVW8tNW5maUE?oc=5",
+      "publishedAt": "2026-07-02T21:04:29.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "positive",
       "impact": "medium",
       "relatedTickers": [],
       "provider": "google_news_rss",
       "isMockData": false
     },
     {
-      "id": "rss_1783023489407_1",
+      "id": "rss_1783028483463_1",
       "headline": "코스피 이어 코스닥도 매도 사이드카 발동 - 한국경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OQkg0bTRUWUhXX2RPQ0xTN0Y0Y25ZM0JYQ0xzQ0VRUDNmSkR4dG1TNUFjaDh2MGZxR0hqLVdISkRZeW1KN3hGYVhLT2pLa2xwMUZBcnNyaHlSQdIBVEFVX3lxTE5nTndYNld2dEF",
       "insight": null,
@@ -694,7 +694,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783023489407_2",
+      "id": "rss_1783028483463_2",
       "headline": "매드업, 코스닥 상장 첫날 '따블' 찍고 70%대 강세 - 더팩트",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE03dGNwMTU2X2Z5YUtua0pybHJ4Zk9Nc3RTUHhNanBOZVp3SmNSTjRjWXJFYVVDOHpCRlZlWFkwa2hwOFlGVWVFaHdsUlVIT1JKSkQzWGw2UERmQdIBVEFVX3lxTE1PeVV5TVI3REV",
       "insight": null,
@@ -710,7 +710,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783023489407_3",
+      "id": "rss_1783028483463_3",
       "headline": "코스닥 30년 ‘체질 개선’…‘Buy 충청’ 힘받나 - 금강일보",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1iOHZ5QTB0M2l2UXY0ZTZfRjBNdVA2Z1A3VmtKQVRJaUVUQ2Qzem16eWEtMUtwa2Zrbmo4dkhCX0FHZmhrVFlzRjB5TVRpQ2xXeThaaG9jSzdLMF9zNDFyUkNPeHBhWlczekE?oc=",
       "insight": null,
@@ -726,16 +726,16 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783023489407_4",
-      "headline": "[코스닥] 24.82포인트(2.67%) 내린 904.53 출발 - 서울경제",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mTVBXdjBHbmxRdFAtOEt0c3lMeHJyR0JzdTZPMVkxcFQ2a1FuR0t3VldwNFhZaWxLT3lWR2FrUmNWZGk1c2dhR1hsVldvX3JYeXfSAVNBVV95cUxQQmtxbnlac0FrS0g1T20wSmp",
+      "id": "rss_1783028483463_4",
+      "headline": "[속보] '반도체 추락'에 코스피 7.9% 급락 7,648…코스닥도 6.7%↓ - 네이트",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yWG13bE13ZEVmclVRLVVTdzl0T1pHVk0xVlFQNEFic2kzdGhKbVhxZVZuX1NndEpyT3Roc3U5cjJaMlRxTU9GT0kteTlBSGlTUEZj?oc=5\" target=\"_blank\"&gt;[속보] '반도체",
       "insight": null,
-      "source": "서울경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mTVBXdjBHbmxRdFAtOEt0c3lMeHJyR0JzdTZPMVkxcFQ2a1FuR0t3VldwNFhZaWxLT3lWR2FrUmNWZGk1c2dhR1hsVldvX3JYeXfSAVNBVV95cUxQQmtxbnlac0FrS0g1T20wSmptUGtvbVRHR1lKbGRxYndWZDRwVEVjMUVXcUxiN19MNXk1N2IyRWxFMXJ1TnBFcVF5UjR4NmdpQlVYMA?oc=5",
-      "publishedAt": "2026-07-02T00:03:43.000Z",
+      "source": "네이트",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yWG13bE13ZEVmclVRLVVTdzl0T1pHVk0xVlFQNEFic2kzdGhKbVhxZVZuX1NndEpyT3Roc3U5cjJaMlRxTU9GT0kteTlBSGlTUEZj?oc=5",
+      "publishedAt": "2026-07-02T06:35:00.000Z",
       "category": "sector",
       "categoryLabel": "섹터",
-      "sentiment": "neutral",
+      "sentiment": "negative",
       "impact": "medium",
       "relatedTickers": [],
       "provider": "google_news_rss",
@@ -881,7 +881,7 @@
         "low": 740.03,
         "open": 747.4,
         "prevClose": 745.76,
-        "updatedAt": "2026-07-02T20:18:07.648Z",
+        "updatedAt": "2026-07-02T21:41:21.296Z",
         "isMockData": false
       },
       {
@@ -895,11 +895,11 @@
         "low": 707.56,
         "open": 725.58,
         "prevClose": 725.17,
-        "updatedAt": "2026-07-02T20:18:07.927Z",
+        "updatedAt": "2026-07-02T21:41:21.524Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-07-02T20:18:09.213Z",
+    "collectedAt": "2026-07-02T21:41:22.179Z",
     "provider": "finnhub",
     "isMockData": false
   }
