@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-07-04T22:27:32.200Z",
+    "generatedAt": "2026-07-04T23:30:29.779Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -22,16 +22,12 @@
         "message": "HTTP 400: https://pro-api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,ripple,solana&order=market_cap_desc&per_page=10&page=1&price_change_percentage=24h"
       },
       {
-        "section": "disclosures",
-        "message": "Timeout (12000ms): https://opendart.fss.or.kr/api/list.json?crtfc_key=9958558ff66adb6916012fa072f58041e75b4a81&bgn_de=20260704&end_de=20260704&pblntf_ty=A&corp_cls=Y&page_no=1&page_count=10"
-      },
-      {
         "section": "aiSummary",
         "provider": "gemini",
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-07-04T22:57:32.200Z"
+    "nextUpdateAt": "2026-07-05T00:00:29.779Z"
   },
   "overview": {
     "id": "market_overview",
@@ -506,7 +502,7 @@
   ],
   "news": [
     {
-      "id": "rss_1783204028012_0",
+      "id": "rss_1783207822487_0",
       "headline": "[주간증시전망] 8000선 사수한 코스피, 삼성전자 실적이 반등 ‘신호탄’ 될까 - 조선비즈 - Chosunbiz",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2tmTGJMNjBjbmRrY0RYd0pQZDlhVUJNM0JPRGg1Wjc4NFRqeTEwZTZ0QmdnQ2xwZGdOZ2V6aVhEUFRtQVZPZzY3RDlIbzNhSVBQQ2RjbFJzSm9DRnpXa2c5WUNuVmJkUWRwenl",
       "insight": null,
@@ -522,13 +518,13 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783204028012_1",
-      "headline": "국내는 고위험 경고·해외선 코스피 150배…투자자 보호 '구멍' - 매일경제 마켓",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CTGZhODM3aVhGVWJYT0F1TVpJYlBIc3V6TDNvSXdvODZqRlNod1JSZ0ZId19QNjRYZks1YUFqR1ViNFRjdldFcm5PNDRfUFR2LUE?oc=5\" target=\"_blank\"&gt;국내는 고위험 경고",
+      "id": "rss_1783207822487_1",
+      "headline": "상반기 코스피 VI 발동 역대 최대…변동성도 역대 2위 - 매일경제 마켓",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zajBNbkJwVDF6eUNUaWllX18xck1GaGlCLWctLU0ySHdpc2JmZ3VVZ3NEX3hnUlhZSDdGeEhUQUlHdWd2N3Zsa2J2dlNvOXdSclE?oc=5\" target=\"_blank\"&gt;상반기 코스피 VI",
       "insight": null,
       "source": "매일경제 마켓",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CTGZhODM3aVhGVWJYT0F1TVpJYlBIc3V6TDNvSXdvODZqRlNod1JSZ0ZId19QNjRYZks1YUFqR1ViNFRjdldFcm5PNDRfUFR2LUE?oc=5",
-      "publishedAt": "2026-07-04T20:45:04.000Z",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zajBNbkJwVDF6eUNUaWllX18xck1GaGlCLWctLU0ySHdpc2JmZ3VVZ3NEX3hnUlhZSDdGeEhUQUlHdWd2N3Zsa2J2dlNvOXdSclE?oc=5",
+      "publishedAt": "2026-07-04T21:20:01.000Z",
       "category": "macro",
       "categoryLabel": "거시경제",
       "sentiment": "neutral",
@@ -538,15 +534,15 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783204028013_2",
-      "headline": "7370선까지 밀린 코스피…삼성전자 실적이 반전 키 쥔다[증시전망대] - v.daum.net",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3TnVFc0QyMFgwWklDRHpUZVNRUmU2VEliV0hBdFFIRGFUbFdKaEQ3cFBwYmg3TWpGWkUwZUMtSDhqZTVMQmhoUFJIY1M4bE0?oc=5\" target=\"_blank\"&gt;7370선까지 밀린 코스피",
+      "id": "rss_1783207822487_2",
+      "headline": "\"코스피 1만2600 간다\"…하반기 강세장서 찍은 최선호株 10개[주末머니] - v.daum.net",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CQkk2MnRvQTBielVTSnFQWldVODNHWE5yc3ZTdmFrVUdsMUtQMjVWd3FVZEpFOW8tdERtQnFGd21TVWQ0N3NZdDZHcnROaE0?oc=5\" target=\"_blank\"&gt;\"코스피 1만2600 간다",
       "insight": null,
       "source": "v.daum.net",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3TnVFc0QyMFgwWklDRHpUZVNRUmU2VEliV0hBdFFIRGFUbFdKaEQ3cFBwYmg3TWpGWkUwZUMtSDhqZTVMQmhoUFJIY1M4bE0?oc=5",
-      "publishedAt": "2026-07-04T20:31:42.000Z",
-      "category": "earnings",
-      "categoryLabel": "실적",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CQkk2MnRvQTBielVTSnFQWldVODNHWE5yc3ZTdmFrVUdsMUtQMjVWd3FVZEpFOW8tdERtQnFGd21TVWQ0N3NZdDZHcnROaE0?oc=5",
+      "publishedAt": "2026-07-04T10:07:00.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
       "sentiment": "neutral",
       "impact": "medium",
       "relatedTickers": [],
@@ -554,7 +550,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783204028013_3",
+      "id": "rss_1783207822487_3",
       "headline": "[증시_마감] 코스피, 外人·기관 동반 매도에 7.89% 급락…코스닥 6%대 하락 - 연합인포맥스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0yRnhqQnM0cDhCSTNRTHRTTHlNdTNlYUdINEJ6MGVSSnNNblR4c19jSVVkSzlCemxHSnZ4VXBfQXdWc2NLV3RUX1p1UFc4QXVxMG1IVS1pak51dXFtOXZ5NmpxYjM5eEhxcGs4M2l",
       "insight": null,
@@ -570,23 +566,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783204028013_4",
-      "headline": "[7월 첫째 주 세계경제동향 브리핑] 코스피 8,000선 초반 후퇴…美 증시는 동반 상승 - 기호일보",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBzNjV1VXFnUGJ6Nno3V3VIZHdVSTNzY3NrdzZrdnJIcnlvU2JKMEgwaHBqZXF2VTZXcno5VWM3T3FqMnRNZ1NhWG5SdzZYNHZDaWgxNHR4V1JpVG1lbEFHR2dTLU5vN08wMEJPWUd",
+      "id": "rss_1783207822487_4",
+      "headline": "[증시전망] 코스피 8000선 회복했지만 ...삼성전자 실적에 쏠린 눈 - 디지털투데이",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ham1FZVM4cGlOMmFCYUJVMzlETnFlS2VUNkQyYzBsd2xZYUtJNUVXaTNpUEVCdEFSUnpJN0xlR1lXUmVDc0RQTWtjNU1tdXdQbXhHclgtYnpBRlpveTNuXzNUWUJ6N0JtaDRTVWM",
       "insight": null,
-      "source": "기호일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzNjV1VXFnUGJ6Nno3V3VIZHdVSTNzY3NrdzZrdnJIcnlvU2JKMEgwaHBqZXF2VTZXcno5VWM3T3FqMnRNZ1NhWG5SdzZYNHZDaWgxNHR4V1JpVG1lbEFHR2dTLU5vN08wMEJPWUdXSQ?oc=5",
-      "publishedAt": "2026-07-04T02:18:46.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "positive",
+      "source": "디지털투데이",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ham1FZVM4cGlOMmFCYUJVMzlETnFlS2VUNkQyYzBsd2xZYUtJNUVXaTNpUEVCdEFSUnpJN0xlR1lXUmVDc0RQTWtjNU1tdXdQbXhHclgtYnpBRlpveTNuXzNUWUJ6N0JtaDRTVWMwX1hpbGs?oc=5",
+      "publishedAt": "2026-07-04T23:14:00.000Z",
+      "category": "earnings",
+      "categoryLabel": "실적",
+      "sentiment": "neutral",
       "impact": "medium",
       "relatedTickers": [],
       "provider": "google_news_rss",
       "isMockData": false
     },
     {
-      "id": "rss_1783204028853_0",
+      "id": "rss_1783207823286_0",
       "headline": "\"증시로 돈 빠질라\" 저축은행, 4%대 예금금리 경쟁 - 더구루",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BdlJlYjBsNy1kd3lhcFQ5RTItQmdYSV9UdllhcFR0aUgyTll5S3l3NHFGZVRnZVFaNm9LM0pYYjhZb29ob2hkb0ZTNF9BWUgtcFMxRGo2UE1vSkdlVWpYUmQtYw?oc=5\" target",
       "insight": null,
@@ -602,7 +598,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783204028853_1",
+      "id": "rss_1783207823286_1",
       "headline": "[뉴욕증시] 금리 압박 줄어 다우 신기록, 반도체 폭락에 제자리 - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE95ZGJHVkEwM2RtVXo5LU04WFBBMlowZTh2cEtXZ1BsX1BPY1EydXMxNTZScEh5emNmSXRHRHlrQ0NzcmRjZ3phLTZldlZpSE0?oc=5\" target=\"_blank\"&gt;[뉴욕증시] 금리 압박 줄",
       "insight": null,
@@ -618,7 +614,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783204028854_2",
+      "id": "rss_1783207823286_2",
       "headline": "발행어음 금리, 한투 4차례 ↑·신한證 최고...고객잡기 경쟁에 수익성은 부담 - 녹색경제신문",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEQ25jaEczeThDQXVoYXI0SGZLQ210ZEM1aHl2eUk0ZGpESTJnOTdkM2JtVlVvUV9Md1BFa1FUSHRxd2hEZGxxY0lhUjhCRG1VSkNkaHVxVE1RQnBGeG45TDdXSG83ZFVO?oc=5\" ",
       "insight": null,
@@ -634,7 +630,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783204028854_3",
+      "id": "rss_1783207823286_3",
       "headline": "[뉴욕마켓워치] '컴퓨팅 용량이 남네?' 반도체 투매…주식·채권↓달러↑ - KB Think",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBZazlQNW1JZGlKangyYXRJUkxIRkNhb2JlMXZrd2h4VGNkMDJFOC1jazl4QWo2TkFLWEc1Y1lWcWltMHhHRmZVU1hwbWxOaldlSkgzQ29nU0JjX3FORHB1SHZwbVFYVG5pVmtuSHl",
       "insight": null,
@@ -650,7 +646,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783204028854_4",
+      "id": "rss_1783207823286_4",
       "headline": "반도체는 ’질주’ 금리는 ’경고’…수출 호조에도 한국 증시·채권시장 흔들린 이유 By EBN - Investing.com 한국어",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9wVVAwVHExRWc1c25xNHlpbEh6M1lSU2IwWl9JVFR0aVFrNlh0a1d5dzNKLW9hMDBXTlk0YVMtMGxjUEVOMENNd0xaVk0tOVlTMzBCMi1VNkpSSE9Jbmh6MGtwWWZFSVJaSFVJVXA",
       "insight": null,
@@ -666,7 +662,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783204029650_0",
+      "id": "rss_1783207824093_0",
       "headline": "\"내 종목도 상폐되나\"…코스닥 '생존 작전' 시작됐다 - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE90ZWNERV9kRG80RTFHRE9ZTU9NYjlzN0hqOVliSjZIbHZHTklaZXA3ekRXX0ZLaDZQOTVyOG5Wa3hKMC1haWw5VVpjTUppZHc?oc=5\" target=\"_blank\"&gt;\"내 종목도 상폐되나\"…코",
       "insight": null,
@@ -682,7 +678,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783204029651_1",
+      "id": "rss_1783207824093_1",
       "headline": "코스닥 대청소…'동전주 상장폐지' 카운트다운 - 한국경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE56WWQ5RnlyWDBQcjdJZFNZTUxQbjVUMk1PUVlkeVVBenFGOGM1RHNHMjh6NUlDUGp3TEhxMVo1QWJLcVlnblJMUkhFMUQ5MXBJZHNudXllVGp1Z9IBVEFVX3lxTE83Z1NFX0o3V1V",
       "insight": null,
@@ -698,7 +694,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783204029651_2",
+      "id": "rss_1783207824093_2",
       "headline": "6월 소비자물가 급등…코스피·코스닥 폭락 [한강로 경제브리핑] - 네이트",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE11OGtwcll1SGNETjJpSGdtRUlXWmFrRW1FZzl6QlhWMjdBV1VHeWo1bWNPc3JPYkR3a25aTEkwU1FEM2VwNFkxTGxaZWxKdTgzcEVF?oc=5\" target=\"_blank\"&gt;6월 소비자물가 ",
       "insight": null,
@@ -714,7 +710,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783204029651_3",
+      "id": "rss_1783207824094_3",
       "headline": "[경제][속보] 코스닥 급락에 매도 사이드카 발동 - YTN",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE80Y1BzZlFQMURzbmg4dkxhUm1QdjR0aDJiQ1VnbUtlMnQ2ckRIcm5tNGREUm5hV1dFYzc0ZHlrNWRUc2twQWRxUnRJZ1c1R2o3bXExVFQ5d1lWOHNZMWVZcTNONU5DaEVpSVl3Y3R",
       "insight": null,
@@ -730,7 +726,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783204029651_4",
+      "id": "rss_1783207824094_4",
       "headline": "[코스닥] 24.82포인트(2.67%) 내린 904.53 출발 - 서울경제신문",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mTVBXdjBHbmxRdFAtOEt0c3lMeHJyR0JzdTZPMVkxcFQ2a1FuR0t3VldwNFhZaWxLT3lWR2FrUmNWZGk1c2dhR1hsVldvX3JYeXfSAVNBVV95cUxQQmtxbnlac0FrS0g1T20wSmp",
       "insight": null,
@@ -885,7 +881,7 @@
         "low": 740.03,
         "open": 747.4,
         "prevClose": 745.76,
-        "updatedAt": "2026-07-04T22:27:07.645Z",
+        "updatedAt": "2026-07-04T23:30:22.210Z",
         "isMockData": false
       },
       {
@@ -899,11 +895,11 @@
         "low": 707.56,
         "open": 725.58,
         "prevClose": 725.17,
-        "updatedAt": "2026-07-04T22:27:07.925Z",
+        "updatedAt": "2026-07-04T23:30:22.443Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-07-04T22:27:08.704Z",
+    "collectedAt": "2026-07-04T23:30:23.120Z",
     "provider": "finnhub",
     "isMockData": false
   }
