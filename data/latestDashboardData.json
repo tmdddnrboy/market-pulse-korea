@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-07-04T19:18:15.482Z",
+    "generatedAt": "2026-07-04T20:28:42.324Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
     "sources": {
-      "news": "google_news_rss (무료)",
+      "news": "mock (기존 유지)",
       "riskCalendar": "mock (기존 유지)",
       "aiSummary": "mock (기존 유지)",
       "disclosures": "mock (기존 유지)",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-07-04T19:48:15.482Z"
+    "nextUpdateAt": "2026-07-04T20:58:42.324Z"
   },
   "overview": {
     "id": "market_overview",
@@ -865,7 +865,7 @@
         "low": 740.03,
         "open": 747.4,
         "prevClose": 745.76,
-        "updatedAt": "2026-07-04T19:18:08.319Z",
+        "updatedAt": "2026-07-04T20:27:47.911Z",
         "isMockData": false
       },
       {
@@ -879,11 +879,11 @@
         "low": 707.56,
         "open": 725.58,
         "prevClose": 725.17,
-        "updatedAt": "2026-07-04T19:18:08.563Z",
+        "updatedAt": "2026-07-04T20:27:48.190Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-07-04T19:18:09.232Z",
+    "collectedAt": "2026-07-04T20:27:48.950Z",
     "provider": "finnhub",
     "isMockData": false
   }
