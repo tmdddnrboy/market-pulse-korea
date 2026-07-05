@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-07-05T22:55:02.657Z",
+    "generatedAt": "2026-07-05T23:59:29.093Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-07-05T23:25:02.657Z"
+    "nextUpdateAt": "2026-07-06T00:29:29.093Z"
   },
   "overview": {
     "id": "market_overview",
@@ -502,7 +502,7 @@
   ],
   "news": [
     {
-      "id": "rss_1783292095820_0",
+      "id": "rss_1783295962117_0",
       "headline": "역대급 ‘셀 코리아’ 언제 멈추나… 외국인 다시 부를 4가지 조건 - 조선비즈 - Chosunbiz",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc2phVnlFQUNoZUxXMmZ5dU5NemRvMDc1ZS1pS1NETWt4dnhPcUQ3UlB5N2dBNDUxWlhPejdHUGVWUHctYXlIRGtLN2dFbXIycV9UUlRDeDlVbFJTTHNrR2QwQUZNRERfQm1BRUE",
       "insight": null,
@@ -518,13 +518,45 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783292095820_1",
-      "headline": "“변동성 넘으려면 실적뿐”…코스피 반전 열쇠는 삼성전자보다 美 빅테크 - 마켓인",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9UT25laWFpWWVCWjVfemVPTW5yRXVZS2d4aWVwdTRDSi00aElKeUI3OXl1R3EzMHhwQzR4OHFlYWhrcTc5S1VMb1lobXc2U1d5dk81RmJDTmRKbDMwYzVoOUZCZ0hhYkhIQnczaHF",
+      "id": "rss_1783295962118_1",
+      "headline": "지난주 17% 급등락 롤러코스피 장세 변화 올까…삼전·닉스 이벤트 주목 - 매일경제 마켓",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BYlBqb3RfZlpTOXc4dnpjNmV6cVU3OUI2T1JOZDU2bGd0UFdPV2ktOTJ5S0lpMWgySFNOTUM2VHFObHV1dHBHZTVIOXJOQUZVYnc?oc=5\" target=\"_blank\"&gt;지난주 17% 급등",
       "insight": null,
-      "source": "마켓인",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UT25laWFpWWVCWjVfemVPTW5yRXVZS2d4aWVwdTRDSi00aElKeUI3OXl1R3EzMHhwQzR4OHFlYWhrcTc5S1VMb1lobXc2U1d5dk81RmJDTmRKbDMwYzVoOUZCZ0hhYkhIQnczaHFmNW92aVk?oc=5",
-      "publishedAt": "2026-07-05T22:43:23.000Z",
+      "source": "매일경제 마켓",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BYlBqb3RfZlpTOXc4dnpjNmV6cVU3OUI2T1JOZDU2bGd0UFdPV2ktOTJ5S0lpMWgySFNOTUM2VHFObHV1dHBHZTVIOXJOQUZVYnc?oc=5",
+      "publishedAt": "2026-07-05T23:32:33.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "positive",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1783295962118_2",
+      "headline": "[AI MY 증시전망] \"코스피, 공포심리 딛고 반등 모색…반도체 실적 주목\" - 뉴스핌",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wcHpRc2JNc1NiQkktOEJ0SmFaUE94ZFlrTWdjQTI0dmYxZDJ2SEFMbUVGTTdtSVpnVXNiVzZ5Z3I1dHBKc3Z4VmZESGtGc1hhdlBPVHlSWjZBWmZL?oc=5\" target=\"_blank\"&",
+      "insight": null,
+      "source": "뉴스핌",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wcHpRc2JNc1NiQkktOEJ0SmFaUE94ZFlrTWdjQTI0dmYxZDJ2SEFMbUVGTTdtSVpnVXNiVzZ5Z3I1dHBKc3Z4VmZESGtGc1hhdlBPVHlSWjZBWmZL?oc=5",
+      "publishedAt": "2026-07-05T23:50:00.000Z",
+      "category": "earnings",
+      "categoryLabel": "실적",
+      "sentiment": "positive",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1783295962118_3",
+      "headline": "[주간증시전망] 삼성전자 실적이 분수령, 코스피 7300~9000 시험대 - 자본시장뉴스",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vdk1DaEFfVW5SN3NrV1piOVFCWXhkdVBrNEdTV2VjeTlVRDhGNXB0ZFpkd3Rfbm05M0RDM016VmVBNlZZczFVdG9KeUpncHlOOWFmazNRMVpUWE9pZkxJSEQxcWRNblE?oc=5\" t",
+      "insight": null,
+      "source": "자본시장뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vdk1DaEFfVW5SN3NrV1piOVFCWXhkdVBrNEdTV2VjeTlVRDhGNXB0ZFpkd3Rfbm05M0RDM016VmVBNlZZczFVdG9KeUpncHlOOWFmazNRMVpUWE9pZkxJSEQxcWRNblE?oc=5",
+      "publishedAt": "2026-07-05T23:37:49.000Z",
       "category": "earnings",
       "categoryLabel": "실적",
       "sentiment": "neutral",
@@ -534,23 +566,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783292095820_2",
-      "headline": "[증시_마감] 코스피, 外人·기관 동반 매도에 7.89% 급락…코스닥 6%대 하락 - 연합인포맥스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0yRnhqQnM0cDhCSTNRTHRTTHlNdTNlYUdINEJ6MGVSSnNNblR4c19jSVVkSzlCemxHSnZ4VXBfQXdWc2NLV3RUX1p1UFc4QXVxMG1IVS1pak51dXFtOXZ5NmpxYjM5eEhxcGs4M2l",
-      "insight": null,
-      "source": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yRnhqQnM0cDhCSTNRTHRTTHlNdTNlYUdINEJ6MGVSSnNNblR4c19jSVVkSzlCemxHSnZ4VXBfQXdWc2NLV3RUX1p1UFc4QXVxMG1IVS1pak51dXFtOXZ5NmpxYjM5eEhxcGs4M2loNGc?oc=5",
-      "publishedAt": "2026-07-02T06:54:00.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "negative",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1783292095820_3",
+      "id": "rss_1783295962118_4",
       "headline": "[오늘의 증시]8000선 되찾은 코스피…삼전 실적·SK하닉 ADR에 반등 시험대 - 뉴시스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tVWpBekN4d0J3cDJocVN3cFNGTkJld2lsOWNNQkFGM252OXVsU1kwWmNxckRNWmlkNnlVQkMxN0o0TDdkY2g5RUhmaTRYcVNwdjNuUVFBS19tb0tra001UNIBeEFVX3lxTE5lNWx",
       "insight": null,
@@ -566,29 +582,13 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783292095820_4",
-      "headline": "코스피 뉴욕증시, 삼성전자 2분기 잠정실적과 美연준 FOMC 의사록에 달려 있어...10일 SK하이닉스의 ADR 상장도 영향 - 비욘드포스트",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB4bV9hNy1VOV90elpPaE9NNHZIS19MNkRZTmxMT2VNWldYcTd4WEhTWnZBN2t2alJ5NTlwX2d0Xy1xWDdsU1JZaWNzVGp4bndZUFppdVg0X19XTklKUE5MYThXWUlvVkd2U3REWm1",
-      "insight": null,
-      "source": "비욘드포스트",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4bV9hNy1VOV90elpPaE9NNHZIS19MNkRZTmxMT2VNWldYcTd4WEhTWnZBN2t2alJ5NTlwX2d0Xy1xWDdsU1JZaWNzVGp4bndZUFppdVg0X19XTklKUE5MYThXWUlvVkd2U3REWm1XSHVsSFB3WVV4R3IwUmY?oc=5",
-      "publishedAt": "2026-07-05T20:58:00.000Z",
-      "category": "fed",
-      "categoryLabel": "연준",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1783292096612_0",
-      "headline": "[채권-주간] 코스피·환율 바라기…24시간 돌아가는 외환시장 - KB Think",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9IZEZWNjl2UGQ3SDR2MEl6anNtM1h4MmdfOTVLOGJnMGQzc2t3dGt4RDNnMEI5LU0zWlcteEowRGw1bmNpRGVTYjBsR1haRkYxbnRQcjQxVGNyN0xNLXhvUEN3ZWJMR21LdkFLelN",
+      "id": "rss_1783295962976_0",
+      "headline": "[현장에서] 아슬아슬한 코스피를 바라보는 채권시장의 속내 - KB Think",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5yYUJFdkRyV2g2ZVp3UzZla3VGcUpvSHlveWEwRTItUGxYd0p1b3NmMjQ5Z041YVhtX09SQjRRRmpkWXUxU3BtSXliRE8zRmhWTXVSU0dzMXhtcUlLcmU3bm1hTGlLVzBjQTJFeGJ",
       "insight": null,
       "source": "KB Think",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IZEZWNjl2UGQ3SDR2MEl6anNtM1h4MmdfOTVLOGJnMGQzc2t3dGt4RDNnMEI5LU0zWlcteEowRGw1bmNpRGVTYjBsR1haRkYxbnRQcjQxVGNyN0xNLXhvUEN3ZWJMR21LdkFLelNMemU4Zw?oc=5",
-      "publishedAt": "2026-07-05T04:00:00.000Z",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yYUJFdkRyV2g2ZVp3UzZla3VGcUpvSHlveWEwRTItUGxYd0p1b3NmMjQ5Z041YVhtX09SQjRRRmpkWXUxU3BtSXliRE8zRmhWTXVSU0dzMXhtcUlLcmU3bm1hTGlLVzBjQTJFeGJsc3Y3Zw?oc=5",
+      "publishedAt": "2026-07-05T23:32:19.000Z",
       "category": "macro",
       "categoryLabel": "거시경제",
       "sentiment": "neutral",
@@ -598,8 +598,24 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783292096612_1",
-      "headline": "\"대박 날 줄 알았는데\"…유가·금리 내리는데 내 주식계좌는 왜 이럴까[주末머니] - 아시아경제",
+      "id": "rss_1783295962976_1",
+      "headline": "2026년 상반기 금 시장을 다시 읽다 - v.daum.net",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE90RFR4YnhoQVoyelQtR0hnTHNINExMU21zb3czUTdnQ2xadmo0azRwWXdRdmJvZ3ZsR05zLXpOellsVmxncjdidElucXZCYU0?oc=5\" target=\"_blank\"&gt;2026년 상반기 금 시장",
+      "insight": null,
+      "source": "v.daum.net",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90RFR4YnhoQVoyelQtR0hnTHNINExMU21zb3czUTdnQ2xadmo0azRwWXdRdmJvZ3ZsR05zLXpOellsVmxncjdidElucXZCYU0?oc=5",
+      "publishedAt": "2026-07-05T23:33:04.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1783295962976_2",
+      "headline": "\"대박 날 줄 알았는데\"…유가·금리 내리는데 내 주식계좌는 왜 이럴까[��末머니] - 아시아경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ucWMxeEFrdkxZTUJRU3RINzV2ZVVibDY4RnY1NUJrY21DNVFyd2FTUUp2ZFBZdTVvQk5pdGQzLXdTeHRzZTZSU3h1WEZrTXZTSlg2bzA0OTVqb0R1RUdNaQ?oc=5\" target=\"_b",
       "insight": null,
       "source": "아시아경제",
@@ -614,7 +630,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783292096612_2",
+      "id": "rss_1783295962976_3",
       "headline": "\"증시로 돈 빠질라\" 저축은행, 4%대 예금금리 경쟁 - 더구루",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BdlJlYjBsNy1kd3lhcFQ5RTItQmdYSV9UdllhcFR0aUgyTll5S3l3NHFGZVRnZVFaNm9LM0pYYjhZb29ob2hkb0ZTNF9BWUgtcFMxRGo2UE1vSkdlVWpYUmQtYw?oc=5\" target",
       "insight": null,
@@ -630,7 +646,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783292096613_3",
+      "id": "rss_1783295962976_4",
       "headline": "발행어음 금리, 한투 4차례 ↑·신한證 최고...고객잡기 경쟁에 수익성은 부담 - 녹색경제신문",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEQ25jaEczeThDQXVoYXI0SGZLQ210ZEM1aHl2eUk0ZGpESTJnOTdkM2JtVlVvUV9Md1BFa1FUSHRxd2hEZGxxY0lhUjhCRG1VSkNkaHVxVE1RQnBGeG45TDdXSG83ZFVO?oc=5\" ",
       "insight": null,
@@ -646,23 +662,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783292096613_4",
-      "headline": "본업으로 승부 본 삼성카드, 하반기 실적 관건은 '시장금리 안정화' - 블로터",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5kTFctRDdJSHNNVnZQckZJZ3Jfai1FX2owQm1BVGNGQm5ncnlTVXNRXzg5WGdURWc5emFSczVxMC1QSjE1MnF1dFl2VlZhZHdNdnZ0MzdtYWpWN3lmek0xNDUxVnFKd01JWlI2TdI",
-      "insight": null,
-      "source": "블로터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kTFctRDdJSHNNVnZQckZJZ3Jfai1FX2owQm1BVGNGQm5ncnlTVXNRXzg5WGdURWc5emFSczVxMC1QSjE1MnF1dFl2VlZhZHdNdnZ0MzdtYWpWN3lmek0xNDUxVnFKd01JWlI2TdIBbEFVX3lxTE5kTFctRDdJSHNNVnZQckZJZ3Jfai1FX2owQm1BVGNGQm5ncnlTVXNRXzg5WGdURWc5emFSczVxMC1QSjE1MnF1dFl2VlZhZHdNdnZ0MzdtYWpWN3lmek0xNDUxVnFKd01JWlI2TQ?oc=5",
-      "publishedAt": "2026-07-05T03:02:04.000Z",
-      "category": "fed",
-      "categoryLabel": "연준",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1783292097396_0",
+      "id": "rss_1783295963763_0",
       "headline": "[코스닥 30년]① IMF·닷컴버블 거치며 ‘벤처의 요람’ 됐지만…30년째 넘지 못한 출발선 - CEO스코어데일리",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIOFR6a1h2UFdJNTFJWVpjMEljNjBoZ3JQaV9MeGdwUFhKMjY1dXN1U0M1ZHppWFFDeUJwd25naE05N2ptWTE5TjRxTmE3SXJDRGI5ZV9sUTg2WGR1cHV2OEZHR2xiMUNw?oc=5\" ",
       "insight": null,
@@ -678,7 +678,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783292097396_1",
+      "id": "rss_1783295963763_1",
       "headline": "30년간 수익률 제자리 코스닥시장 ... 살릴 방법 있을까? - mkbn.mk.co.kr",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EQzJoMU5scWdKU0NpRXZ1NGhtTEtMcUpWR0ozUHlpUzlaeWstbzFMYXdRemgzbWxsTUR2ODhzUGRldlJFUDg5NUhES0pKTFQ3ekpj?oc=5\" target=\"_blank\"&gt;30년간 수익률 ",
       "insight": null,
@@ -694,23 +694,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783292097396_2",
-      "headline": "대구 상장사 시총 5분기만에 성장 멈춤… 코스닥 침체가 발목 - v.daum.net",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBka1p6RXhNeVRhY3U3RjJtZHhidENCd3pEakIyekpoZUZnbzJXMEhNYVF1ckVNeUVjeVF2OWR5ZWVYa1kwcnZsMTRoSDhyUzQ?oc=5\" target=\"_blank\"&gt;대구 상장사 시총 5분기만",
+      "id": "rss_1783295963763_2",
+      "headline": "[어제장 오늘장] 코스피 8천선 회복…대형주 쏠림에 역대급 변동성 - v.daum.net",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE55UjNVQ21qOWFwUjZzQ1lsR2VCRTNjbXBvQjlLSkp0Z2Z5UHc4OWhxSGcxVFJiWElxYnpxZmlzcFpyY180d3VDc2FXMmRUQ1k?oc=5\" target=\"_blank\"&gt;[어제장 오늘장] 코스피 ",
       "insight": null,
       "source": "v.daum.net",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBka1p6RXhNeVRhY3U3RjJtZHhidENCd3pEakIyekpoZUZnbzJXMEhNYVF1ckVNeUVjeVF2OWR5ZWVYa1kwcnZsMTRoSDhyUzQ?oc=5",
-      "publishedAt": "2026-07-05T11:42:22.000Z",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55UjNVQ21qOWFwUjZzQ1lsR2VCRTNjbXBvQjlLSkp0Z2Z5UHc4OWhxSGcxVFJiWElxYnpxZmlzcFpyY180d3VDc2FXMmRUQ1k?oc=5",
+      "publishedAt": "2026-07-05T23:28:13.000Z",
       "category": "macro",
       "categoryLabel": "거시경제",
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "impact": "medium",
       "relatedTickers": [],
       "provider": "google_news_rss",
       "isMockData": false
     },
     {
-      "id": "rss_1783292097396_3",
+      "id": "rss_1783295963763_3",
       "headline": "키움증권, 코스닥 활성화 정책으로 점유율 회복 기대 By 알파경제 alphabiz - Investing.com 한국어",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE43MExwTDNrVkZGd1FDYkZoMHR1U25GVmJoVkdhRFNPUnVKeXo0VFBiNWx0cHp0bHM2Ty1sSXMwVkh0ajNHLW01WDN0QnpuMExZeERodXk2eVpVQV8xZ28zdG55TThJS2piX2szWEJ",
       "insight": null,
@@ -726,7 +726,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783292097396_4",
+      "id": "rss_1783295963763_4",
       "headline": "포항TP 입주 '㈜스트라드비젼' 코스닥 상장 - 영남경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pRFQyMEtodVV1bVdNR1NJbHFCRjVEZVVBLUg5WGJYS01Yc3hpMmQ4cFFxZlk1ajRpY2w4RGlFdU1nSUV4czBJMlJRT1c3cHNQQ3lBaWV3YWJSYm80aDFlUHdNZ2dRaVk?oc=5\" t",
       "insight": null,
@@ -881,7 +881,7 @@
         "low": 740.03,
         "open": 747.4,
         "prevClose": 745.76,
-        "updatedAt": "2026-07-05T22:54:55.620Z",
+        "updatedAt": "2026-07-05T23:59:21.609Z",
         "isMockData": false
       },
       {
@@ -895,11 +895,11 @@
         "low": 707.56,
         "open": 725.58,
         "prevClose": 725.17,
-        "updatedAt": "2026-07-05T22:54:55.974Z",
+        "updatedAt": "2026-07-05T23:59:21.887Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-07-05T22:54:56.742Z",
+    "collectedAt": "2026-07-05T23:59:22.645Z",
     "provider": "finnhub",
     "isMockData": false
   }
