@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-07-08T21:59:57.733Z",
+    "generatedAt": "2026-07-08T23:13:07.718Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-07-08T22:29:57.733Z"
+    "nextUpdateAt": "2026-07-08T23:43:07.718Z"
   },
   "overview": {
     "id": "market_overview",
@@ -502,7 +502,7 @@
   ],
   "news": [
     {
-      "id": "rss_1783547990816_0",
+      "id": "rss_1783552380779_0",
       "headline": "아비규환 속 주식시장 : 코스피 7500 붕괴하며 중급하락장에 들어갔는데 - Investing.com 한국어",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfbEt4Q3VVblloV0RUb0JYRURuNnJrTmp5NkpOdGM0dVY4bnYyUWNXMEhQam5BbGs1OUJKUnEwNmd6dnhRc1p6bFh1UE56SExaWXJFX1BpeV9yRHFDd0ZVcw?oc=5\" target=\"_b",
       "insight": null,
@@ -518,7 +518,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783547990816_1",
+      "id": "rss_1783552380780_1",
       "headline": "이틀 연속 증시 급락…코스피 5.35%·코스닥 5.56%↓ - 주간조선",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA3TmRlejFBUXZJVmxsa0RQaXk0YmJVYTZaejBUMUR2a0hFMFE1TXdsMXYzejhSZVRrOEhOa0N0RlV0UG9Ub29UWkVxemhSSm9GTmVSRTM2TmxXb1lzaDIzallMMXFwT212ZmfSAW5",
       "insight": null,
@@ -534,7 +534,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783547990816_2",
+      "id": "rss_1783552380780_2",
       "headline": "\"삼전 -6%, 더 빠진다\" 증시 주르륵...코스피·코스닥 '매도 사이드카' - 머니투데이 - 머니투데이",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tRTc2MG5SS1FBNGdqSG9FcDRPM01QY2ZZQXNjOUZhQ2Vxb2tzTDNObmZJejN1Y0wxaVJpbUxhNUozd2NVcWVvTV91TjRoTWVmeW04ZEJsY01GYVBhT0p1U0FSN0VFQkV40gFuQVV",
       "insight": null,
@@ -550,7 +550,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783547990816_3",
+      "id": "rss_1783552380780_3",
       "headline": "[증시-마감] 코스피, 사흘 연속 하락해 7,200선 마감…개인도 '팔자' - 연합인포맥스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBaQ1VSaHlaUzJXTEl4ZmpGV0F4LUhtY2h2WmZ6SVBfc1lQb1gtWW1KN2pzdXNCdk9YMW9EYzMwNUhGTXdpLWxzWXBmUEdqQ08wajFCci1Ea3NwcmU4dTlaa2RRaDZfZ1BPdXA3R18",
       "insight": null,
@@ -566,8 +566,8 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783547990817_4",
-      "headline": "반도체 고점론에 중동불안 겹쳤다…코스피, ��틀연속 급락 - v.daum.net",
+      "id": "rss_1783552380780_4",
+      "headline": "반도체 고점론에 중동불��� 겹쳤다…코스피, 이틀연속 급락 - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qZzJaRjRjMUREaW9OQWlQdlFPVjQwMGhHVFRPQ05qcGhGU25QSUNTLU5xcEdSTmwyZGpsV0tiWjVOOWFleGs1cmUta3VNeGc?oc=5\" target=\"_blank\"&gt;반도체 고점론에 중동불안 ",
       "insight": null,
       "source": "v.daum.net",
@@ -582,7 +582,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783547991678_0",
+      "id": "rss_1783552381634_0",
       "headline": "변동성 너무 무서워 vs 코스피 불장이 기회…둘로 쪼개진 개미 - 마켓인",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1nX1hpaGRNRHdtNmRSNURQOWEyaVVaRWE0LXZDS0xRRW5xMkhRRXVqdHB4SFF3Vm5KX1piWVlpbXdnQWVybTctYjlpSmNaa2RyWEFJbmlCQW9UemhHREM4TzloWlRTXzA2TjFvUXR",
       "insight": null,
@@ -598,23 +598,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783547991678_1",
-      "headline": "\"대박 날 줄 알았는데\"…유가·금리 내리는데 내 주식계좌는 왜 이럴까[주末머니] - v.daum.net",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CMGIwR3E2SEYzM29qUHZBcE9vRElkbXdWeVV1X09oTUpPZkRVbEdZOWJyZlBBUklQU1NUVjBoNGw4QkRsd2VQWWdNR1Jkajg?oc=5\" target=\"_blank\"&gt;\"대박 날 줄 알았는데\"…",
-      "insight": null,
-      "source": "v.daum.net",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CMGIwR3E2SEYzM29qUHZBcE9vRElkbXdWeVV1X09oTUpPZkRVbEdZOWJyZlBBUklQU1NUVjBoNGw4QkRsd2VQWWdNR1Jkajg?oc=5",
-      "publishedAt": "2026-07-05T02:03:00.000Z",
-      "category": "fed",
-      "categoryLabel": "연준",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1783547991678_2",
+      "id": "rss_1783552381634_1",
       "headline": "[굿모닝! 금융지식] 기준금리는 누가 정하고 왜 중요할까 - 굿모닝경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1rMXc2RS1KWC1zMXpJMlVfMldObkRHNXZZa1JWbFlpbmQ3cVZ5NmdSN3ZEeHJoUFZUZHZZanZnM2dlQmVJSFNGb1BYMXlydlk5UTMtbElkendXRmtwTGJkSUxtVllCUzlBZVg5Vw?",
       "insight": null,
@@ -630,7 +614,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783547991678_3",
+      "id": "rss_1783552381634_2",
+      "headline": "\"대박 날 줄 알았는데\"…유가·금리 내리는데 내 주식계좌는 왜 이럴까[주末머니] - v.daum.net",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CMGIwR3E2SEYzM29qUHZBcE9vRElkbXdWeVV1X09oTUpPZkRVbEdZOWJyZlBBUklQU1NUVjBoNGw4QkRsd2VQWWdNR1Jkajg?oc=5\" target=\"_blank\"&gt;\"대박 날 줄 알았는데\"…",
+      "insight": null,
+      "source": "v.daum.net",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CMGIwR3E2SEYzM29qUHZBcE9vRElkbXdWeVV1X09oTUpPZkRVbEdZOWJyZlBBUklQU1NUVjBoNGw4QkRsd2VQWWdNR1Jkajg?oc=5",
+      "publishedAt": "2026-07-05T02:03:00.000Z",
+      "category": "fed",
+      "categoryLabel": "연준",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1783552381634_3",
       "headline": "롤러코스피에 역 머니무브 가속화…5대銀 정기예금 12조 쑥 - 아주경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwZ3hrcWQtOHN4UHNrUDRlUmdtUXl3TGxBSG5TZU81ck12WDdWNHhoQWs4ZjJWWHRzTkNWQzJfVDlzbWFYa1FEdks1aVFsUnA4NWVsaU5wWkdsUdIBWEFVX3lxTE03Q2JmdmQxTkZ",
       "insight": null,
@@ -646,7 +646,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783547991678_4",
+      "id": "rss_1783552381635_4",
       "headline": "“연준, 금리 덜 올릴 수도”…옵션시장에 정책 선회 베팅 확산│Global Money Club - 중앙일보",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE53ZW56c1Fvd054T0tQa0tKMW5WY3B6WWYzNWI5cFN6YXVtdWl5Vi15Y0xtejE0cE1YSlBXSUs2MG9yclNJbEZlMUZaU1BlZlJ2RDB1eTl4OHJlN28?oc=5\" target=\"_blank\"&g",
       "insight": null,
@@ -662,7 +662,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783547992467_0",
+      "id": "rss_1783552382459_0",
       "headline": "코스피 7200선 후퇴·코스닥 800선 붕괴…‘패닉셀’에 나란히 매도 사이드카 [투자360] - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pUFAwcFQxTlNsc3JWSVJxcVRmZVdvRmozbEpNc01tdDl3ZHVFWEhfWVNHd0ZqNmVqU3kwd096ZHBYMUVKbXpTc0NLaWFud3c?oc=5\" target=\"_blank\"&gt;코스피 7200선 후퇴·코",
       "insight": null,
@@ -678,7 +678,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783547992467_1",
+      "id": "rss_1783552382459_1",
       "headline": "[간추린 경제] 1. \"세금 체납 추적\" 2. 코스피·코스닥 5%대 동반 급락‥환율 1,400원대 - MBC 뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9FTVdqVEI2NjhRLUVuQ0IxemNLWVprUFBEWlpBc1lFUjVtQzc1SXdUVHNGQjdGTVlRU3dSMXNUR2JvWU8xRnNteWtuVWNXc3djcXNVbVIyc1YxT2gtS3psOGlVV1kzQzFNektGQWM",
       "insight": null,
@@ -694,7 +694,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783547992467_2",
+      "id": "rss_1783552382459_2",
       "headline": "[속보] 코스피 이어 코스닥도 매도 사이드카 발동 - v.daum.net",
       "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Uc2VaRXYtQ0wzdEJTQkhFLUhrUTNHZUYyUl9uZ1RiWWd3TGVLc01YU0tGYVNkc3N4WlNtbzhQVFlmSEVyMFpRaW81QkZ5R00?oc=5\" target=\"_blan",
       "insight": null,
@@ -710,7 +710,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783547992467_3",
+      "id": "rss_1783552382459_3",
       "headline": "[속보] 코스닥, 장중 800선 아래로…10개월 만 - 서울경제신문",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yMlU1d1Q5VnY4TVNzYmh3SmpMUF9SUzFGWHZod1JvRTJHa0pndTQ3VEh0MTR2aVU4SDFkMkVWOFNLYjJyd2F5Rm14UkptbWpNSUHSAVNBVV95cUxNT0pUU2IteGpkU09jeUplcXV",
       "insight": null,
@@ -726,7 +726,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783547992467_4",
+      "id": "rss_1783552382459_4",
       "headline": "코스닥 10개월 만에 800선 붕괴…이달 들어 9.4% 급락해 ‘천스닥’ 무색 - 일간투데이",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5kbHFGenFwTldFdHU0Zm5scDU2UlhEekZQcWE4T3ExYkdDVm9KbmFYREpnY3RCcjRnaW1OcG1EaTBHRW1xS3JtUDBQSzdKYjIwcUVOdTlZRTBTWlJXaElBMGlfbzkxWEhZZE9v?oc",
       "insight": null,
@@ -881,7 +881,7 @@
         "low": 739.51,
         "open": 743.16,
         "prevClose": 747.71,
-        "updatedAt": "2026-07-08T21:59:50.525Z",
+        "updatedAt": "2026-07-08T23:13:00.588Z",
         "isMockData": false
       },
       {
@@ -895,11 +895,11 @@
         "low": 700.91,
         "open": 704.95,
         "prevClose": 709.43,
-        "updatedAt": "2026-07-08T21:59:50.767Z",
+        "updatedAt": "2026-07-08T23:13:00.886Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-07-08T21:59:51.445Z",
+    "collectedAt": "2026-07-08T23:13:01.745Z",
     "provider": "finnhub",
     "isMockData": false
   }
