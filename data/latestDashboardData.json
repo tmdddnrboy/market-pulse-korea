@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-07-12T09:24:29.515Z",
+    "generatedAt": "2026-07-12T10:51:01.360Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-07-12T09:54:29.515Z"
+    "nextUpdateAt": "2026-07-12T11:21:01.360Z"
   },
   "overview": {
     "id": "market_overview",
@@ -502,7 +502,7 @@
   ],
   "news": [
     {
-      "id": "rss_1783848262731_0",
+      "id": "rss_1783853454420_0",
       "headline": "코스피 7000 지켜낼까…CPI·금통위·TSMC 실적 ‘3중 관문’[주간증시] - 에너지경제신문",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5X0FvMXl0Vzl1MDhIM0dTTzRKWVZNSElIendiT0RTTm5mNG56RG9UVWJmUUEwYUdZQ0JZYndtRnl3aE9EQ0w0QVVuU1RqN2d6ell3UW1UcGxacm8?oc=5\" target=\"_blank\"&g",
       "insight": null,
@@ -518,7 +518,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783848262732_1",
+      "id": "rss_1783853454421_1",
       "headline": "흔들리는 코스피, 한은 금통위·미국 물가·TSMC 실적 촉각 - 머니투데이 - 머니투데이",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0a3pZenl2eEVfRGVYUTJ5UVoxZW8zZFRkR3gyRzVXQ1FzY2xWODVaVmpWbmdKQWozR1ZqdDdPdmlqb3pfZjhjRzU5SzdYcG1la21RaXQtTV92Rmlwc0xhb0p6bVVFb3hB0gFuQVV",
       "insight": null,
@@ -534,7 +534,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783848262732_2",
+      "id": "rss_1783853454421_2",
       "headline": "[주간증시전망] ASML·TSMC 실적에 쏠린 눈…코스피 반등 이어질까 - 글로벌이코노믹",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3NMTGVIR3c3UmFHVzBYN1pEUXZycnRPTTJ0RzNnZXd2b252aHRoWWhzcnVxTjhnQTdwdDhJNklab3lkN3dhS2g1U3BlX3J4cEZ6ZEJtUldVX1M4WHd5a0RJRlMwemZacEsxbjV",
       "insight": null,
@@ -550,23 +550,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783848262732_3",
-      "headline": "9300에서 7400된 코스피...\"급반전 가능. 가격은 역사적 저점\" [주간 증시 전망] - 파이낸셜뉴스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQM0NCbDAxZ05MVkN0Vk9MeFRoVnQwMXNpeHlLZjdjZUJEWktFdlNEMlljLTE1SHdaWHNWWklwbG9oMWVRU0d5SnZ0MkVCMnRJX3dVdW9PLUtsUQ?oc=5\" target=\"_blank\"&gt",
-      "insight": null,
-      "source": "파이낸셜뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQM0NCbDAxZ05MVkN0Vk9MeFRoVnQwMXNpeHlLZjdjZUJEWktFdlNEMlljLTE1SHdaWHNWWklwbG9oMWVRU0d5SnZ0MkVCMnRJX3dVdW9PLUtsUQ?oc=5",
-      "publishedAt": "2026-07-12T03:39:08.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1783848262732_4",
+      "id": "rss_1783853454421_3",
       "headline": "[퇴근길머니] ’반도체 투심 회복’ 코스피 상승…SK하이닉스, 美 증시 데뷔전 - 연합뉴스TV",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MX0ZLTVhNX29HYkJhWG1rR2NOY2xVcGRISFRzay1id1k1cHh4ZEg2MDFybmUtcXk1dnRNSXpLWHNWRlh3UE81ODZORURsWVZsbEVZOEdwSUNsNkZPWkJLeHR1N0FDMW8?oc=5\" t",
       "insight": null,
@@ -582,7 +566,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783848263534_0",
+      "id": "rss_1783853454421_4",
+      "headline": "7% 급락 코스피, 이번주 ASML·TSMC에 달렸다…“7000선 중요 지지선” [증시전망대] - v.daum.net",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zUVp1MWd3d1cxb1RQNVdoV1E2SXFGNzB5b0hYbWV1VlJId3lWZmQwUlUyMU9BdzBjVks4QUpZUzBJZS1NdDh0MzNZR0V0RW8?oc=5\" target=\"_blank\"&gt;7% 급락 코스피, 이번주",
+      "insight": null,
+      "source": "v.daum.net",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zUVp1MWd3d1cxb1RQNVdoV1E2SXFGNzB5b0hYbWV1VlJId3lWZmQwUlUyMU9BdzBjVks4QUpZUzBJZS1NdDh0MzNZR0V0RW8?oc=5",
+      "publishedAt": "2026-07-12T00:40:11.000Z",
+      "category": "sector",
+      "categoryLabel": "섹터",
+      "sentiment": "negative",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1783853455154_0",
       "headline": "증시 변동성에 예금으로 ‘U턴’…열흘 만에 정기예금 12조 유입 - 뉴시안",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE42VG9QNFJSMkxBbHZjMTFPS0R5UHNvNTgtTlVxam11eDhnZ29xdEl3RzB1RnNPek1PMUZCVDNsYTA3U2VPSUtfSFBQNjczNU5TaXUzNjZhdHNsRV9fUmNINjJnWmxoemxXd1HSAW5",
       "insight": null,
@@ -598,7 +598,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783848263534_1",
+      "id": "rss_1783853455154_1",
       "headline": "주식 시장 불붙자 예금금리도 뛴다…저축은행, 4%대로 '수신 방어전' - 더구루",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IZGpfeF9melVpSXdySW55OWpjNVVmUVdHblVJRXNNOHlHS1VEY2ZyeU03OEJfUUVSNGVqM3NsQ2NLWmNYSUN3dDdQM0VXNXhkUVpDODhlRmZlZ0FUOFZhU2MwNA?oc=5\" target",
       "insight": null,
@@ -614,7 +614,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783848263534_2",
+      "id": "rss_1783853455154_2",
       "headline": "[돈MORE]롤러코스피에 돌아온 예금…\"그래도 언제든 다시 증시로\" - 비즈워치",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBZWksxSTQtNUgyd2RMTmdMWFZDdUx1LTRYeU8zaEwxS2M1YnQyaGMwUEF5VjNTQVIxWDVNbjBONWNpeFNFeHJaZnVjSFBDT3U2c1NKNnVCc0NpakhLS19YMHVoemJDUGdFME9n?oc",
       "insight": null,
@@ -630,23 +630,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783848263534_3",
-      "headline": "\"회사채보다 은행 대출\"��하반기도 증권사 DCM 한파 우려 - ebn.co.kr",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zZmZPSmNHajJOLUVQeUswejNLQ05QVkhWQXBnT2RtR0pTLTdkU09POHFlcllpWklvcEs1RnFoRFpSMjJkb1pRS2dEdGZnVjdvb3BHQVoxUUdnWE9GVFJnemNESzRmc1Rv?oc=5\" ",
-      "insight": null,
-      "source": "ebn.co.kr",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zZmZPSmNHajJOLUVQeUswejNLQ05QVkhWQXBnT2RtR0pTLTdkU09POHFlcllpWklvcEs1RnFoRFpSMjJkb1pRS2dEdGZnVjdvb3BHQVoxUUdnWE9GVFJnemNESzRmc1Rv?oc=5",
-      "publishedAt": "2026-07-11T21:00:00.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "negative",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1783848263534_4",
+      "id": "rss_1783853455154_3",
       "headline": "신현송 \"적절한 시기 금리 인상…증시 추세적 하락 가능성 제한적\" - 한국일보",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE8wcWRuUk52WXhHdmtGRDNFNVo1NFFWQWw3el9qMGxtTXFLV1loTXdTZnkxbXpTUld3RzFlVHdpZFZXZHJQX2hPUjZjel9zUmNVcXFjVkNBakUtS28tWjE0WjVMZWJYQnNDZExKNUJ",
       "insight": null,
@@ -662,7 +646,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783848264308_0",
+      "id": "rss_1783853455155_4",
+      "headline": "\"회사채보다 은행 대출\"…하반기도 증권사 DCM 한파 우려 - ebn.co.kr",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zZmZPSmNHajJOLUVQeUswejNLQ05QVkhWQXBnT2RtR0pTLTdkU09POHFlcllpWklvcEs1RnFoRFpSMjJkb1pRS2dEdGZnVjdvb3BHQVoxUUdnWE9GVFJnemNESzRmc1Rv?oc=5\" ",
+      "insight": null,
+      "source": "ebn.co.kr",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zZmZPSmNHajJOLUVQeUswejNLQ05QVkhWQXBnT2RtR0pTLTdkU09POHFlcllpWklvcEs1RnFoRFpSMjJkb1pRS2dEdGZnVjdvb3BHQVoxUUdnWE9GVFJnemNESzRmc1Rv?oc=5",
+      "publishedAt": "2026-07-11T21:00:00.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "negative",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1783853455936_0",
       "headline": "30주년에도 웃지 못한 코스닥…인버스는 두 자릿수 수익 - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KNlYwZW50YW5Dek1nYmZzcnB1MDlKdXplQ3ZCREV2bUFSOE91X1I3dzV6X3F1TFhTTE0zMHZNaVpORFRMOHVGaTljZzBGWVE?oc=5\" target=\"_blank\"&gt;30주년에도 웃지 못한 코",
       "insight": null,
@@ -678,7 +678,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783848264308_1",
+      "id": "rss_1783853455936_1",
       "headline": "[경제]코스피·코스닥 4일 만에 상승...하이닉스 '급등' - YTN",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBocUxCV0RENUtqR192V0NiR1kyTGQzcl9zZWs1ZlpZRWRNRUhnUElob09FeTl3NzktMU9TUE1ObjRoYURTNmdzQlRNX0NzcnVYYXZOR3RfTUJKbEJaVlJRX2R4cnp6aVdtOVVxaEV",
       "insight": null,
@@ -694,7 +694,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783848264308_2",
+      "id": "rss_1783853455936_2",
       "headline": "코스피 이어 코스닥도 매수 사이드카 발동 - 한국경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlR0RKcnd3enNmRXpTa1V3QUp3NTVSTkJxZWFiTkVCN2JLYzUxSGhQNUtwc2R2RklDSXFzZTNVRXdJZmJrYktPeDNoM3dOLWpTbDdEWkhleFBwZ9IBVEFVX3lxTE15TVB1dFBjNkh",
       "insight": null,
@@ -710,7 +710,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783848264308_3",
+      "id": "rss_1783853455936_3",
       "headline": "기관 1조7000억원 순매수…코스피 2.5%·코스닥 5.5% 급반등 - 디지털데일리",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ja3hZUmcyNTVCeVJncnp5Yy14VnRSY3NyLWhIMVlqT3pnbEJsWFdwMTFyaE9VWXNUWGFNNVpuTG9QZFdPLVRDWXowcXI1dmpwbWpLUHJqcF96SG9UR3JnbDZoVGE?oc=5\" targe",
       "insight": null,
@@ -726,7 +726,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1783848264308_4",
+      "id": "rss_1783853455936_4",
       "headline": "반도체 훈풍에 코스피 7400선 회복...코스닥은 5.4% 급등 - 한국일보",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBLdWphZzl2VFUtNUdJNkd6aTNra0pYRENacWZfUDVqQmhyMWU2b3JnX3pyWWdXRm1ZRjdhMDdpMUtOa3ZTR3VKbUs4bHlIRGhqSXpUZUh6N3JoZ3NoMnpnc3I5eVV4enU5R0loYUZ",
       "insight": null,
@@ -881,7 +881,7 @@
         "low": 748.1,
         "open": 752.05,
         "prevClose": 751.71,
-        "updatedAt": "2026-07-12T09:24:22.357Z",
+        "updatedAt": "2026-07-12T10:50:54.278Z",
         "isMockData": false
       },
       {
@@ -895,11 +895,11 @@
         "low": 717,
         "open": 720.7,
         "prevClose": 723.28,
-        "updatedAt": "2026-07-12T09:24:22.601Z",
+        "updatedAt": "2026-07-12T10:50:54.552Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-07-12T09:24:23.298Z",
+    "collectedAt": "2026-07-12T10:50:55.309Z",
     "provider": "finnhub",
     "isMockData": false
   }
