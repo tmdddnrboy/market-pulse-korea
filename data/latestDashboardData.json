@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-07-24T11:15:17.598Z",
+    "generatedAt": "2026-07-24T12:53:37.397Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-07-24T11:45:17.598Z"
+    "nextUpdateAt": "2026-07-24T13:23:37.397Z"
   },
   "overview": {
     "id": "market_overview",
@@ -502,23 +502,7 @@
   ],
   "news": [
     {
-      "id": "rss_1784891710753_0",
-      "headline": "중동 정세에 국제유가 급등하며 국내 증시 하락‥코스피·코스닥 매도 사이드카 - MBC 뉴스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4zRUYweGV0NmcyUE1NRWlYYm5kTlNOcW84QmNibW53VDNHQnh3Z3JXOUpaZDRUd1RMYnM5c3hqb1NsSC1fTVMtNG5rYmpHRUY4eWNKWVVfWktLSzl1cTNjSEgweDhsVjUzRlRHckI",
-      "insight": null,
-      "source": "MBC 뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zRUYweGV0NmcyUE1NRWlYYm5kTlNOcW84QmNibW53VDNHQnh3Z3JXOUpaZDRUd1RMYnM5c3hqb1NsSC1fTVMtNG5rYmpHRUY4eWNKWVVfWktLSzl1cTNjSEgweDhsVjUzRlRHckItSTFlbzBt0gF0QVVfeXFMT3QwSHVUeGxMdGhQVERjM21oSGlRQU9TaDc5NEVkaTVycS1MWnplaVN2d2R6cE4wcUh0dUQxZlM5VFhWZXJYLUlmX2l0bVZZeUNGRk5JbVBFMm1BSDZBZEM1cTJ2VGFkSjRkOU1KYUxjaWVvYXY?oc=5",
-      "publishedAt": "2026-07-24T04:48:49.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1784891710754_1",
+      "id": "rss_1784897610435_0",
       "headline": "유가 상승에 증시 충격…코스피·코스닥 5%대 하락 마감 - KBS 뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IVlhxWnJTWnBBMVh5Zm51WjRxLThhdnd1dTh5WDgxbHJJUEdVemZEREpGcFcyay1VeHdidDEtMzE1QnprMVZmdngtSWNodzdvMWhwZVNaeUFVS2FBQ1JyS2Q4eUJOQQ?oc=5\" ta",
       "insight": null,
@@ -534,39 +518,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1784891710754_2",
-      "headline": "[증시-마감] AI 비용·확전 우려에 코스피 5.7% 급락…6,690대 후퇴 - 연합인포맥스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBucW9WMGkzWWFlOGZqeHp6LWhPOGp0N1ZFdDJBdFZfbGlNMlFnWTJ6MFNXRVd1eWtQdUhhc1JJVE1VUFNEeURTSUZmNTA2TmpQazVYVW91MlR5TktCajZha0dkX2J5SUV6YWZGTmt",
-      "insight": null,
-      "source": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBucW9WMGkzWWFlOGZqeHp6LWhPOGp0N1ZFdDJBdFZfbGlNMlFnWTJ6MFNXRVd1eWtQdUhhc1JJVE1VUFNEeURTSUZmNTA2TmpQazVYVW91MlR5TktCajZha0dkX2J5SUV6YWZGTmt1b3c?oc=5",
-      "publishedAt": "2026-07-24T07:04:00.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "negative",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1784891710754_3",
-      "headline": "올해만 사이드카 41번 ‘롤러코스피’…증시 전문가들 “추격 매도 경계해야” - 이코노미스트",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yb1F3UWpaYkNhbmg2VlBIY3BQeEdBN2d0ck5VZEVKR21OSVpXYldGU01hM2FUSEh0U2RFa1U0b3B0OGRsaVZsdV91WDFVOEhlMGEwYzZMSWotQW1FbjM2U3d3?oc=5\" target=\"",
-      "insight": null,
-      "source": "이코노미스트",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yb1F3UWpaYkNhbmg2VlBIY3BQeEdBN2d0ck5VZEVKR21OSVpXYldGU01hM2FUSEh0U2RFa1U0b3B0OGRsaVZsdV91WDFVOEhlMGEwYzZMSWotQW1FbjM2U3d3?oc=5",
-      "publishedAt": "2026-07-24T08:01:00.000Z",
-      "category": "sector",
-      "categoryLabel": "섹터",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1784891710754_4",
+      "id": "rss_1784897610435_1",
       "headline": "유가 100달러 충격에 검은 금요일...코스피 다시 6천선으로 - YTN",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE45RGZKbTYweUxGbUZhOHNfREdfTFY3eHlTS095UjNXdDVEcElfS3lXank0WTM1THNLalhtVUI2OXZQNVNhWk4ybFlvdUhzNnA2Ump2OVUtOTZJYURZWXc?oc=5\" target=\"_blan",
       "insight": null,
@@ -582,7 +534,55 @@
       "isMockData": false
     },
     {
-      "id": "rss_1784891711473_0",
+      "id": "rss_1784897610435_2",
+      "headline": "[마켓뷰] 공포가 덮친 증시… 코스피 6600선으로 ‘털��’ - 조선비즈 - Chosunbiz",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbmkybU02clFMQktaV05MSElRclZhY0JUM05SN2NWcG1rSU5wSnFzZlBnYzNXdkpVanM2dW9seGdsTWVSaEQtNEtnX20xSVNSa3V3dzRoanhZS0JJby1yMG5NZTJETWU1MzMxc3l",
+      "insight": null,
+      "source": "Chosunbiz",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbmkybU02clFMQktaV05MSElRclZhY0JUM05SN2NWcG1rSU5wSnFzZlBnYzNXdkpVanM2dW9seGdsTWVSaEQtNEtnX20xSVNSa3V3dzRoanhZS0JJby1yMG5NZTJETWU1MzMxc3lqU2JDQTJwOHBycDlOTFFhWTFQSHZWM2FNVk1X0gGcAUFVX3lxTFA3NXpIOFoySjlpcllVS0tLNHd6ei1kbjB6ci0tQXptZ1BpbU9Ocy1raWtYcEYyeld4ZnZ6Mk5JdTNRRFQ3aGNWU2JDejN1bTlpWTJlc1d5SXFlUFRfMlNVbjM0bGVZMEJwa1U3MUp2Sk85ellpTkZKN0wtMV9Pc1pCVXBPMk1OS2RfaE40dEZoZGZ4eFVWX1RYQlNGVg?oc=5",
+      "publishedAt": "2026-07-24T06:36:00.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1784897610435_3",
+      "headline": "[증시-마감] AI 비용·확전 우려에 코스피 5.7% 급락…6,690대 후퇴 - 연합인포맥스",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBucW9WMGkzWWFlOGZqeHp6LWhPOGp0N1ZFdDJBdFZfbGlNMlFnWTJ6MFNXRVd1eWtQdUhhc1JJVE1VUFNEeURTSUZmNTA2TmpQazVYVW91MlR5TktCajZha0dkX2J5SUV6YWZGTmt",
+      "insight": null,
+      "source": "연합인포맥스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBucW9WMGkzWWFlOGZqeHp6LWhPOGp0N1ZFdDJBdFZfbGlNMlFnWTJ6MFNXRVd1eWtQdUhhc1JJVE1VUFNEeURTSUZmNTA2TmpQazVYVW91MlR5TktCajZha0dkX2J5SUV6YWZGTmt1b3c?oc=5",
+      "publishedAt": "2026-07-24T07:04:00.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "negative",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1784897610435_4",
+      "headline": "올해만 사이드카 41번 ‘롤러코스피’…증시 전문가들 “추격 매도 경계해야” - 이코노미스트",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yb1F3UWpaYkNhbmg2VlBIY3BQeEdBN2d0ck5VZEVKR21OSVpXYldGU01hM2FUSEh0U2RFa1U0b3B0OGRsaVZsdV91WDFVOEhlMGEwYzZMSWotQW1FbjM2U3d3?oc=5\" target=\"",
+      "insight": null,
+      "source": "이코노미스트",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yb1F3UWpaYkNhbmg2VlBIY3BQeEdBN2d0ck5VZEVKR21OSVpXYldGU01hM2FUSEh0U2RFa1U0b3B0OGRsaVZsdV91WDFVOEhlMGEwYzZMSWotQW1FbjM2U3d3?oc=5",
+      "publishedAt": "2026-07-24T08:01:00.000Z",
+      "category": "sector",
+      "categoryLabel": "섹터",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1784897611312_0",
       "headline": "美국채금리, 5% 재시험할 듯…\"인플레·재정적자에 상방 압력\" - 연합인포맥스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1qbjNMVGdQamNnNjFyRG1oY2NlRXZTeGVkRHd0WVY5d0JKR2xfMTFrV3RJYllaTk1yRnZKUHZRN0VibWtmU080Q3RFQ3pOMG1OZ0dfSzdzcTJfYVphSUJScWcwc1pqU1czd01tak5",
       "insight": null,
@@ -598,7 +598,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1784891711473_1",
+      "id": "rss_1784897611312_1",
       "headline": "[글로벌 증시 따라잡기] 중동 전쟁 재격화, 나스닥 2%대 하락…내용은? - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XYnk0Tng2dVY0OEY2LVlUZEo5b3ZtMVN3X1dKMkR0Z0FNeXFsMnExN1ZrcnZaVlV1QXJyN3ZIOGY1Vm4xbDk2Z0dSaUlQNjQ?oc=5\" target=\"_blank\"&gt;[글로벌 증시 따라잡기] ",
       "insight": null,
@@ -614,7 +614,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1784891711473_2",
+      "id": "rss_1784897611312_2",
       "headline": "결국 또 넘겼다...100달러 돌파한 유가, 주식시장 걸림돌되나 - 오피니언뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE8tMU9GMXE4ajk1bjY5NHNxb3YyWjMtVG9ULXJyeENiRTJVVnAzd2JTVWlXVmRKSG9Pa2tYSkJZU2hIMk4ySllydHAzeWZMRUVsbUhFM0VCWXZFd1FFc1pGUVBsQUZvaGxRM2VtT2t",
       "insight": null,
@@ -630,7 +630,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1784891711473_3",
+      "id": "rss_1784897611312_3",
       "headline": "중동 불안에 유가 급등, 금리 인상 우려에 코스피 6690까지 밀려 - 한겨레",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5QeHlwWHI1YUoxRUJySjJPM1lrYWxhbl9PYzJqOEdnZ0hOQW1WeUhTWkFQRGo1a09pdk81VTVHeHo5Mm1LM0JmNzdCN2M4VXM3TkcxUGhwTUNZdlYyRGlRSmdQYkNtS3RXUXJlSjN",
       "insight": null,
@@ -646,15 +646,15 @@
       "isMockData": false
     },
     {
-      "id": "rss_1784891711474_4",
-      "headline": "2026년 7월 24일 금융시장 동향 - KB Think",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE96clAwS3R0ekYyX2R0ZmllaGJ6bUdUN1R3VXc0YTRIQWd1OTlPUzBiSk94LWxsV1Q1NVZYc005TDFrNmpoXzNKaHEzdWVRMDhFT0o0aEZiYkYxWGhWU25rZUg0b1Q?oc=5\" targe",
+      "id": "rss_1784897611313_4",
+      "headline": "5대 금융, 상반기 순익 13조 돌파…증시·금리 쌍끌이에 역대급 실적 - 글로벌이코노믹",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGxJdF9sYnZxeHFmc0dYYkZ6QkRvVFYtU3IxeVVPU3VQYTZCV0dFa3UybkJ1Sk9fOGRvYk1xSUNMdVFnbGI1bFl5VDI0cF81eHFKdG00Q3dGVjc2Ri1QR1k0T0RiMlhXbVYwX28",
       "insight": null,
-      "source": "KB Think",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96clAwS3R0ekYyX2R0ZmllaGJ6bUdUN1R3VXc0YTRIQWd1OTlPUzBiSk94LWxsV1Q1NVZYc005TDFrNmpoXzNKaHEzdWVRMDhFT0o0aEZiYkYxWGhWU25rZUg0b1Q?oc=5",
-      "publishedAt": "2026-07-24T00:19:15.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
+      "source": "글로벌이코노믹",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGxJdF9sYnZxeHFmc0dYYkZ6QkRvVFYtU3IxeVVPU3VQYTZCV0dFa3UybkJ1Sk9fOGRvYk1xSUNMdVFnbGI1bFl5VDI0cF81eHFKdG00Q3dGVjc2Ri1QR1k0T0RiMlhXbVYwX280NDJfOEZiUmJvMDNGT1RMTlhrYzR0TWo?oc=5",
+      "publishedAt": "2026-07-24T09:43:01.000Z",
+      "category": "fed",
+      "categoryLabel": "연준",
       "sentiment": "neutral",
       "impact": "medium",
       "relatedTickers": [],
@@ -662,23 +662,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1784891712229_0",
-      "headline": "코스피 이어 코스닥도 나란히 매도 사이드카…변동성 극심 - v.daum.net",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NQVk5bXhQeS1tLXBZNHdpbkRvdFF1RVAzcm9ycTNLdzlzREpVOE9hZ1o4SlZUZE5naF9PcWVPYmhZT2tYSXU0TDZKb0tYblU?oc=5\" target=\"_blank\"&gt;코스피 이어 코스닥도 나란",
+      "id": "rss_1784897612133_0",
+      "headline": "[食전食후] 코스피·코스닥 5%대 급락…양대 시장 '매도 사이드카' - v.daum.net",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE0xU1VjVWptdlFUQUhHNDVpd2RaTEpfNnhnRlpGQUNPQXhkaV9rems5OExmNHhpdDNWeTdCc25PY1RtOUNQUFE?oc=5\" target=\"_blank\"&gt;[食전食후] 코스피·코스닥 5%대 급락…양대 시",
       "insight": null,
       "source": "v.daum.net",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NQVk5bXhQeS1tLXBZNHdpbkRvdFF1RVAzcm9ycTNLdzlzREpVOE9hZ1o4SlZUZE5naF9PcWVPYmhZT2tYSXU0TDZKb0tYblU?oc=5",
-      "publishedAt": "2026-07-24T04:39:12.000Z",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0xU1VjVWptdlFUQUhHNDVpd2RaTEpfNnhnRlpGQUNPQXhkaV9rems5OExmNHhpdDNWeTdCc25PY1RtOUNQUFE?oc=5",
+      "publishedAt": "2026-07-24T04:31:13.000Z",
       "category": "macro",
       "categoryLabel": "거시경제",
-      "sentiment": "neutral",
+      "sentiment": "negative",
       "impact": "medium",
       "relatedTickers": [],
       "provider": "google_news_rss",
       "isMockData": false
     },
     {
-      "id": "rss_1784891712229_1",
+      "id": "rss_1784897612133_1",
       "headline": "중동발 유가 급등에 급락…코스피·코스닥 '매도 사이드카' [종합] - 한국경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zV25TOWJGM1Q5aENveXJJdEhRZnNMQWJ0VUI2SXFndXN0Vkl5em83OVV1SXl0S2ROdklXaVFMRl8zOEFvT1ROT1ByVVJpa1duZnRMTWRFRklCQQ?oc=5\" target=\"_blank\"&gt",
       "insight": null,
@@ -694,7 +694,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1784891712229_2",
+      "id": "rss_1784897612133_2",
       "headline": "'삼전닉스' 또 미끄러졌다… 유가 급등에 코스피·코스닥 급락 - 한국일보",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5DcjVXd2FCeXdFYU1TaUVySDIwSlhUY3lGNEliM3A4Rkp5TmtLaFh1NVMwZExfLXdKYTBWQmw0TVZVd1JfSUFTeVlPQ19kdF9hNDQteEJrNTRBU1dJRllMaGphd2NlQXhwd3RNUGZ",
       "insight": null,
@@ -710,7 +710,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1784891712229_3",
+      "id": "rss_1784897612133_3",
       "headline": "[속보] 코스피 이어 코스닥도 급락에 매도 사이드카 - 매일경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2a1ZKWnlFWjhpRnJsNzBQSlVtSEtKa2dDOTdFbFFVRzZ3SEZPNGtlMXJPSE5EWXV2dlhKVWpCd3JtZUZmYkZBcHFQOXd6eGlfVXc?oc=5\" target=\"_blank\"&gt;[속보] 코스피 이",
       "insight": null,
@@ -726,7 +726,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1784891712229_4",
+      "id": "rss_1784897612133_4",
       "headline": "[코스닥] 42.06포인트(5.32%) 내린 748.22 마감 - 서울경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NVjB5LXNlUl9ibmtrN3R3UktBNGxWNERsYlhxNDMtUVJBVnBpRHB1SHJqUDZsRkx6YlZaUFU5TVVaNThIMnlId1RhdTZ5NDI4MmfSAVNBVV95cUxONnpEYkNkbzFiT0ZEekxwSTd",
       "insight": null,
@@ -881,7 +881,7 @@
         "low": 735.21,
         "open": 739.37,
         "prevClose": 747.41,
-        "updatedAt": "2026-07-24T11:15:10.284Z",
+        "updatedAt": "2026-07-24T12:53:30.066Z",
         "isMockData": false
       },
       {
@@ -895,11 +895,11 @@
         "low": 687.79,
         "open": 694.67,
         "prevClose": 705.35,
-        "updatedAt": "2026-07-24T11:15:10.565Z",
+        "updatedAt": "2026-07-24T12:53:30.344Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-07-24T11:15:11.338Z",
+    "collectedAt": "2026-07-24T12:53:31.109Z",
     "provider": "finnhub",
     "isMockData": false
   }
