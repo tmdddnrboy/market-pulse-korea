@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-07-30T13:41:12.491Z",
+    "generatedAt": "2026-07-30T15:46:48.994Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
     "sources": {
-      "news": "google_news_rss (무료)",
+      "news": "mock (기존 유지)",
       "riskCalendar": "mock (기존 유지)",
       "aiSummary": "mock (기존 유지)",
       "disclosures": "mock (기존 유지)",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-07-30T14:11:12.491Z"
+    "nextUpdateAt": "2026-07-30T16:16:48.994Z"
   },
   "overview": {
     "id": "market_overview",
@@ -874,32 +874,32 @@
         "symbol": "SPY",
         "label": "S&P 500 ETF",
         "region": "US",
-        "price": 735.25,
-        "change": 5.79,
-        "changePercent": 0.7937,
-        "high": 736.27,
-        "low": 733.32,
-        "open": 733.32,
+        "price": 736.74,
+        "change": 7.28,
+        "changePercent": 0.998,
+        "high": 739.3,
+        "low": 734.59,
+        "open": 736.05,
         "prevClose": 729.46,
-        "updatedAt": "2026-07-30T13:41:03.925Z",
+        "updatedAt": "2026-07-30T15:45:58.763Z",
         "isMockData": false
       },
       {
         "symbol": "QQQ",
         "label": "NASDAQ 100",
         "region": "US",
-        "price": 674.94,
-        "change": 13.21,
-        "changePercent": 1.9963,
-        "high": 675.81,
+        "price": 680.12,
+        "change": 18.39,
+        "changePercent": 2.7791,
+        "high": 683.73,
         "low": 668.835,
         "open": 668.835,
         "prevClose": 661.73,
-        "updatedAt": "2026-07-30T13:41:04.150Z",
+        "updatedAt": "2026-07-30T15:45:59.043Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-07-30T13:41:07.679Z",
+    "collectedAt": "2026-07-30T15:45:59.837Z",
     "provider": "finnhub",
     "isMockData": false
   }
