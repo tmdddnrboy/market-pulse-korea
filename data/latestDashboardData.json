@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-08-22T09:48:57.416Z",
+    "generatedAt": "2026-08-22T10:14:37.891Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-08-22T10:18:57.416Z"
+    "nextUpdateAt": "2026-08-22T10:44:37.891Z"
   },
   "overview": {
     "id": "market_overview",
@@ -502,7 +502,7 @@
   ],
   "news": [
     {
-      "id": "rss_1787392130511_0",
+      "id": "rss_1787393671248_0",
       "headline": "코스피 절반 삼킨 '삼전닉스'…커진 변동성에 \"지수 쏠림 낮춰야\" - 뉴스핌",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ObWxPeHNYNTJ1RjlzWFBhcFFaX3JSUFJGWS1wU0E1OXl2Vk9ScktzbmE1Ul9obHFEeDB3dEJ5WXVlSmFlMzdIX0dmZTZyN0lmb2hzX1B0NVRWMEst?oc=5\" target=\"_blank\"&",
       "insight": null,
@@ -518,7 +518,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787392130512_1",
+      "id": "rss_1787393671248_1",
       "headline": "[Q2 분석] “역대급 장세를 완벽 흡수” 대신증권…영업익 165%·순익 243%, 재무상태표는 - 이코노미톡뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5fcElxelZwelZHbTdnVW1IX3NiYnFsemYyMDZpRmZSSUZRVjlmR3hmMEJodTVfWHRna05Uc3FXNUVTRnlQU19WMU5pbGhFekU0NHBJeWRfZkNzcFZXNTFoVjBmaXFLV2JCcUMtRg?",
       "insight": null,
@@ -534,23 +534,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787392130512_2",
-      "headline": "\"코스피, 올해 9300 다시 찍습니다\" | 이경민 대신증권 FICC리서치부장 - 머니투데이",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE95cUF6YVowYmQ4aUJmeE80c0lOWFVJUzJaUkdWaDNudzNxUUV5UkZmTnhCRGhoNzR5V3BLdThmQ1IxaV9nc05fa0NlbDUxMGoxcGJr?oc=5\" target=\"_blank\"&gt;\"코스피, 올해 ",
-      "insight": null,
-      "source": "머니투데이",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95cUF6YVowYmQ4aUJmeE80c0lOWFVJUzJaUkdWaDNudzNxUUV5UkZmTnhCRGhoNzR5V3BLdThmQ1IxaV9nc05fa0NlbDUxMGoxcGJr?oc=5",
-      "publishedAt": "2026-08-22T01:53:23.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1787392130512_3",
+      "id": "rss_1787393671248_2",
       "headline": "[주간증시전망] 美금리 충격에 출렁인 코스피…엔비디아 실적이 다음 분수령 - 아주경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zeE8xbzJ5NEh2X2hfanhLVUh6WWxobEZ0bWR2eXhNYjZVeVJTQ1lLNWs2aGVJUzVIZWtnai1tWTEyXzF4SnZHUnc4Q0ZiVmIybUV1Um16cEVvUdIBWEFVX3lxTE1mN1pkb1BBR3l",
       "insight": null,
@@ -566,7 +550,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787392130512_4",
+      "id": "rss_1787393671248_3",
+      "headline": "\"코스피, 올해 9300 다시 찍습니다\" | 이경민 대신증권 FICC리서��부장 - 머니투데이",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE95cUF6YVowYmQ4aUJmeE80c0lOWFVJUzJaUkdWaDNudzNxUUV5UkZmTnhCRGhoNzR5V3BLdThmQ1IxaV9nc05fa0NlbDUxMGoxcGJr?oc=5\" target=\"_blank\"&gt;\"코스피, 올해 ",
+      "insight": null,
+      "source": "머니투데이",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95cUF6YVowYmQ4aUJmeE80c0lOWFVJUzJaUkdWaDNudzNxUUV5UkZmTnhCRGhoNzR5V3BLdThmQ1IxaV9nc05fa0NlbDUxMGoxcGJr?oc=5",
+      "publishedAt": "2026-08-22T01:53:23.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1787393671248_4",
       "headline": "하닉 주주환원 시동에 증시 '환호'…코스피 5.89% 급등(종합) - 연합뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lbFdZckRwZVBOVTk3RU04MTNYWXFXbW54bHhsSHY4aE45Q2c1QzgwbnFPcWtWSDRXamt2ZXZ5ejZPLVBIMUV6ZWhyUGRpMHNmcl81R19zNzRYd0XSAWBBVV95cUxONjVoclFzTkh",
       "insight": null,
@@ -582,7 +582,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787392131319_0",
+      "id": "rss_1787393671966_0",
       "headline": "주식시장 위협하는 미국채 금리 그래도 희망이 보이는 이유 - 연합인포맥스",
       "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9ha1NIcFRqVjIyenNlcUJiVDlmNU1wRXpFLVlRNDJLZWhvREdzUHBmVmZzQ09vbXZieU0tbEQya1JRTkRzazhvSGlvNmhTbkZiR2t1SHBncnhQdUFrR3R",
       "insight": null,
@@ -598,8 +598,8 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787392131319_1",
-      "headline": "국채금리와 주��시장 전망, 1) 국채금리가 주식시장에 영향을 미치는 이유 - 네이버 프리미엄콘텐츠",
+      "id": "rss_1787393671966_1",
+      "headline": "국채금리와 주식시장 전망, 1) 국채금리가 주식시장에 영향을 미치는 이유 - 네이버 프리미엄콘텐츠",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1SdXVJY0xSLTdpaXpCZll4LXBJSDVXUjVSZW9sNWVMb2RPSk1rUTBBc1NSSG14X3kyNk9OdnhhWUxRUVZGc1FPRk1hNHRkYzNOX0FjeWxPTUNhblhoTmJxLUp5WWhJNk1udGNOOUt",
       "insight": null,
       "source": "네이버 프리미엄콘텐츠",
@@ -614,7 +614,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787392131319_2",
+      "id": "rss_1787393671966_2",
       "headline": "미 장기채 금리 상승·중동 우려에… 닛케이 0.31%↓[Asia오전] - 머니투데이 - 머니투데이",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE81Z0M0YS1OV2ZYRXhGeEc1ejlBbUJkeGhzWDBrZ0NsdFNrQTdZTUxSWWhQZDdyVTU3N3IwTERSekVpVVhxa1BFUHZiSjVvQ1ZzNEZnbEI4b2xyUmVMeS1zOElFejBUT0JX0gFuQVV",
       "insight": null,
@@ -630,7 +630,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787392131319_3",
+      "id": "rss_1787393671966_3",
       "headline": "국고채 30년물 4.751% 역대 최고…금리 못 잡으면 주식도 무너진다 - 자본시장뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlajdjbE93WFFfd1ItU1ZMN0d6NXVNQmdrTHU3NTVJeTZSQTQ5QVB2dUhlWnZyZ3pQcmV6Ym1SRlV2YkhwRjNsTDU1bFZnLTBSdmdOWWhOdUNrZ3Z3Q0lKMTdPYmRlUXc?oc=5\" t",
       "insight": null,
@@ -646,7 +646,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787392131319_4",
+      "id": "rss_1787393671966_4",
       "headline": "19년 만에 최고치 치솟은 美 장기채… 증시가 버텨내는 배경과 경고음 - 글로벌이코노믹",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWVBWN25kdVZJRWVkb2ZTNm1fdmZ6QXRGWXliX0V5Vndma0pfdWZGeXZHM3ZmZktiUURRLTItd1BRRDBZdk5nY2E3STNWSHN1ZmZSdEhqdjkwWXB4S3hqOFFucl9PMGcyTUZzeWJ",
       "insight": null,
@@ -662,7 +662,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787392132104_0",
+      "id": "rss_1787393672704_0",
       "headline": "[食전食후] 코스피, 외인·기관 매도에도 0.4% 상승 전환…코스닥 4%대 급락 - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JNm1kUmpqVnd4Ylk5LXAyUlg3djgzdWdDQU1SQ00zeEtEZGltbFk2MzZfRE5lVkZFZEh6eHEzc0Y1dTBsakE?oc=5\" target=\"_blank\"&gt;[食전食후] 코스피, 외인·기관 매도에도 0.4",
       "insight": null,
@@ -678,7 +678,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787392132104_1",
+      "id": "rss_1787393672704_1",
       "headline": "코스닥, 38.95P 내린 801.94 마감(4.63%↓) - 아시아경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sbjlPQjJ3SUstbF9DeG91YXpWX2Znblpod1hXVE5QQTFTSUZmbmdqem50YzZpWVpiQi1vNXBiMVVNV1ZwaTZHNVd4dGI1cUhWaUpWWXRqNzdfR01XMU8yYnlR?oc=5\" target=\"",
       "insight": null,
@@ -694,7 +694,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787392132104_2",
+      "id": "rss_1787393672704_2",
       "headline": "삼전닉스는 오르는데…코스닥 급락에 '매도 사이드카' - v.daum.net",
       "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE80UG9uYlYzV3kzenJBeTZ2TzIzcXhDZ2RycVpIM2hFc2pQdnJla1piclBxYW1TS214TTU1SDllWnFnSzBCYUdxMHhpU3hCcjA?oc=5\" target=\"_blan",
       "insight": null,
@@ -710,7 +710,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787392132104_3",
+      "id": "rss_1787393672704_3",
       "headline": "코스닥 '프리미엄·스탠다드' 재편…\"시총보다 질적 지표 봐야\" - 신아일보",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5PNDVnT0JiTWdHUVhQME5PNXNPTGg3Wldpd296ekt5YV9IMWRSOEE1b1ZFcUo3c2FVU1N5SUJWelZoRTVyR3hXUUxiSDRYckNrUGxaelR5bGRHTTNDUmZNd09oalJ4ek1UdzJ3bXJ",
       "insight": null,
@@ -726,7 +726,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787392132104_4",
+      "id": "rss_1787393672704_4",
       "headline": "[속보] 코스닥 4%대 급락…매도 사이드카 발동 - 매일경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE50Z056Q05JcWRIenlFZTFhSXE4M3ZYbWdkaHBiX1JiVm5TU1loRWJGVV9KUlZickw2NWl5dUFVN0xsZk5aUjRTTndVcGZORFhuVWc?oc=5\" target=\"_blank\"&gt;[속보] 코스닥 4",
       "insight": null,
@@ -881,7 +881,7 @@
         "low": 764.17,
         "open": 766.05,
         "prevClose": 762.6,
-        "updatedAt": "2026-08-22T09:48:50.269Z",
+        "updatedAt": "2026-08-22T10:14:30.914Z",
         "isMockData": false
       },
       {
@@ -895,11 +895,11 @@
         "low": 709.2,
         "open": 715.23,
         "prevClose": 710.93,
-        "updatedAt": "2026-08-22T09:48:50.538Z",
+        "updatedAt": "2026-08-22T10:14:31.139Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-08-22T09:48:51.289Z",
+    "collectedAt": "2026-08-22T10:14:31.794Z",
     "provider": "finnhub",
     "isMockData": false
   }
