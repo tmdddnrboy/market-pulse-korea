@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-08-22T21:13:38.338Z",
+    "generatedAt": "2026-08-22T21:43:22.513Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-08-22T21:43:38.338Z"
+    "nextUpdateAt": "2026-08-22T22:13:22.513Z"
   },
   "overview": {
     "id": "market_overview",
@@ -502,7 +502,7 @@
   ],
   "news": [
     {
-      "id": "rss_1787433211402_0",
+      "id": "rss_1787434995692_0",
       "headline": "'AI 반도체 슈퍼위크'…코스피 '주주환원 약발' 계속되나 - 연합뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE41LW5CR0hKYm1scnZtVUVhSXcxTnNhRVVGUnNGRTFsLVRUYmE5THRPa2FaMWg0Q3dNT0tQOUlybi1Cd2JCY0lZWlBYLTlRODAwMy1kVGszTmRHWVnSAWBBVV95cUxPdWdobWRYZld",
       "insight": null,
@@ -518,12 +518,28 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787433211402_1",
+      "id": "rss_1787434995693_1",
+      "headline": "엔비디아·잭슨홀 주목… 코스피 7000선 안착 시험 [주간증시전망] - IT조선",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5LNzRfb0o3OFlhZTFZR3dZajF5ZlVscjZRX3Z5bWd0aEs3dHlOMXBDbFpDd2Vob0g0em5YWXRGWXJ3NHg2bVFJd3pMNW5pWnE5R2VXLTVQX1V5T0FzN2RDajdHSnBid3FybGFFb0F",
+      "insight": null,
+      "source": "IT조선",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LNzRfb0o3OFlhZTFZR3dZajF5ZlVscjZRX3Z5bWd0aEs3dHlOMXBDbFpDd2Vob0g0em5YWXRGWXJ3NHg2bVFJd3pMNW5pWnE5R2VXLTVQX1V5T0FzN2RDajdHSnBid3FybGFFb0FzM3LSAXRBVV95cUxOeS1vYjdhU25FamdHT1M1NGVmLWd2bjlPTHo0Z3BQR00wNkJhVjFLNEdseVB6cEhDdGk1MWMzaTllYWpQeTFhQkh5cjkyUW12dTRLeEdXMUlNMEdtYm5tWlRZaDR4SDRGdF9iVGhBRmViZGxBXw?oc=5",
+      "publishedAt": "2026-08-22T21:10:00.000Z",
+      "category": "sector",
+      "categoryLabel": "섹터",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1787434995693_2",
       "headline": "(주간증시전망)엔비디아·잭슨홀 주목…코스피 2차 반등 '기로' - 뉴스토마토",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZT0ZhQ1BxQ1BYbXVkbThLd1JsTllJVUNRZzljSkd3SmdRQWxLc2RfUXhWV0JoVVNMS2JURUV2UWZmSjNMRldIU2UzN2V0TlpRdlBua3JhUEpYVUdYdEpB?oc=5\" target=\"_bla",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE03N0p3RXhZU2VDYzF6Mlo2aVd1UVktV1p4ZjZacVpvNnNMalQ1RUEwVnQwdFNaTkRnRzYtSmprNEVISFdVYnV1aUtnaklBbFdyeFdWT3pGcG0yaXFkSXpMNA?oc=5\" target=\"_b",
       "insight": null,
       "source": "뉴스토마토",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZT0ZhQ1BxQ1BYbXVkbThLd1JsTllJVUNRZzljSkd3SmdRQWxLc2RfUXhWV0JoVVNMS2JURUV2UWZmSjNMRldIU2UzN2V0TlpRdlBua3JhUEpYVUdYdEpB?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03N0p3RXhZU2VDYzF6Mlo2aVd1UVktV1p4ZjZacVpvNnNMalQ1RUEwVnQwdFNaTkRnRzYtSmprNEVISFdVYnV1aUtnaklBbFdyeFdWT3pGcG0yaXFkSXpMNA?oc=5",
       "publishedAt": "2026-08-22T21:00:03.000Z",
       "category": "sector",
       "categoryLabel": "섹터",
@@ -534,7 +550,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787433211402_2",
+      "id": "rss_1787434995693_3",
       "headline": "오락가락 코스피에 증권가, 엔비디아 실적·연준 잭슨홀 미팅 주목 - 더구루",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2d2ZtalhHU2tiS3owMDRack1QS1BSVmdxSXZTeGVLanBrWEx1SzBlbEtJMi0wZ2xqOXp5R1lWdUtBcEtoTFUtZG1QaEt4cC01ZmY0X1pyOVZTOExEb3QtcG4wNA?oc=5\" target",
       "insight": null,
@@ -550,7 +566,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787433211402_3",
+      "id": "rss_1787434995693_4",
       "headline": "[8월 셋째 주 세계경제동향 브리핑] 코스피 6,900선 약보합…코스닥 7%대 하락 - 기호일보",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5lMlMyZ3p2aWIxWWZtOGJRcFFWd05xMDNONzVSeThNT0hYZEQ5WTN5THdwajlpNnVremFWWWs2UlBvUE1tSEMyYmxRdVJ3RTRiY0VjOGlZeVhPSzU5X3pKdWc3dkVqcVhQRTd6ajF",
       "insight": null,
@@ -566,23 +582,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787433211402_4",
-      "headline": "[증시-마감] 코스피, 5%대 상승 마감…'자사주 매입' SK하이닉스 13% 급등 - 연합인포맥스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAxRXlwMXNCZnBENTlkbkRqSnB0TThYV1psMWlQeWxQQV9ncTFIc0p5NVhIelo3aGcxT3BoRWU4RGtXMUo2ZzFJQy1YRDhsU2NmTDg3ODlScmJxNjZIT3k3bEtKdUl0anlhZFFmLW8",
+      "id": "rss_1787434996433_0",
+      "headline": "[주간증시전망] 엔비디아 실적 발표·美 국채금리에 ‘쏠린 눈’ - 조선비즈 - Chosunbiz",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0VkWEJtSmYyZ016aHZjeERVZ0VVSVhidXZlVjNBMUdXd0Uwakx1bHIxaUdzY25sZlF0TjhFV2FIWDhOSHphSlNBRkJDaHh1M3dQbHpLU3FnTmgtVTF5YWxRMmdHTkE3VFg0WWw",
       "insight": null,
-      "source": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxRXlwMXNCZnBENTlkbkRqSnB0TThYV1psMWlQeWxQQV9ncTFIc0p5NVhIelo3aGcxT3BoRWU4RGtXMUo2ZzFJQy1YRDhsU2NmTDg3ODlScmJxNjZIT3k3bEtKdUl0anlhZFFmLW83ckc?oc=5",
-      "publishedAt": "2026-08-20T06:49:35.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "positive",
+      "source": "Chosunbiz",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0VkWEJtSmYyZ016aHZjeERVZ0VVSVhidXZlVjNBMUdXd0Uwakx1bHIxaUdzY25sZlF0TjhFV2FIWDhOSHphSlNBRkJDaHh1M3dQbHpLU3FnTmgtVTF5YWxRMmdHTkE3VFg0WWw4OVAzRl9UWTBYUnpBX0c0eksyVUtDVU9FX0gw0gGcAUFVX3lxTFBuekZrbU9YYWtoX1RDbXFzNXlOMy1fNEIxOUVfdGZhLVZvU1RtWXZ2azN0OEZuRm4taTJwazFORWlzcV9HYXhpQTZDWXh2VGc3N19ZZk9rVFlaSnJYei03RWRoTER6ejMzZGtOcS10S2xOQ29IeWpTMDhkQVdhS2xFSDktNzdGUGhyY19jVUlDbV9aZkd4Wlo5M09Jdw?oc=5",
+      "publishedAt": "2026-08-22T21:00:00.000Z",
+      "category": "fed",
+      "categoryLabel": "연준",
+      "sentiment": "neutral",
       "impact": "medium",
       "relatedTickers": [],
       "provider": "google_news_rss",
       "isMockData": false
     },
     {
-      "id": "rss_1787433212230_0",
+      "id": "rss_1787434996433_1",
       "headline": "주식시장 위협하는 미국채 금리 그래도 희망이 보이는 이유 - 연합인포맥스",
       "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9ha1NIcFRqVjIyenNlcUJiVDlmNU1wRXpFLVlRNDJLZWhvREdzUHBmVmZzQ09vbXZieU0tbEQya1JRTkRzazhvSGlvNmhTbkZiR2t1SHBncnhQdUFrR3R",
       "insight": null,
@@ -598,7 +614,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787433212230_1",
+      "id": "rss_1787434996433_2",
       "headline": "[뉴욕증시] 금리·유가 상승에도 반등, 배경은···핫머니, 가상자산으로? - 서울파이낸스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0tYzFPaFo2eWVmazh1OGNVRXJGcWhHWW1YU205c2JtWHQwRXdWSV9Xb3FkdGlnNUlXUmtLaktaVld5azNLOEV1b2ltVzZURTVFMEtScldvd0hpSHYwdHdrZkFEWW05aUhLSHc?oc=",
       "insight": null,
@@ -614,13 +630,13 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787433212230_2",
-      "headline": "\"월요일 국장 또 폭등?\"…삼성전자·SK하이닉스, 美금리·엔비디아에 주가 향방은? - v.daum.net",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BZmw1ZnVhM2tPWEROZHVNMXkxdWJ5VmZTbWt0LWV4c0k4V0dwcG5PdUM4V2sydG9fOHJpdGdvX3M2c3hZUWx6a0E1SVpmcW8?oc=5\" target=\"_blank\"&gt;\"월요일 국장 또 폭등?\"",
+      "id": "rss_1787434996433_3",
+      "headline": "美 재무부 ‘국채 매입’ 카드도 안 통했다…금리 '발작'에 뉴욕증시 비상 - 글로벌이코노믹",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzFsdnFxeGxqZDkyNFNQLTJNQjJMM1FGRXQwTG5abU5ybHBmajNGazBzWFpJelMxd1U0T25SR1FhNWVKanl2SUljQXJZYjN6TEZHenRuYVBBNlJSeERQZzZKcDhJOURaelhiQ1V",
       "insight": null,
-      "source": "v.daum.net",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BZmw1ZnVhM2tPWEROZHVNMXkxdWJ5VmZTbWt0LWV4c0k4V0dwcG5PdUM4V2sydG9fOHJpdGdvX3M2c3hZUWx6a0E1SVpmcW8?oc=5",
-      "publishedAt": "2026-08-22T11:10:12.000Z",
+      "source": "글로벌이코노믹",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzFsdnFxeGxqZDkyNFNQLTJNQjJMM1FGRXQwTG5abU5ybHBmajNGazBzWFpJelMxd1U0T25SR1FhNWVKanl2SUljQXJZYjN6TEZHenRuYVBBNlJSeERQZzZKcDhJOURaelhiQ1VWTDV6U2tyUklVXzFmdkl3emUxRjRYN0h3RDlO?oc=5",
+      "publishedAt": "2026-08-20T21:11:05.000Z",
       "category": "fed",
       "categoryLabel": "연준",
       "sentiment": "neutral",
@@ -630,13 +646,13 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787433212230_3",
-      "headline": "시장금리 상승세 예의주시 필요 : 미국 10년 국채 5%에 가까워질수록 - Investing.com 한국어",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xSVRIeDBjQmFfbVlBTS1USlFJQTdORDVIaVNNSm00MFF2ZzZWSkJwOHBkZUI2M2VTeFZPSGVXdmRSQ2RwbnJiNlV3VVBfT28tWXk2ZEgwVElsSzZkQkQ4eQ?oc=5\" target=\"_b",
+      "id": "rss_1787434996433_4",
+      "headline": "뉴욕증시, 美국채금리 하락에 상승…금값, 3% 가까이 급등 [글로벌마켓 모닝 브리핑] - 이투데이",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tU0F0SzZuWVVvLXlORC1TTWJLZG5pS1pwRWppOUwtZjhnZHBPRGtyYmg2QUtfR1k1Y1VITnZCMXVjN1AxUzdVdmFDN2JZMkRGdExHUw?oc=5\" target=\"_blank\"&gt;뉴욕증시, 美",
       "insight": null,
-      "source": "Investing.com 한국어",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xSVRIeDBjQmFfbVlBTS1USlFJQTdORDVIaVNNSm00MFF2ZzZWSkJwOHBkZUI2M2VTeFZPSGVXdmRSQ2RwbnJiNlV3VVBfT28tWXk2ZEgwVElsSzZkQkQ4eQ?oc=5",
-      "publishedAt": "2026-08-18T07:36:00.000Z",
+      "source": "이투데이",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tU0F0SzZuWVVvLXlORC1TTWJLZG5pS1pwRWppOUwtZjhnZHBPRGtyYmg2QUtfR1k1Y1VITnZCMXVjN1AxUzdVdmFDN2JZMkRGdExHUw?oc=5",
+      "publishedAt": "2026-08-19T22:58:00.000Z",
       "category": "fed",
       "categoryLabel": "연준",
       "sentiment": "positive",
@@ -646,23 +662,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787433212230_4",
-      "headline": "국고채 30년물 4.751% 역대 최고…금리 못 잡으면 주식도 무너진다 - 자본���장뉴스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlajdjbE93WFFfd1ItU1ZMN0d6NXVNQmdrTHU3NTVJeTZSQTQ5QVB2dUhlWnZyZ3pQcmV6Ym1SRlV2YkhwRjNsTDU1bFZnLTBSdmdOWWhOdUNrZ3Z3Q0lKMTdPYmRlUXc?oc=5\" t",
-      "insight": null,
-      "source": "자본시장뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlajdjbE93WFFfd1ItU1ZMN0d6NXVNQmdrTHU3NTVJeTZSQTQ5QVB2dUhlWnZyZ3pQcmV6Ym1SRlV2YkhwRjNsTDU1bFZnLTBSdmdOWWhOdUNrZ3Z3Q0lKMTdPYmRlUXc?oc=5",
-      "publishedAt": "2026-08-22T08:30:00.000Z",
-      "category": "fed",
-      "categoryLabel": "연준",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1787433213066_0",
+      "id": "rss_1787434997200_0",
       "headline": "삼전닉스는 오르는데…코스닥 급락에 '매도 사이드카' - v.daum.net",
       "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QSDhPZVhiNUdfWG9YeTNvOVB1d0xESEtUQ0ZHQTEwZndKUmF0UVY3TFNHNjEwNE9JOW10UC1ZLWxCYjFVZGc?oc=5\" target=\"_blank\"&gt;삼전닉스는 ",
       "insight": null,
@@ -678,7 +678,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787433213066_1",
+      "id": "rss_1787434997200_1",
       "headline": "코스닥, 38.95P 내린 801.94 마감(4.63%↓) - 아시아경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sbjlPQjJ3SUstbF9DeG91YXpWX2Znblpod1hXVE5QQTFTSUZmbmdqem50YzZpWVpiQi1vNXBiMVVNV1ZwaTZHNVd4dGI1cUhWaUpWWXRqNzdfR01XMU8yYnlR?oc=5\" target=\"",
       "insight": null,
@@ -694,23 +694,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787433213066_2",
-      "headline": "[속보] 코스닥 4%대 급락…매도 사이드카 발동 - 매일경제",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE50Z056Q05JcWRIenlFZTFhSXE4M3ZYbWdkaHBiX1JiVm5TU1loRWJGVV9KUlZickw2NWl5dUFVN0xsZk5aUjRTTndVcGZORFhuVWc?oc=5\" target=\"_blank\"&gt;[속보] 코스닥 4",
-      "insight": null,
-      "source": "매일경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50Z056Q05JcWRIenlFZTFhSXE4M3ZYbWdkaHBiX1JiVm5TU1loRWJGVV9KUlZickw2NWl5dUFVN0xsZk5aUjRTTndVcGZORFhuVWc?oc=5",
-      "publishedAt": "2026-08-21T01:09:17.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "negative",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1787433213066_3",
+      "id": "rss_1787434997200_2",
       "headline": "코스닥 '프리미엄·스탠다드' 재편…\"시총보다 질적 지표 봐야\" - 신아일보",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5PNDVnT0JiTWdHUVhQME5PNXNPTGg3Wldpd296ekt5YV9IMWRSOEE1b1ZFcUo3c2FVU1N5SUJWelZoRTVyR3hXUUxiSDRYckNrUGxaelR5bGRHTTNDUmZNd09oalJ4ek1UdzJ3bXJ",
       "insight": null,
@@ -726,7 +710,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1787433213066_4",
+      "id": "rss_1787434997200_3",
       "headline": "[개장시황] 코스피, 美 금리·유가 상승에 1% 하락…코스닥 3%대 급락 - 아주경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RZWNqUmp1cHo1d3M4X2stUnVfU2Q1eU9LYzhNNTdYZUFXNXJhcDdOVDQwbGtRVkVCY21VNkJGa3hrZGNHOEt3eWl5OENuVjFUSUkxZEZfSHFZd9IBWEFVX3lxTE15Nkw5dFN0aGx",
       "insight": null,
@@ -735,6 +719,22 @@
       "publishedAt": "2026-08-21T00:44:07.000Z",
       "category": "fed",
       "categoryLabel": "연준",
+      "sentiment": "negative",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1787434997200_4",
+      "headline": "[속보] 코스닥 4%대 급락…매도 사이드카 발동 - 매일경제",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE50Z056Q05JcWRIenlFZTFhSXE4M3ZYbWdkaHBiX1JiVm5TU1loRWJGVV9KUlZickw2NWl5dUFVN0xsZk5aUjRTTndVcGZORFhuVWc?oc=5\" target=\"_blank\"&gt;[속보] 코스닥 4",
+      "insight": null,
+      "source": "매일경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50Z056Q05JcWRIenlFZTFhSXE4M3ZYbWdkaHBiX1JiVm5TU1loRWJGVV9KUlZickw2NWl5dUFVN0xsZk5aUjRTTndVcGZORFhuVWc?oc=5",
+      "publishedAt": "2026-08-21T01:09:17.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
       "sentiment": "negative",
       "impact": "medium",
       "relatedTickers": [],
@@ -881,7 +881,7 @@
         "low": 764.17,
         "open": 766.05,
         "prevClose": 762.6,
-        "updatedAt": "2026-08-22T21:13:31.069Z",
+        "updatedAt": "2026-08-22T21:43:15.467Z",
         "isMockData": false
       },
       {
@@ -895,11 +895,11 @@
         "low": 709.2,
         "open": 715.23,
         "prevClose": 710.93,
-        "updatedAt": "2026-08-22T21:13:31.313Z",
+        "updatedAt": "2026-08-22T21:43:15.746Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-08-22T21:13:32.019Z",
+    "collectedAt": "2026-08-22T21:43:16.534Z",
     "provider": "finnhub",
     "isMockData": false
   }
