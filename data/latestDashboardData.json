@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-08-26T10:59:46.783Z",
+    "generatedAt": "2026-08-26T11:34:11.552Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
     "sources": {
-      "news": "google_news_rss (무료)",
+      "news": "mock (기존 유지)",
       "riskCalendar": "mock (기존 유지)",
       "aiSummary": "mock (기존 유지)",
       "disclosures": "mock (기존 유지)",
@@ -22,12 +22,16 @@
         "message": "HTTP 400: https://pro-api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,ripple,solana&order=market_cap_desc&per_page=10&page=1&price_change_percentage=24h"
       },
       {
+        "section": "disclosures",
+        "message": "Timeout (12000ms): https://opendart.fss.or.kr/api/list.json?crtfc_key=9958558ff66adb6916012fa072f58041e75b4a81&bgn_de=20260826&end_de=20260826&pblntf_ty=A&corp_cls=Y&page_no=1&page_count=10"
+      },
+      {
         "section": "aiSummary",
         "provider": "gemini",
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-08-26T11:29:46.783Z"
+    "nextUpdateAt": "2026-08-26T12:04:11.552Z"
   },
   "overview": {
     "id": "market_overview",
@@ -881,7 +885,7 @@
         "low": 763.0501,
         "open": 766.16,
         "prevClose": 763.47,
-        "updatedAt": "2026-08-26T10:59:39.768Z",
+        "updatedAt": "2026-08-26T11:33:18.894Z",
         "isMockData": false
       },
       {
@@ -895,11 +899,11 @@
         "low": 707.45,
         "open": 711.22,
         "prevClose": 706.32,
-        "updatedAt": "2026-08-26T10:59:39.989Z",
+        "updatedAt": "2026-08-26T11:33:19.116Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-08-26T10:59:40.701Z",
+    "collectedAt": "2026-08-26T11:33:19.781Z",
     "provider": "finnhub",
     "isMockData": false
   }
