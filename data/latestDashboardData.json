@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-09-03T09:20:13.102Z",
+    "generatedAt": "2026-09-03T13:41:58.698Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
     "sources": {
-      "news": "google_news_rss (무료)",
+      "news": "mock (기존 유지)",
       "riskCalendar": "mock (기존 유지)",
       "aiSummary": "mock (기존 유지)",
       "disclosures": "mock (기존 유지)",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-09-03T09:50:13.102Z"
+    "nextUpdateAt": "2026-09-03T14:11:58.698Z"
   },
   "overview": {
     "id": "market_overview",
@@ -842,32 +842,32 @@
         "symbol": "SPY",
         "label": "S&P 500 ETF",
         "region": "US",
-        "price": 765.16,
-        "change": 3.38,
-        "changePercent": 0.4437,
-        "high": 766.43,
-        "low": 761.73,
-        "open": 762.45,
-        "prevClose": 761.78,
-        "updatedAt": "2026-09-03T09:20:05.804Z",
+        "price": 769.55,
+        "change": 4.39,
+        "changePercent": 0.5737,
+        "high": 769.8,
+        "low": 766.83,
+        "open": 766.83,
+        "prevClose": 765.16,
+        "updatedAt": "2026-09-03T13:41:51.761Z",
         "isMockData": false
       },
       {
         "symbol": "QQQ",
         "label": "NASDAQ 100",
         "region": "US",
-        "price": 709.24,
-        "change": 1.6,
-        "changePercent": 0.2261,
-        "high": 709.7988,
-        "low": 705.1,
-        "open": 707.1,
-        "prevClose": 707.64,
-        "updatedAt": "2026-09-03T09:20:06.082Z",
+        "price": 712.93,
+        "change": 3.69,
+        "changePercent": 0.5203,
+        "high": 713.128,
+        "low": 709.69,
+        "open": 710.635,
+        "prevClose": 709.24,
+        "updatedAt": "2026-09-03T13:41:52.043Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-09-03T09:20:06.867Z",
+    "collectedAt": "2026-09-03T13:41:52.904Z",
     "provider": "finnhub",
     "isMockData": false
   }
