@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-09-09T21:30:42.066Z",
+    "generatedAt": "2026-09-09T23:42:39.991Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-09-09T22:00:42.066Z"
+    "nextUpdateAt": "2026-09-10T00:12:39.991Z"
   },
   "overview": {
     "id": "market_overview",
@@ -502,7 +502,7 @@
   ],
   "news": [
     {
-      "id": "rss_1788989433155_0",
+      "id": "rss_1788997352887_0",
       "headline": "뉴욕증시 하락에도 코스피 7천선 탈환...반도체 강세 - YTN",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE13UHlESWY0VUxIeU9ZNW1ranp0eFJTMnlGLTV3NVhWY1BUdTM1czMxcmFwaGwtM3lyUWhLcC1falZGV21LREpDa0pmNWQ2NUdQRjlrM3JDTVp1czJ4V2c?oc=5\" target=\"_blan",
       "insight": null,
@@ -518,11 +518,27 @@
       "isMockData": false
     },
     {
-      "id": "rss_1788989433155_1",
-      "headline": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래 - 주간조선",
+      "id": "rss_1788997352888_1",
+      "headline": "[증시전략] 코스피 33거래일만에 7천피 탈환…8천선 갈까? - v.daum.net",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hQ1RvbFlGWlNWSUxYeDJDX0lqdU5vTDhNM1JoZHdjZUg3eFRiZUJhM3VSUzVzYmlzb2N2UUNMVzJpSHhOOWhxM3lncHk1N2s?oc=5\" target=\"_blank\"&gt;[증시전략] 코스피 33거",
+      "insight": null,
+      "source": "v.daum.net",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hQ1RvbFlGWlNWSUxYeDJDX0lqdU5vTDhNM1JoZHdjZUg3eFRiZUJhM3VSUzVzYmlzb2N2UUNMVzJpSHhOOWhxM3lncHk1N2s?oc=5",
+      "publishedAt": "2026-09-09T22:13:09.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1788997352888_2",
+      "headline": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래 - weekly.chosun.com",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5",
       "insight": null,
-      "source": "주간조선",
+      "source": "weekly.chosun.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5BVV95cUxQNlNhUFJFWHlOTUt6aWlhM0VTVU5qTUo5WkJsd1FXR0ZCM2RkLTZiTkdmNWRtRWtwVi1NUk84TlcybVVXVGZTVHc4V0hmSHRQY2QtbWdyeVVxNGRKUTNFZjZoYnVGRk11NkxfeDhTZw?oc=5",
       "publishedAt": "2026-09-09T14:06:15.000Z",
       "category": "macro",
@@ -534,7 +550,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1788989433156_2",
+      "id": "rss_1788997352888_3",
+      "headline": "[AI MY 증시전망] AI 모멘텀 이어가는 코스피…유가 100달러 돌파 변수 - 뉴스핌",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCU0ZjMkNNVTFYTmkzQ2hQX0wwdmFydHRpbThfeXg2RHd0bE96NTRWSVhyLUxlYmF6RFBxRk5PV3Z3UG0zcDRVYXpmSWZPVGtsWDhodEVrYjB1OHhW?oc=5\" target=\"_blank\"&",
+      "insight": null,
+      "source": "뉴스핌",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCU0ZjMkNNVTFYTmkzQ2hQX0wwdmFydHRpbThfeXg2RHd0bE96NTRWSVhyLUxlYmF6RFBxRk5PV3Z3UG0zcDRVYXpmSWZPVGtsWDhodEVrYjB1OHhW?oc=5",
+      "publishedAt": "2026-09-09T23:17:00.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1788997352888_4",
       "headline": "코스피, 7000 고지 탈환...14일 애프터마켓 가동 '시너지' - 전자신문",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DRzV3MjlwbmpWOFpKODNtMmVOUlNhQnBGaWxMMHJaSzhFeEFFTTZJRHE1cnRlTkhIVE95dUNMOVBOUFdKbGx4V1RDWmRTdw?oc=5\" target=\"_blank\"&gt;코스피, 7000 고지 탈환",
       "insight": null,
@@ -550,31 +582,15 @@
       "isMockData": false
     },
     {
-      "id": "rss_1788989433156_3",
-      "headline": "33거래일 만에···100포인트 가까이 오른 코스피, 뉴욕증시 하락에도 7,000선 회복 - 대구MBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zcUVjZnlZT3dYMHF4eW83V2tSdVQ3a05mM0piOE9mRV9YWjZKcXRTajZpMTZENXFiUDN4N0dkd3hQWnNYaHVXelVOMEM?oc=5\" target=\"_blank\"&gt;33거래일 만에···100포인트 ",
+      "id": "rss_1788997353737_0",
+      "headline": "뉴욕증시, 국제유가ㆍ국채금리 급등에 하락⋯다우 0.77%↓ [상보] - v.daum.net",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wY0tMQlNDX1BlUnJxUklvNER4akZTaHBIZ2QwZDBoZGJ3R2IwalByTElpLVJVNHFwd2ZhLWVFZmVQbG5ybGZnYno2Wk1ONUk?oc=5\" target=\"_blank\"&gt;뉴욕증시, 국제유가ㆍ국채금",
       "insight": null,
-      "source": "대구MBC",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zcUVjZnlZT3dYMHF4eW83V2tSdVQ3a05mM0piOE9mRV9YWjZKcXRTajZpMTZENXFiUDN4N0dkd3hQWnNYaHVXelVOMEM?oc=5",
-      "publishedAt": "2026-09-09T06:43:24.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "negative",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1788989433156_4",
-      "headline": "14일부터 저녁 8시까지 '코스피·코스닥' 주식 매매...ETF·ETN 제외 - KBC광주방송",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oaEM0bVJKajZqM3N2cS0wclo0V1NMTEtYZmswTmJ5cUhFR2cxcmlhTUVfRk1HQWtfcXNMZUdjVXBESDBxUVpoVTd2LTN5UmFyb0lLb01aOGFiY05qbTJGQQ?oc=5\" target=\"_b",
-      "insight": null,
-      "source": "KBC광주방송",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oaEM0bVJKajZqM3N2cS0wclo0V1NMTEtYZmswTmJ5cUhFR2cxcmlhTUVfRk1HQWtfcXNMZUdjVXBESDBxUVpoVTd2LTN5UmFyb0lLb01aOGFiY05qbTJGQQ?oc=5",
-      "publishedAt": "2026-09-09T07:34:26.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
+      "source": "v.daum.net",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wY0tMQlNDX1BlUnJxUklvNER4akZTaHBIZ2QwZDBoZGJ3R2IwalByTElpLVJVNHFwd2ZhLWVFZmVQbG5ybGZnYno2Wk1ONUk?oc=5",
+      "publishedAt": "2026-09-09T21:21:03.000Z",
+      "category": "fed",
+      "categoryLabel": "연준",
       "sentiment": "neutral",
       "impact": "medium",
       "relatedTickers": [],
@@ -582,11 +598,11 @@
       "isMockData": false
     },
     {
-      "id": "rss_1788989434235_0",
-      "headline": "\"금리 5%, 계좌 다 녹는다\" 개미들 덜덜 떠는데…'웃는 종목' 따로 있다[실전재테크] - 아시아경제",
+      "id": "rss_1788997353737_1",
+      "headline": "\"금리 5%, 계좌 다 녹는다\" 개미들 덜덜 떠는데…'웃는 종목' 따로 있다[실전재테크] - view.asiae.co.kr",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmMDg4SXRPaDllWDJfM3R1czRHSm5HYzFnUGFrTHQ2MjFIWUNpdzY2eWV4SnFBQUdKMWJ0ZzdCY2NlVDI0UllhcGViZFJTU1Q1bHJpYmhQUmt1LWxKb2hJR01R?oc=5\" target=\"",
       "insight": null,
-      "source": "아시아경제",
+      "source": "view.asiae.co.kr",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmMDg4SXRPaDllWDJfM3R1czRHSm5HYzFnUGFrTHQ2MjFIWUNpdzY2eWV4SnFBQUdKMWJ0ZzdCY2NlVDI0UllhcGViZFJTU1Q1bHJpYmhQUmt1LWxKb2hJR01R?oc=5",
       "publishedAt": "2026-09-08T22:38:00.000Z",
       "category": "fed",
@@ -598,7 +614,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1788989434235_1",
+      "id": "rss_1788997353737_2",
       "headline": "또 증시 발목을 잡는 시장금리 그리고 금리를 끌어올리는 중동 상황 - Investing.com 한국어",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZbVc3LW1FRjV0R2R3dVFkN0NfaTJJMkN5dEJ6VFQ0VUlBbjNvdjYyUGZNaEk5dThZeWE0Q2pMZDVIMjlwSzI5WFNrVWdzX2ExQ0JfQW9FY3ZKV3luZzEwRg?oc=5\" target=\"_b",
       "insight": null,
@@ -614,7 +630,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1788989434235_2",
+      "id": "rss_1788997353737_3",
+      "headline": "8000피 탈환 멀었나…금리 인상 공포에 코스피 ‘덜덜’ - 데일리안",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTnNNWTk2RWM5N1ZBMDROeGgyTUg4ajFnc2k5VENIR2tuNWVCV0V5eVZsVXRpbS1sandURHVfVjZWQndTaWVjaDZhRjcwZWoxNlFsdldIVTNWTUNCRExsQ2RMVl93X3Q1bnR5VUx",
+      "insight": null,
+      "source": "데일리안",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTnNNWTk2RWM5N1ZBMDROeGgyTUg4ajFnc2k5VENIR2tuNWVCV0V5eVZsVXRpbS1sandURHVfVjZWQndTaWVjaDZhRjcwZWoxNlFsdldIVTNWTUNCRExsQ2RMVl93X3Q1bnR5VUxKT3VENHprQ2hjSTB0bzBJdmxNMXA2XzQzdXduNGFHOTFFanJLZ3o4cnBpOWVFaU9xaWpZek9mTVprR2EzZXI2cEhnQTRoYWg4enduRFhDVGhOa09NY1RqelFhQUhyM2FHOHl3czVZOVBIM2dnMWd6VGhFNTBzSkJkM3hEVDh6MHRfODRNdk9TZkxjZQ?oc=5",
+      "publishedAt": "2026-09-09T22:07:00.000Z",
+      "category": "fed",
+      "categoryLabel": "연준",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1788997353737_4",
       "headline": "\"바이백 확대 후 美 장기금리 상단 막히면 나스닥 신고가 가능\" - 뉴시스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PYnVaWnloTkZGdW1tdC1paHJ1QmxaZ0dhMGdHRWp5Rm5UdnJ5bXZNTmN4RTNla0FTakVKd2k1VnVheXBOMGtDX3AyZFpwdHVxWktkVmUyNlJYT3Y3c2tnVtIBeEFVX3lxTE1LdEo",
       "insight": null,
@@ -630,39 +662,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1788989434235_3",
-      "headline": "[일본 증시] 중동 정세 악화·BOJ 추가 금리인상 우려에 하락 - newspim.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSSjh3S2tpZ0dqS25YblN4X3JZVWlUNWJfWklsbTJxUjJiVU96QW93eU54SXJSQUhvenk3ZGRKYTM1amlELUc2SlhtNGozVDhwUkhKWVpSM1l4b1Bw?oc=5\" target=\"_blank\"&",
-      "insight": null,
-      "source": "newspim.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSSjh3S2tpZ0dqS25YblN4X3JZVWlUNWJfWklsbTJxUjJiVU96QW93eU54SXJSQUhvenk3ZGRKYTM1amlELUc2SlhtNGozVDhwUkhKWVpSM1l4b1Bw?oc=5",
-      "publishedAt": "2026-09-09T07:39:00.000Z",
-      "category": "fed",
-      "categoryLabel": "연준",
-      "sentiment": "negative",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1788989434235_4",
-      "headline": "연준 금리 인상 가능성 속 UBS \"주식·금 장기적 투자 유효\" - 연합인포맥스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBUOWRmSUlLWnhEd3FNcnVvM2lGRU9ndjBxVGUzTUJrUzZxX3pHZXRPaUZnM3Y2aDhsN1JLeFp2VVhLYnFzaG9CUEFZdXlrVjJxTzNZeDgyelVpVzJLeTcyOHpxVnJYeWlMVXVWOUk",
-      "insight": null,
-      "source": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUOWRmSUlLWnhEd3FNcnVvM2lGRU9ndjBxVGUzTUJrUzZxX3pHZXRPaUZnM3Y2aDhsN1JLeFp2VVhLYnFzaG9CUEFZdXlrVjJxTzNZeDgyelVpVzJLeTcyOHpxVnJYeWlMVXVWOUk3Rnk?oc=5",
-      "publishedAt": "2026-09-08T03:46:51.000Z",
-      "category": "fed",
-      "categoryLabel": "연준",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1788989435470_0",
+      "id": "rss_1788997354609_0",
       "headline": "코스피, 1.40% 오른 7051.64 마감...코스닥 2.28% 상승 - gukjenews.com",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE53VVNUOXhWYVdQUmtRSTJHOHhpME5jOWZYZWVoSDN6SDllSkp3M3NtQnpOU0htY2lMNGtEUWRWMnB1VlV1NF9GRjFSRnJoRHRKMjU3TkFaSUItUTRqX1UxTC1oVXotZG9mTzg4ejh",
       "insight": null,
@@ -678,7 +678,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1788989435470_1",
+      "id": "rss_1788997354609_1",
       "headline": "[아주증시포커스] 상폐 대신 코넥스 이전 탈출구…코스닥 상장사 43곳 혜택 본다 外 - 아주경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjSkRjMEh6WXlIakxhOFlNb0FnQjZ2TEM3cy1DLU1KU0hOeGJvcS1BZTBsMnJrTzJpMHNOZk42azFjeEo1RFg2a2d4RVF3X0F0TGl3em55M0FvZ9IBWEFVX3lxTFBwb0dNamFBQkR",
       "insight": null,
@@ -694,7 +694,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1788989435470_2",
+      "id": "rss_1788997354609_2",
       "headline": "[코스닥] 10.31포인트(1.25%) 내린 811.88 마감 - 서울경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DNkdNMTlXa0NkSk8wYXlUc2E1dUtaQTJwVF80RmJUVW1nVjg3RDN5OFk0bGV2VU1CQ2ZSU1poQV9ZQ09MUVcyMjNPOUh4SmVJOFHSAVNBVV95cUxNUTJuMGNrMm9ONW5PMm1BcDd",
       "insight": null,
@@ -710,7 +710,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1788989435470_3",
+      "id": "rss_1788997354609_3",
       "headline": "코스피, 마감 직전 하락… 코스닥도 하락 마감 - 천지일보",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE51Zi11aG1TWDJycEZycVJ5WVFha296eHdxODBNMHY4WWdjWFpWdGdiM01HbEFHWXRJS2g0TDNxaXhuOTRCSFFYaEc3YTB3TWQ2SWgzLU1ubFpYRnU0WmwwV3oxSUowUFNZTkE?oc=",
       "insight": null,
@@ -726,7 +726,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1788989435470_4",
+      "id": "rss_1788997354609_4",
       "headline": "코스피, 상승 출발해 7천피 회복...코스닥, 보합권 - YTN",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zVTBLUUNfSXBOTVc5aEg4YXRvdjd1ZE5nOU5wcThsa2IzTGJuN3BsaktzMmNaTlZOSDhFRmNPN2U2LUpIZWJHU2c0cE5RNTZYVFQzbm5ZMzNSN1lnRkE?oc=5\" target=\"_blan",
       "insight": null,
@@ -881,7 +881,7 @@
         "low": 760.94,
         "open": 764.08,
         "prevClose": 765.96,
-        "updatedAt": "2026-09-09T21:30:32.899Z",
+        "updatedAt": "2026-09-09T23:42:32.831Z",
         "isMockData": false
       },
       {
@@ -895,11 +895,11 @@
         "low": 714.02,
         "open": 716.4,
         "prevClose": 718.36,
-        "updatedAt": "2026-09-09T21:30:33.278Z",
+        "updatedAt": "2026-09-09T23:42:33.126Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-09-09T21:30:34.266Z",
+    "collectedAt": "2026-09-09T23:42:33.914Z",
     "provider": "finnhub",
     "isMockData": false
   }
