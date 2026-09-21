@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-09-20T23:44:50.441Z",
+    "generatedAt": "2026-09-21T02:38:17.198Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
     "sources": {
-      "news": "google_news_rss (무료)",
+      "news": "mock (기존 유지)",
       "riskCalendar": "mock (기존 유지)",
       "aiSummary": "mock (기존 유지)",
       "disclosures": "mock (기존 유지)",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-09-21T00:14:50.441Z"
+    "nextUpdateAt": "2026-09-21T03:08:17.198Z"
   },
   "overview": {
     "id": "market_overview",
@@ -756,7 +756,7 @@
       "previous": "2.8%",
       "forecast": "2.7%",
       "actual": null,
-      "dDay": "D+480",
+      "dDay": "D+481",
       "source": "mock",
       "isMockData": true
     },
@@ -773,7 +773,7 @@
       "previous": "5.25~5.50%",
       "forecast": "5.25~5.50% (동결)",
       "actual": null,
-      "dDay": "D+465",
+      "dDay": "D+466",
       "source": "mock",
       "isMockData": true
     },
@@ -790,7 +790,7 @@
       "previous": null,
       "forecast": null,
       "actual": null,
-      "dDay": "D+464",
+      "dDay": "D+465",
       "source": "mock",
       "isMockData": true
     },
@@ -807,7 +807,7 @@
       "previous": "3.4%",
       "forecast": "2.5%",
       "actual": null,
-      "dDay": "D+466",
+      "dDay": "D+467",
       "source": "mock",
       "isMockData": true
     }
@@ -881,7 +881,7 @@
         "low": 757.971,
         "open": 761.31,
         "prevClose": 762.6,
-        "updatedAt": "2026-09-20T23:44:43.248Z",
+        "updatedAt": "2026-09-21T02:37:22.227Z",
         "isMockData": false
       },
       {
@@ -895,11 +895,11 @@
         "low": 715.08,
         "open": 718.83,
         "prevClose": 716.92,
-        "updatedAt": "2026-09-20T23:44:43.488Z",
+        "updatedAt": "2026-09-21T02:37:22.456Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-09-20T23:44:44.173Z",
+    "collectedAt": "2026-09-21T02:37:23.109Z",
     "provider": "finnhub",
     "isMockData": false
   }
