@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-09-29T18:10:03.698Z",
+    "generatedAt": "2026-09-29T22:27:43.365Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-09-29T18:40:03.698Z"
+    "nextUpdateAt": "2026-09-29T22:57:43.365Z"
   },
   "overview": {
     "id": "market_overview",
@@ -502,7 +502,7 @@
   ],
   "news": [
     {
-      "id": "rss_1790705396668_0",
+      "id": "rss_1790720856387_0",
       "headline": "[증시-마감] 코스피, 호르무즈 난항에 0.27% 하락…외국인 또 3조 매도 - 연합인포맥스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9JWWRIVnhOY0FpV1JCSDhWV3JrSjBfQ3dxUmJQZUlKQnhNLVdUMjBSMTZwUDZIZmNFS25NU0Fyb2RKbHNjdzBXZFZhMUlzVm1VWk54WWVsaHIwc1N0cEFYVmpHRG13UnE1ZzE3T2h",
       "insight": null,
@@ -518,23 +518,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1790705396669_1",
-      "headline": "추석 연휴 이후 7천선 이탈한 코스피...오늘 증시는? - YTN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mVHJIZnp6bllVVlVCNEZ4QzF6QU9aV2hlOTJxNzNFVXRZYWF3OGdETEtIdF9zMTR4aGRCc2tySlBydTlFWkwxa0MzVEdDVmUzUDVLQjlfY2dlaDU3UVE?oc=5\" target=\"_blan",
-      "insight": null,
-      "source": "YTN",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mVHJIZnp6bllVVlVCNEZ4QzF6QU9aV2hlOTJxNzNFVXRZYWF3OGdETEtIdF9zMTR4aGRCc2tySlBydTlFWkwxa0MzVEdDVmUzUDVLQjlfY2dlaDU3UVE?oc=5",
-      "publishedAt": "2026-09-29T00:09:00.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1790705396669_2",
+      "id": "rss_1790720856388_1",
       "headline": "[마감시황] 코스피, 외인 3조 순매도에 6870선 후퇴 - 뉴스핌",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZOFktT01iaTJwLWl0SVgwSE1ndE1rZkYwa3R3SDhjMWNlUExmaUY0ZlNRaXR4NXVwbWNXWUxaeklVRlZLaVhDNDhyU2pvUjNlNVYxTTZMR0UyYmhP?oc=5\" target=\"_blank\"&",
       "insight": null,
@@ -550,23 +534,39 @@
       "isMockData": false
     },
     {
-      "id": "rss_1790705396669_3",
-      "headline": "뉴욕증시 또 미끄럼…코스피도 하락 출발 - v.daum.net",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YTk9lSVg5M3cySlhleTZRNDFPTjdFcDhJS0xGLWRTZ1UxanJSWDlSaEtBOWZ1ZVJHOFI4S2xiVFo4RVZRNlNSM0pqMFNaN2s?oc=5\" target=\"_blank\"&gt;뉴욕증시 또 미끄럼…코스피",
+      "id": "rss_1790720856388_2",
+      "headline": "추석 연휴 이후 7천선 이탈한 코스피...오늘 증시는? - YTN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mVHJIZnp6bllVVlVCNEZ4QzF6QU9aV2hlOTJxNzNFVXRZYWF3OGdETEtIdF9zMTR4aGRCc2tySlBydTlFWkwxa0MzVEdDVmUzUDVLQjlfY2dlaDU3UVE?oc=5\" target=\"_blan",
       "insight": null,
-      "source": "v.daum.net",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YTk9lSVg5M3cySlhleTZRNDFPTjdFcDhJS0xGLWRTZ1UxanJSWDlSaEtBOWZ1ZVJHOFI4S2xiVFo4RVZRNlNSM0pqMFNaN2s?oc=5",
-      "publishedAt": "2026-09-29T02:40:00.000Z",
+      "source": "YTN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mVHJIZnp6bllVVlVCNEZ4QzF6QU9aV2hlOTJxNzNFVXRZYWF3OGdETEtIdF9zMTR4aGRCc2tySlBydTlFWkwxa0MzVEdDVmUzUDVLQjlfY2dlaDU3UVE?oc=5",
+      "publishedAt": "2026-09-29T00:09:00.000Z",
       "category": "macro",
       "categoryLabel": "거시경제",
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "impact": "medium",
       "relatedTickers": [],
       "provider": "google_news_rss",
       "isMockData": false
     },
     {
-      "id": "rss_1790705396669_4",
+      "id": "rss_1790720856388_3",
+      "headline": "코스피 추가 상승 '가능성 높다' - 매일일보",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE41aUViNVdGZmdmZ1FNNUdfZkZ6Nks5Ty13QlFlTjRBOU05cjAxbkdfaEdySERQQy14UUNlZVlqLTBJaGxwekNRU3dmaUo3RERjNncweE1CUFVKWmYtcURRRHpaZkM?oc=5\" targe",
+      "insight": null,
+      "source": "매일일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41aUViNVdGZmdmZ1FNNUdfZkZ6Nks5Ty13QlFlTjRBOU05cjAxbkdfaEdySERQQy14UUNlZVlqLTBJaGxwekNRU3dmaUo3RERjNncweE1CUFVKWmYtcURRRHpaZkM?oc=5",
+      "publishedAt": "2026-09-29T05:36:25.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "positive",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1790720856388_4",
       "headline": "[증시 레이더] 코스피, 美 국채금리 급등에 이틀째 하락⋯6,870선 마감 - 포커스온경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIOTFCLVFNMWRZNEZYNEI4TW9XQ2M5XzhBWHQ2b21MUGoxZnVIc0ppYXdsSEpENFlfTjMzblpjY3BGZlpCOEpOU0V4SnJZVUxKZ19RWVN5aVJYT0p5Q1E?oc=5\" target=\"_blan",
       "insight": null,
@@ -582,7 +582,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1790705397602_0",
+      "id": "rss_1790720857222_0",
       "headline": "미 국채금리 상승 ...주식 시장 흔들면서 한국 성장세 등 세계 경제 악영향 압박 - v.daum.net",
       "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RVmJhU3RGMkxwenp6VDNZRmZMTjQzdU5VTE1XWnFRWVU4aFJKcF9maThUSG94MXFreU9Nb1YtTkNFbllmU2phekVfUW1uTjQ?oc=5\" target=\"_blan",
       "insight": null,
@@ -598,7 +598,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1790705397602_1",
+      "id": "rss_1790720857222_1",
       "headline": "[인도증시] 유가·채권 금리 상승에 약세 지속...타타손즈 상장 불투명해지며 계열 주가 ↓ - 뉴스핌",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcXZrZWxiZTB1eDU0dEduRDQxNmZYWi1Dall6YzZ1M2dtTUE1WGUxZWtIbDdXV1VWZWV2M1VzMFlyRERLT1gyQnppOW9GSUxPeldnNERERTY4TWcw?oc=5\" target=\"_blank\"&",
       "insight": null,
@@ -614,7 +614,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1790705397602_2",
+      "id": "rss_1790720857223_2",
       "headline": "美 국채 금리 발작하는데 특이현상…불안감 커지는 시장 [지금이뉴스] - YTN",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5makVhVC1mVGVjS3VDTEpHUWlyM0NXTkNVMlpQZnRGUEN6Nmd6WTREVUc3YnA1LUhzSHBYb21ScktEWTFycjdFSHFUWjYwZGxkS2FmSndJY1pLOVdTU3c?oc=5\" target=\"_blan",
       "insight": null,
@@ -630,23 +630,39 @@
       "isMockData": false
     },
     {
-      "id": "rss_1790705397602_4",
-      "headline": "[뉴욕증시]미국채 금리 고공행진…일제히 하락세 - 아시아경제",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsaGxSQVZMeTBVOGV5SzdkdTJlT3JDSlFhT1JvRjNPYUNNSXFQZnlsWmY3WFR4RV9Va3NxUDB1RWl3SXNwMzk3SjdiUVlsVVQtbFo2aWJvS1p1UVRVMHpnSA?oc=5\" target=\"_b",
+      "id": "rss_1790720857223_3",
+      "headline": "미 국채금리 상승 ...���식 시장 흔들면서 한국 성장세 등 세계 경제 악영향 압박 - v.daum.net",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwQkZoVVJhdW1JZzJ5cjBaQXhLSmZhT19xemxkT3BINHBMb0U1c2V0b2Y3VHZ0Um4wN2E4MGRvRXpSbGEtLUE5bDNQSlUxZHFSTmVJUw?oc=5\" target=\"_blank\"&gt;미 국채금리 ",
       "insight": null,
-      "source": "아시아경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsaGxSQVZMeTBVOGV5SzdkdTJlT3JDSlFhT1JvRjNPYUNNSXFQZnlsWmY3WFR4RV9Va3NxUDB1RWl3SXNwMzk3SjdiUVlsVVQtbFo2aWJvS1p1UVRVMHpnSA?oc=5",
-      "publishedAt": "2026-09-29T14:16:25.000Z",
+      "source": "v.daum.net",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwQkZoVVJhdW1JZzJ5cjBaQXhLSmZhT19xemxkT3BINHBMb0U1c2V0b2Y3VHZ0Um4wN2E4MGRvRXpSbGEtLUE5bDNQSlUxZHFSTmVJUw?oc=5",
+      "publishedAt": "2026-09-29T05:49:13.000Z",
       "category": "fed",
       "categoryLabel": "연준",
-      "sentiment": "negative",
+      "sentiment": "positive",
       "impact": "medium",
       "relatedTickers": [],
       "provider": "google_news_rss",
       "isMockData": false
     },
     {
-      "id": "rss_1790705398449_0",
+      "id": "rss_1790720857223_4",
+      "headline": "美국채 금리 부담에 약보합 마감…다우 0.26% ↓ [뉴욕증시 브리핑] - 한국경제",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jWk8tUy1jYTQwVzhzNTMxb0xDVUFpczJ1MjBCeEt2V01CMHZPQ1dUdzJRSExfbDJWeVdkN1FjdkNBejVqeTMyU3J0emNaM01XTUFQcUpCUmt4QQ?oc=5\" target=\"_blank\"&gt",
+      "insight": null,
+      "source": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jWk8tUy1jYTQwVzhzNTMxb0xDVUFpczJ1MjBCeEt2V01CMHZPQ1dUdzJRSExfbDJWeVdkN1FjdkNBejVqeTMyU3J0emNaM01XTUFQcUpCUmt4QQ?oc=5",
+      "publishedAt": "2026-09-29T22:08:04.000Z",
+      "category": "fed",
+      "categoryLabel": "연준",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1790720858046_0",
       "headline": "코스닥 세그먼트 도입 '속도조절'…구체안 발표 대신 4분기 공청회 - v.daum.net",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE52OHBvdFo2d1RtLW9ZdTA2WEh1QmcyVVp5aF9NaFhzazVrMk4xcV8zaWpHV19xd2IwQWE1Y1F0M1BKdWo2bFF2QnV5dFo0NUk?oc=5\" target=\"_blank\"&gt;코스닥 세그먼트 도입 '속",
       "insight": null,
@@ -662,7 +678,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1790705398449_1",
+      "id": "rss_1790720858046_1",
       "headline": "코스피, 美 국채금리 부담에 하락…코스닥은 반등 - 스트레이트뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZdE9vUEQzbVVQd0lXQU9EaUo4OFRXQVBQdkZLVExGVnVHX0lZbi1DLU5jTWc1T19URGF5TlJsZnNyS0ZBMTNmeENCRnJqanRKWnVNWk1mdk5NbXpIallrRFdVRjVmTWpybmkxQzF",
       "insight": null,
@@ -678,7 +694,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1790705398449_2",
+      "id": "rss_1790720858046_2",
       "headline": "코스닥 강화방안 나왔지만…시행 시기·기준은 '아직' - 매일경제TV",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nX1hjNWRhZGxWalJQVDIxaTRNbFJpczl3TWFzd2FZWURVQVQ5NU95NjYwamE3UVlJRW1PMHN5aWRUZWhqMG90c1o1WWQ5N0h1NXk5V3NIZ2V2QWRkQV9hbHozZXNWU3hf?oc=5\" ",
       "insight": null,
@@ -694,8 +710,8 @@
       "isMockData": false
     },
     {
-      "id": "rss_1790705398449_3",
-      "headline": "[단독]코스닥 승강제 도입 시 투자 양극화 우려…세제혜택으로 보완책 마련 - ���럴드경제",
+      "id": "rss_1790720858046_3",
+      "headline": "[단독]코스닥 승강제 도입 시 투자 양���화 우려…세제혜택으로 보완책 마련 - 헤럴드경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tMlJCRnpMWndxSWtoQms5VG5acElJbFJHanluWko0bXNNVm55VS0tRjZPNnNHM0dWdDRxd1B4aVVtcEx0Y3VsbGNoSDVHUUFyMUVNbmd3?oc=5\" target=\"_blank\"&gt;[단독]코",
       "insight": null,
       "source": "헤럴드경제",
@@ -710,7 +726,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1790705398449_4",
+      "id": "rss_1790720858046_4",
       "headline": "코스닥, 2.10P 오른 846.58 마감(0.25%↑) - 아시아경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE42U1hmUFZ4SHU3OVlxN3dkQjh0X3JFV1VsbkZTRHFCN0w0Z1JPemxCZF9pMlY0ODlHM3l3bDhCMGl4U01kalhEZkNCSnBVa2tyWmRNZjRmZkxOaWJISXNwWjZR?oc=5\" target=\"",
       "insight": null,
@@ -858,32 +874,32 @@
         "symbol": "SPY",
         "label": "S&P 500 ETF",
         "region": "US",
-        "price": 763.45,
-        "change": -2.16,
-        "changePercent": -0.2821,
+        "price": 764.2,
+        "change": -1.41,
+        "changePercent": -0.1842,
         "high": 766.98,
         "low": 762.35,
-        "open": 766.075,
+        "open": 766.83,
         "prevClose": 765.61,
-        "updatedAt": "2026-09-29T18:09:56.571Z",
+        "updatedAt": "2026-09-29T22:27:36.003Z",
         "isMockData": false
       },
       {
         "symbol": "QQQ",
         "label": "NASDAQ 100",
         "region": "US",
-        "price": 737.02,
-        "change": 0.49,
-        "changePercent": 0.0665,
+        "price": 737.93,
+        "change": 1.4,
+        "changePercent": 0.1901,
         "high": 740.5799,
         "low": 735.34,
-        "open": 738.6725,
+        "open": 740.145,
         "prevClose": 736.53,
-        "updatedAt": "2026-09-29T18:09:56.834Z",
+        "updatedAt": "2026-09-29T22:27:36.222Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-09-29T18:09:57.585Z",
+    "collectedAt": "2026-09-29T22:27:36.878Z",
     "provider": "finnhub",
     "isMockData": false
   }
