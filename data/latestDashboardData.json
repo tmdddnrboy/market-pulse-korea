@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-10-28T14:44:11.308Z",
+    "generatedAt": "2026-10-28T20:00:07.996Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-10-28T15:14:11.308Z"
+    "nextUpdateAt": "2026-10-28T20:30:07.996Z"
   },
   "overview": {
     "id": "market_overview",
@@ -502,7 +502,7 @@
   ],
   "news": [
     {
-      "id": "rss_1793198644612_0",
+      "id": "rss_1793217601050_0",
       "headline": "미 증시·반도체 훈풍에 급등...코스피, 6천선 탈환 - YTN",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XbUE4WG82N0tHdC03aE1DemJWQ0FuZTZvR1Z0eTZGVDA2Sll6c2x0aWo4Q1ZMNzVoVnZEZ0xvTW5MNjdVZzBLQ3JpWkg1MDBseTZWdjY5R0lhT0Z3QXc?oc=5\" target=\"_blan",
       "insight": null,
@@ -518,7 +518,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793198644613_1",
+      "id": "rss_1793217601051_1",
       "headline": "[증시-마감] 코스피, 반도체주 강세에 상승마감…10거래일 만에 6천선 복귀 - 연합인포맥스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE91ajQxVWk4ZTR1c1BXNWdpaTNXNHpYeVJsOXlVRnpqZVFxTlREOWlFc1otRUQ5NUhucG9jSm1vV1Frc0lDd1M3YWc2czBIQU05NDYxbGpWNkpXeFVXNzJSNlRVYjZ1SGg2T0V1VVR",
       "insight": null,
@@ -534,7 +534,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793198644613_2",
+      "id": "rss_1793217601051_2",
       "headline": "코스피, 앤트로픽·하닉 훈풍에 6.6%↑…10거래일만 6천피 탈환(종합) - 연합뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WTDFxZEEtbFNzYlRRb0ZVV1ozYlBCdUZ1dGMwTGpSU3B4Z2VCR05jem5sZnhBanFfMXF4Y2R6X0dGUW55QVJMWWViYUF1UENxRGFSUGJfV3VERm_SAWBBVV95cUxNSjRxZ0JZRE5",
       "insight": null,
@@ -550,7 +550,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793198644613_3",
+      "id": "rss_1793217601051_3",
       "headline": "코스피 +6%대↑ 6,000선 탈환 - KB Think",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFA5QjBsLTFncF95c0tpVXRMVThCRWp4d1lKVWZXbW4xemRRRHAyVHdzUmpReHN3b3R6T2Z3M21PUVpFS1FtOXV2S3lGcG9qcHd5bWd4MzdHTjEySG1oMVB5TmxqdlJ4djN6bXBHNw?",
       "insight": null,
@@ -566,7 +566,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793198644613_4",
+      "id": "rss_1793217601051_4",
       "headline": "속 끓이던 ‘코스피’…단숨에 6.6% 급등해 6012 마감 - 농민신문",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HUkk0WG11VEk0LWxhVTlRSEo4VGIwWkM0TktOSFJYbjRvaFQyMHk5MV85YnZwbnFmMFB2RUhlY0xqLUJKQXNBRkwwSWJCWnpVbW5iTm9uYkVTQQ?oc=5\" target=\"_blank\"&gt",
       "insight": null,
@@ -582,8 +582,40 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793198645517_0",
-      "headline": "캐나다 중앙은행 금리 결정 앞두고 TSX 선물 소폭 하락 - Investing.com 한국어",
+      "id": "rss_1793217601953_0",
+      "headline": "불안한 국내 증시·금리 상승에 예금 수요 급증 - 강원일보",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLQmxabkNCeHJOemFBZllIc3dxRFVYUEIzQkNWTWMyUHBid2gxdGRqOE9RQkVpeTBpU1FxSXVMUkJaZ1RodjZFOTMxdHY0WF9VZmNsbV9QMkRNVVk?oc=5\" target=\"_blank\"&g",
+      "insight": null,
+      "source": "강원일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLQmxabkNCeHJOemFBZllIc3dxRFVYUEIzQkNWTWMyUHBid2gxdGRqOE9RQkVpeTBpU1FxSXVMUkJaZ1RodjZFOTMxdHY0WF9VZmNsbV9QMkRNVVk?oc=5",
+      "publishedAt": "2026-10-28T15:00:00.000Z",
+      "category": "fed",
+      "categoryLabel": "연준",
+      "sentiment": "positive",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1793217601953_1",
+      "headline": "4% 넘던 국채금리 3.7%대로... 외국인은 사고 증권사는 팔았다 - 매일일보",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNdkxaNUNhVUQ3LXVLcWdyN2Q3M3dUWWowUlRBZU5KNmdjYWhTYU5MdktXUU9mNllpeUFXVmpDekctbkJRWFAwU2Rxb2IydEQ2U2VZTzlWekl0YUtBSHd3Wl9zclA?oc=5\" targe",
+      "insight": null,
+      "source": "매일일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNdkxaNUNhVUQ3LXVLcWdyN2Q3M3dUWWowUlRBZU5KNmdjYWhTYU5MdktXUU9mNllpeUFXVmpDekctbkJRWFAwU2Rxb2IydEQ2U2VZTzlWekl0YUtBSHd3Wl9zclA?oc=5",
+      "publishedAt": "2026-10-28T06:07:57.000Z",
+      "category": "fed",
+      "categoryLabel": "연준",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1793217601953_2",
+      "headline": "캐나다 중앙은행 금리 결정 앞두고 TSX 선물 소��� 하락 - Investing.com 한국어",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBvTVhzMEhVbFIyR1ljMmU0Y2V2RDB4d3NQTzRaQ0ZqZkJnNF90M05ER0dUTmFiTWJNT1Y1TzBJM0VQd3ZVdFk3Z1NtMDctWG9VTEJhcGk1b04tYTR4bkJtUDh1M0o2ZXRYZzZ4UGY",
       "insight": null,
       "source": "Investing.com 한국어",
@@ -598,45 +630,29 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793198645517_1",
-      "headline": "채권금리 뛰자 증시 부담 커지나…성장주 영향 주목 - 핀포인트뉴스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE0zZDRjdU5wV2t5Zi1fUkdOXzRFaG4xVHBpdTd6UXRSWjVIdWpiOXZsaXRFTE9uVGRjTy1QZno3Qjl4YkpjN3BqQXBVM3EwRnJ0Wk03MjdFMzl2Ul8wWmlqcmJ4bUpYakFzZmVzdnl",
+      "id": "rss_1793217601954_3",
+      "headline": "국제 금값, 유가 재상승에 4040달러대로 하락…연준 금리 결정 촉각 - 글로벌이코노믹",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1ZoOXVWRmhEZlI5bnF1X1p4UFNkb2k5SlB1ZVdyZExEc3Z1dE45bzlOcFpqUldVRkptVzFSWFJNaTljMDdNbGNxZFdaY29pN2JlYXE0QVlpSUNNR29IdnNVNWxybmk2Z2FjeU5",
+      "insight": null,
+      "source": "글로벌이코노믹",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1ZoOXVWRmhEZlI5bnF1X1p4UFNkb2k5SlB1ZVdyZExEc3Z1dE45bzlOcFpqUldVRkptVzFSWFJNaTljMDdNbGNxZFdaY29pN2JlYXE0QVlpSUNNR29IdnNVNWxybmk2Z2FjeU5mRmthSVZHd1RhQ0xIV29nQ0NOemlxQU9xN0Zq?oc=5",
+      "publishedAt": "2026-10-28T17:00:00.000Z",
+      "category": "fed",
+      "categoryLabel": "연준",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1793217601954_4",
+      "headline": "美 금리 동결에 안도하기엔 이르다…물가가 증시 방향 가른다 - 핀포인트뉴스",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5tMmhPUnE3UTN4OGo3Zkt5dE5CZnZQNDVoaXVHbF9mVjJQSmxxcElFcm8yRkpvYXA0UDNKSWg5aE9hT2xLT2otS1RocUJuWWd4Y2V1SThacnZ4dUtLN2xtbUFKSzM2OVRPSXlEZEt",
       "insight": null,
       "source": "핀포인트뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zZDRjdU5wV2t5Zi1fUkdOXzRFaG4xVHBpdTd6UXRSWjVIdWpiOXZsaXRFTE9uVGRjTy1QZno3Qjl4YkpjN3BqQXBVM3EwRnJ0Wk03MjdFMzl2Ul8wWmlqcmJ4bUpYakFzZmVzdnlvcVFETnRzZmln0gF3QVVfeXFMTTNkNGN1TnBXa3lmLV9SR05fNEVobjFUcGl1N3pRdFJaNUh1amI5dmxpdEVMT25UZGNPLVBmejdCOXhiSmM3cGpBcFUzcTBGcnRaTTcyN0UzOXZSXzBaaWpyYnhtSlhqQXNmZXN2eW9xUUROdHNmaWc?oc=5",
-      "publishedAt": "2026-10-28T04:02:02.000Z",
-      "category": "fed",
-      "categoryLabel": "연준",
-      "sentiment": "positive",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1793198645517_2",
-      "headline": "[유창범의 브레인스토밍] 가격에서 물량으로 전이될까 - 연합인포맥스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE51eC1MOGxMRGVEY0tWdGp5dERmWUlQNlVSN3BYdlJleXR5UzV0VTlJUFRIcEJKTmNnY1lLRHVtdDdsaWprMlVhZUc1SmcwbW84THVfVUhLSUpqZWQ4YXlrQzk1RVd3QmhaWEYxSWp",
-      "insight": null,
-      "source": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51eC1MOGxMRGVEY0tWdGp5dERmWUlQNlVSN3BYdlJleXR5UzV0VTlJUFRIcEJKTmNnY1lLRHVtdDdsaWprMlVhZUc1SmcwbW84THVfVUhLSUpqZWQ4YXlrQzk1RVd3QmhaWEYxSWpaMVHSAXRBVV95cUxOUEsxNTlYSEYxbGs4V2NoS0NlYkVNV0ZrVWY4aWVsRXNhRDBpajhaMF9BRHVrS1hKbnRoems4ZjFEVXlqUjdfTkxKVHl0NE0ybTRCRnZrM0Rudm83cWFtcC1MVThmSlR3UGN2TWZpM28xbGNrTA?oc=5",
-      "publishedAt": "2026-10-28T01:10:05.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1793198645517_3",
-      "headline": "4% 넘던 국채금리 3.7%대로... 외국인은 사고 증권사는 팔았다 - 매일일보",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNdkxaNUNhVUQ3LXVLcWdyN2Q3M3dUWWowUlRBZU5KNmdjYWhTYU5MdktXUU9mNllpeUFXVmpDekctbkJRWFAwU2Rxb2IydEQ2U2VZTzlWekl0YUtBSHd3Wl9zclA?oc=5\" targe",
-      "insight": null,
-      "source": "매일��보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNdkxaNUNhVUQ3LXVLcWdyN2Q3M3dUWWowUlRBZU5KNmdjYWhTYU5MdktXUU9mNllpeUFXVmpDekctbkJRWFAwU2Rxb2IydEQ2U2VZTzlWekl0YUtBSHd3Wl9zclA?oc=5",
-      "publishedAt": "2026-10-28T06:07:57.000Z",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tMmhPUnE3UTN4OGo3Zkt5dE5CZnZQNDVoaXVHbF9mVjJQSmxxcElFcm8yRkpvYXA0UDNKSWg5aE9hT2xLT2otS1RocUJuWWd4Y2V1SThacnZ4dUtLN2xtbUFKSzM2OVRPSXlEZEtRcHpaMjjSAXdBVV95cUxPcmxnc3ZTZlltMVdzMW8xYjdmUHJscm4zeVU3S0dwc05pRV82V3BzME1GWkpwSGJXTjVzdU1lV2xCci1KNkRFbVlnWVlRNVRCeC1SSTRscF9fRTlVS01yODV0cDd3VzY2RS1lc1RWSGlpUUdFenhjTQ?oc=5",
+      "publishedAt": "2026-10-28T19:40:31.000Z",
       "category": "fed",
       "categoryLabel": "연준",
       "sentiment": "neutral",
@@ -646,23 +662,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793198645517_4",
-      "headline": "신한투자 \"주식 다시 사기 위한 조건은 유가·환율·금리\" - 매일경제 마켓",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VZmxLU3IxNDJRQkJjZHVZa0FNaE5LZklnd0hUdGtySmx2aE1qaEFwWGhWNnFNLTZ4SHhMeVpPM215bnpPMW82RkRRbVFRV2psaFE?oc=5\" target=\"_blank\"&gt;신한투자 \"주식 다",
-      "insight": null,
-      "source": "매일경제 마켓",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VZmxLU3IxNDJRQkJjZHVZa0FNaE5LZklnd0hUdGtySmx2aE1qaEFwWGhWNnFNLTZ4SHhMeVpPM215bnpPMW82RkRRbVFRV2psaFE?oc=5",
-      "publishedAt": "2026-10-28T00:53:31.000Z",
-      "category": "fed",
-      "categoryLabel": "연준",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1793198646278_0",
+      "id": "rss_1793217602678_0",
       "headline": "코스피, 반도체주 급등에 6000선 탈환…코스닥도 동반 강세 [마감시황] - 에너지경제신문",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE52bWEtSWpWaHhKck1aYkN1MGN3LXdUSjhTS1hKa1BUNTRwMUJremlyWmpTMFFRck9WU3I4Wm9zVFhUQjhhNTVKSFI3TzFzZ0hmVGhMRmE2UGJfaTlZUzVaLVVvRQ?oc=5\" target",
       "insight": null,
@@ -678,7 +678,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793198646278_1",
+      "id": "rss_1793217602678_1",
       "headline": "코스피, 6.6% 급등해 6,000대 탈환…코스닥 3.7% 상승 - BBS불교방송",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5NeGp6OFdCNVFyNHY2Z0VBa2FxaVRqc3BUcTdNMEJsbHBpaFhJU1pUdzBvM2RLeDB3dks5OUFFUUI5dEhKX0poR1hxMHpQejJ3dllkdnpfcGJoRkR5RzFfSE5BYTlxRVZMTEdB?oc",
       "insight": null,
@@ -694,7 +694,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793198646278_2",
+      "id": "rss_1793217602678_2",
       "headline": "빚투 급감하면 주가 바닥…코스닥 반등 공식 이번에도 통할까? - 한국경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE91eG9oUjMxVlJyNXlXRUJmQlpINXk0ZXZsc2Fqa2F3azh6bDk0V0pkaklBR01HZi1MZDk5cEhuUFVYWlVQS0h6amVjSkdKVmtsS0NOOEpDLVZpQQ?oc=5\" target=\"_blank\"&gt",
       "insight": null,
@@ -710,7 +710,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793198646278_3",
+      "id": "rss_1793217602678_3",
       "headline": "코스피·코스닥, 오름세로 장 마감 - 한강타임즈",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9YQ1dUQ1lUYWNfSVlRdzZBNk1LbFU2OGZXbGRjcnNlbkE2MUlDNTNicHJVNUhFYXRpOE9FN3A4V2ZIUExYS2NGOWtyajNRMktjTXp2Ny1WTm9YaE5BTVc0X3ZQYUNkOTl6QnM0?oc",
       "insight": null,
@@ -726,7 +726,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793198646278_4",
+      "id": "rss_1793217602678_4",
       "headline": "케이티이, 코스닥 상장 시동…조선·방산 넘어 데이터센터 확장 - 뉴스포스트",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nNzlmU0pWdjBLQ0JoLWpRZ1NHZUhienpKb2NaNUR0SkMwNTNCNmZkRU4waDlfb1o1dl80Nk1JdFBNZHlRLXNLTXVGZ3F1d2FYUDBEbWduNVJjdWVIakVfNGgxTmtkOEp0?oc=5\" ",
       "insight": null,
@@ -874,32 +874,32 @@
         "symbol": "SPY",
         "label": "S&P 500 ETF",
         "region": "US",
-        "price": 770.73,
-        "change": 1.07,
-        "changePercent": 0.139,
-        "high": 771.7,
+        "price": 771.53,
+        "change": 1.87,
+        "changePercent": 0.243,
+        "high": 773.36,
         "low": 769.24,
         "open": 771.04,
         "prevClose": 769.66,
-        "updatedAt": "2026-10-28T14:44:04.808Z",
+        "updatedAt": "2026-10-28T20:00:01.099Z",
         "isMockData": false
       },
       {
         "symbol": "QQQ",
         "label": "NASDAQ 100",
         "region": "US",
-        "price": 721.95,
-        "change": 0.7,
-        "changePercent": 0.0971,
-        "high": 724.73,
+        "price": 724.61,
+        "change": 3.36,
+        "changePercent": 0.4659,
+        "high": 726.13,
         "low": 720.3,
         "open": 724.56,
         "prevClose": 721.25,
-        "updatedAt": "2026-10-28T14:44:05.246Z",
+        "updatedAt": "2026-10-28T20:00:01.498Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-10-28T14:44:06.334Z",
+    "collectedAt": "2026-10-28T20:00:02.488Z",
     "provider": "finnhub",
     "isMockData": false
   }
