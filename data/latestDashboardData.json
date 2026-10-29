@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-10-29T04:12:39.576Z",
+    "generatedAt": "2026-10-29T10:59:39.515Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-10-29T04:42:39.576Z"
+    "nextUpdateAt": "2026-10-29T11:29:39.515Z"
   },
   "overview": {
     "id": "market_overview",
@@ -502,7 +502,7 @@
   ],
   "news": [
     {
-      "id": "rss_1793247153039_0",
+      "id": "rss_1793271572748_0",
       "headline": "코스피, AI 훈풍에 연일 상승세...오늘 증시는? - YTN",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE51aFZtR0lfX0ZlVkZnSUktWld5N2tqR0w5d05LX1ZqQnRmMEJBTVRfaUpYdGpCaHI5U2JPQ0NQM2ZveDVwYnJOQlVXQ0IwVWQ1R1g3NUtzV3ZrOUhPcEhIbTBrQXcyWmtXM2xoZHJ",
       "insight": null,
@@ -518,15 +518,31 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793247153039_1",
-      "headline": "코스피, 삼성전자 실적 발표 후 2%대 급락…6천선 다시 하회 - 연합인포맥스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE43ZnVqNVRGUVg5X240cXFxd24wYWJDYnJjZVN0ZnVwclJ4LWpEOUlzanRJbnJMOUxibHRueHNfeklXc0l1YVV4LXlOLXZYSnpNeUlITnRvd2g4Rm80Z1lXSHItLVUxUmgtQnYwNVR",
+      "id": "rss_1793271572749_1",
+      "headline": "코스피, 6천선 위 상승 출발…외국인 매수에 0.6%↑ - 연합인포맥스",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE40YzF4aUdJalFiQ0dVUXFWXzk4czVfYmtFSnRtLUdWSGp0OWtQN3htZnNWeTZFaV8xS1NfMl9ZOWE2VjlWUTgwZERHbVR3U0JHbTlBSWZGYTRpR2RwUEplYkhxSGN3Y3I4UnVSM2p",
       "insight": null,
       "source": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43ZnVqNVRGUVg5X240cXFxd24wYWJDYnJjZVN0ZnVwclJ4LWpEOUlzanRJbnJMOUxibHRueHNfeklXc0l1YVV4LXlOLXZYSnpNeUlITnRvd2g4Rm80Z1lXSHItLVUxUmgtQnYwNVRyQ0Q?oc=5",
-      "publishedAt": "2026-10-29T02:10:00.000Z",
-      "category": "earnings",
-      "categoryLabel": "실적",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40YzF4aUdJalFiQ0dVUXFWXzk4czVfYmtFSnRtLUdWSGp0OWtQN3htZnNWeTZFaV8xS1NfMl9ZOWE2VjlWUTgwZERHbVR3U0JHbTlBSWZGYTRpR2RwUEplYkhxSGN3Y3I4UnVSM2pEVDQ?oc=5",
+      "publishedAt": "2026-10-29T00:15:00.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "positive",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1793271572749_2",
+      "headline": "[증시 레이더] 코스피, 삼성전자 4% 급락에 6천선 하루 만에 반납 - 포커스온경제",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GQnJsTDBGUTVUdHpMWjJQSmlDNWp6UmlmeUsxX0lTZ01tMG1TT0VLSEFIb3ptWTZxMWY2azRoTEktNnJyZmt4T21leXpKeGRVNUJoMDZSV21uX2xtN3c?oc=5\" target=\"_blan",
+      "insight": null,
+      "source": "포커스온경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GQnJsTDBGUTVUdHpMWjJQSmlDNWp6UmlmeUsxX0lTZ01tMG1TT0VLSEFIb3ptWTZxMWY2azRoTEktNnJyZmt4T21leXpKeGRVNUJoMDZSV21uX2xtN3c?oc=5",
+      "publishedAt": "2026-10-29T06:59:54.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
       "sentiment": "negative",
       "impact": "medium",
       "relatedTickers": [],
@@ -534,13 +550,13 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793247153039_2",
-      "headline": "하이닉스 ‘어닝 서프라이즈’에 반도체 랠리 이어가나…코스피 장초반 보합권 - 매일경제 마켓",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE90ZGFkYk5tb3BWR1RQVTV6eGlrNkt1bWlNazkxNGFYdG5jeENCWkNJY2JhaWk4OGg1Y1Q2OUpLUnNxdmMwOFJTV1VYMml5MjRhWUE?oc=5\" target=\"_blank\"&gt;하이닉스 ‘어닝 서",
+      "id": "rss_1793271572749_3",
+      "headline": "사상최대 실적에도 조정받은 10월 코스피…내달 반등 재료는? - 에너지경제신문",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ySE0yZEs2YzRkaC0zNTFzSG5kMkUyMXZEenVVNDVTZnQwMnNsTHNIdFd6WUpybEVnbU91NENIWTk2YUFhd0hqckhzSWNQclpwelhjWE5iZlpPYjQ?oc=5\" target=\"_blank\"&g",
       "insight": null,
-      "source": "매일경제 마켓",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90ZGFkYk5tb3BWR1RQVTV6eGlrNkt1bWlNazkxNGFYdG5jeENCWkNJY2JhaWk4OGg1Y1Q2OUpLUnNxdmMwOFJTV1VYMml5MjRhWUE?oc=5",
-      "publishedAt": "2026-10-29T00:32:03.000Z",
+      "source": "에너지경제신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ySE0yZEs2YzRkaC0zNTFzSG5kMkUyMXZEenVVNDVTZnQwMnNsTHNIdFd6WUpybEVnbU91NENIWTk2YUFhd0hqckhzSWNQclpwelhjWE5iZlpPYjQ?oc=5",
+      "publishedAt": "2026-10-29T05:07:43.000Z",
       "category": "earnings",
       "categoryLabel": "실적",
       "sentiment": "positive",
@@ -550,7 +566,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793247153039_3",
+      "id": "rss_1793271572749_4",
       "headline": "[AI MY 증시전망] 삼성전자 실적 발표 '주목'…코스피 상승 전망 - 뉴스핌",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tT0lIRGxOdk5ERVRtcTFRRWh2a2JUQU04N2lfbm96Z0ZSTGdwZnIwMmFZb1JQUTBBeGdnaTJJLTFIVVpxamNDS2l0a0pJb0YwYlRmb3I5YVYxZkN0?oc=5\" target=\"_blank\"&",
       "insight": null,
@@ -566,29 +582,13 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793247153039_4",
-      "headline": "[마켓뷰] 삼전 주주환원 기대…코스피, 추가 상승 이어가나 - 연합뉴스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWZ3ZuNXV1cmZlV0lZYW1uUVFqdFlEMWVpeHVpZTRHYk1wR21mbEo3Z2VTNjhGZHFmRkJnaEF2aGJHMmtnejR6WlJtRFRpa2ZfYVBJcnhtX0laeGwxMkhpR9IBYEFVX3lxTFBWZ3Z",
+      "id": "rss_1793271573598_0",
+      "headline": "[기획] 미국 금리 동결 한국 증시에 호재로 작용하나 - 매일일보",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ia0ZsVmxwLTNBMEtiTDhnQTJJOTQ3VnFXZkczZ2tjQy1BNENVNjlSaDRiTVpmYXZpZEx1T3dpZmxzM1BYVl9Ea1g4aXFXc2Z2NFlIeEs0Y3VTeVZsQi1wR0lkTjM?oc=5\" targe",
       "insight": null,
-      "source": "연합뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWZ3ZuNXV1cmZlV0lZYW1uUVFqdFlEMWVpeHVpZTRHYk1wR21mbEo3Z2VTNjhGZHFmRkJnaEF2aGJHMmtnejR6WlJtRFRpa2ZfYVBJcnhtX0laeGwxMkhpR9IBYEFVX3lxTFBWZ3ZuNXV1cmZlV0lZYW1uUVFqdFlEMWVpeHVpZTRHYk1wR21mbEo3Z2VTNjhGZHFmRkJnaEF2aGJHMmtnejR6WlJtRFRpa2ZfYVBJcnhtX0laeGwxMkhpRw?oc=5",
-      "publishedAt": "2026-10-28T23:10:17.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "positive",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1793247153871_0",
-      "headline": "내릴 만큼 내린 국고채 금리…코스피 급등에 강세 되돌림 시작되나 | - 연합인포맥스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE56SE10TjRlbTJYUHdkY0R5RDFjSzlfcjFRQTZsWVIyM3N4eGx5TUdRaVdPakY1VnZTUEJXenBaQ2w4cUNEVWlGemdzTkw0ZmhVdnpBaW4wS3F6Z2RFUGI2RHVYbjVDMTNjSTRWU01",
-      "insight": null,
-      "source": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56SE10TjRlbTJYUHdkY0R5RDFjSzlfcjFRQTZsWVIyM3N4eGx5TUdRaVdPakY1VnZTUEJXenBaQ2w4cUNEVWlGemdzTkw0ZmhVdnpBaW4wS3F6Z2RFUGI2RHVYbjVDMTNjSTRWU01NLTNKSVIy?oc=5",
-      "publishedAt": "2026-10-29T01:38:23.000Z",
+      "source": "매일일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ia0ZsVmxwLTNBMEtiTDhnQTJJOTQ3VnFXZkczZ2tjQy1BNENVNjlSaDRiTVpmYXZpZEx1T3dpZmxzM1BYVl9Ea1g4aXFXc2Z2NFlIeEs0Y3VTeVZsQi1wR0lkTjM?oc=5",
+      "publishedAt": "2026-10-29T06:16:38.000Z",
       "category": "fed",
       "categoryLabel": "연준",
       "sentiment": "positive",
@@ -598,13 +598,13 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793247153871_1",
-      "headline": "불안한 국내 증시·금리 상승에 예금 수요 급증 - 강원일보",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLQmxabkNCeHJOemFBZllIc3dxRFVYUEIzQkNWTWMyUHBid2gxdGRqOE9RQkVpeTBpU1FxSXVMUkJaZ1RodjZFOTMxdHY0WF9VZmNsbV9QMkRNVVk?oc=5\" target=\"_blank\"&g",
+      "id": "rss_1793271573598_1",
+      "headline": "내릴 만큼 내린 국고채 금리…코스피 급등에 강세 되돌림 시작되나 - KB Think",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE84bmVSb2hYM2pzcUNhOTlrRVJIV3hVVTZYajJuYzg3NUxhcDZ2SGNQVVhBZ1k2ckFMY20xb0ZtS0h1VmRPNEdFSU5RTTVpc2VLVE1BMHh1bU0wQW1YWFNtOHJHVXl1b015ZTZzdVB",
       "insight": null,
-      "source": "강원일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLQmxabkNCeHJOemFBZllIc3dxRFVYUEIzQkNWTWMyUHBid2gxdGRqOE9RQkVpeTBpU1FxSXVMUkJaZ1RodjZFOTMxdHY0WF9VZmNsbV9QMkRNVVk?oc=5",
-      "publishedAt": "2026-10-28T15:00:00.000Z",
+      "source": "KB Think",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE84bmVSb2hYM2pzcUNhOTlrRVJIV3hVVTZYajJuYzg3NUxhcDZ2SGNQVVhBZ1k2ckFMY20xb0ZtS0h1VmRPNEdFSU5RTTVpc2VLVE1BMHh1bU0wQW1YWFNtOHJHVXl1b015ZTZzdVBBVzAxdw?oc=5",
+      "publishedAt": "2026-10-28T23:34:39.000Z",
       "category": "fed",
       "categoryLabel": "연준",
       "sentiment": "positive",
@@ -614,7 +614,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793247153871_2",
+      "id": "rss_1793271573598_2",
       "headline": "미 연준의 금리 동결, 주식시장은 AI 사이클에 민감 - FETV",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KZDljbjRGaGZBVmtCcHM3VUk3ZnRqTGRLa085NFdIZ1dKaHUxME5mejV5NmliT0ctWGlpUDBjTWczMnBpdG5qeEt3TWxFMlZmNWJlNzFVSzlMV2pXUHVhZ1ZhbXpHbGp4?oc=5\" ",
       "insight": null,
@@ -630,7 +630,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793247153871_3",
+      "id": "rss_1793271573598_3",
+      "headline": "불안한 국내 증시·금리 상승에 예금 수요 급증 - 강원일보",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLQmxabkNCeHJOemFBZllIc3dxRFVYUEIzQkNWTWMyUHBid2gxdGRqOE9RQkVpeTBpU1FxSXVMUkJaZ1RodjZFOTMxdHY0WF9VZmNsbV9QMkRNVVk?oc=5\" target=\"_blank\"&g",
+      "insight": null,
+      "source": "강원일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLQmxabkNCeHJOemFBZllIc3dxRFVYUEIzQkNWTWMyUHBid2gxdGRqOE9RQkVpeTBpU1FxSXVMUkJaZ1RodjZFOTMxdHY0WF9VZmNsbV9QMkRNVVk?oc=5",
+      "publishedAt": "2026-10-28T15:00:00.000Z",
+      "category": "fed",
+      "categoryLabel": "연준",
+      "sentiment": "positive",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1793271573598_4",
       "headline": "[개장] 뉴욕증시 상승, 예상했던 기준금리 동결..SK하이닉스 13%↑ By 알파경제 alphabiz - Investing.com 한국어",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE4weE4tenR5M18tVkhZV2lLTWF3NDViNlUzek1Sd2xXUlJOSG1aUUJoU0J5UEtJeUFtZWJBbWJxRkp0YnBuMExVVHlqOVN2WVVCWkkyNnZGR2xuUXotdGxWY0drRFVzcGxzX0stSEx",
       "insight": null,
@@ -646,15 +662,15 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793247153871_4",
-      "headline": "이형일 부총리 “미 금리 높은 수준 유지·국제유가 흐름 등이 금융시장 변동성 키워” - 브릿지경제",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mamJnZTc3S1NwaDFWTTZUc3NpZ2J3MDVZcjRMLWlfTkNqWmNkcUtTNFllXzNlRGphZEtXUEZhYzc5SjZDNlhidExjU2JkeW9tUGZtVDVmUmZhQQ?oc=5\" target=\"_blank\"&gt",
+      "id": "rss_1793271574258_0",
+      "headline": "코스피, 1.2% 내려 6천 선 반납…코스닥 2.3%↓ - BBS불교방송",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1MRHdUSFBTVUhZUDhGWDZmTF9oT2NzeGJTcFJoNzBTOUFEWEpKeVY4cWZ5NktsVlVlZUVsMzVCWXB3a0pyd0pGX3ZybzdONS05b1MtWjRmaThUTUIybHBsSUUtTERZWDNiQUdV?oc",
       "insight": null,
-      "source": "브릿지경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mamJnZTc3S1NwaDFWTTZUc3NpZ2J3MDVZcjRMLWlfTkNqWmNkcUtTNFllXzNlRGphZEtXUEZhYzc5SjZDNlhidExjU2JkeW9tUGZtVDVmUmZhQQ?oc=5",
-      "publishedAt": "2026-10-29T01:46:00.000Z",
-      "category": "fed",
-      "categoryLabel": "연준",
+      "source": "BBS불교방송",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MRHdUSFBTVUhZUDhGWDZmTF9oT2NzeGJTcFJoNzBTOUFEWEpKeVY4cWZ5NktsVlVlZUVsMzVCWXB3a0pyd0pGX3ZybzdONS05b1MtWjRmaThUTUIybHBsSUUtTERZWDNiQUdV?oc=5",
+      "publishedAt": "2026-10-29T06:53:46.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
       "sentiment": "neutral",
       "impact": "medium",
       "relatedTickers": [],
@@ -662,7 +678,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793247154549_0",
+      "id": "rss_1793271574258_1",
       "headline": "코스피, 6000선 웃돌며 상승세…코스닥은 1%대 하락 - 인더스트리뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1PeGI2Q000eTJzU29WQVhNT3ZubVpMcGRYeHBUTFluM3pIZmZRMm0tQlB5SkJvdVFmck8zZTZfREx5U1QzZ3RxUDRYZ2txYkRJQVJCYkVsWDh3aXJLMGVhSzZPd3lUdlNRQ2gxQlZ",
       "insight": null,
@@ -678,7 +694,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793247154549_1",
+      "id": "rss_1793271574258_2",
+      "headline": "코스피·코스닥, 내림세로 장 마감 - 한강타임즈",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBGYk5VdEdqTDhXcTQ1TVZObF9HS21KMmtqbmY0TG93a3NTaVN4cHJMdWtoa25sYWI0aWNwZTFIOVRVdlhOMFU0cXBRVW50UjRndHFGdF9pcEkyRzhFVGFiUlV1dnpMWU52WDhv?oc",
+      "insight": null,
+      "source": "한강타임즈",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGYk5VdEdqTDhXcTQ1TVZObF9HS21KMmtqbmY0TG93a3NTaVN4cHJMdWtoa25sYWI0aWNwZTFIOVRVdlhOMFU0cXBRVW50UjRndHFGdF9pcEkyRzhFVGFiUlV1dnpMWU52WDhv?oc=5",
+      "publishedAt": "2026-10-29T06:44:15.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1793271574258_3",
       "headline": "코스피, 장 초반 강보합…코스닥은 하락 - 아시아경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWVUpiOUlJZGtqR3FBVUk5N2lQZHRFQ2NiOHdiNm10bXYwUm1SWG9YVkNtVFpLUFl5Qzg4THktbTY3Njk4bGJjejEzNnNURmZ0MGI4aVkwcmtFZ0RoMjIyVHlR?oc=5\" target=\"",
       "insight": null,
@@ -694,48 +726,16 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793247154550_2",
-      "headline": "코스피, 6000선 강보합권서 등락… 코스닥은 약세 - 대전일보",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA0NDQ2M1VBM3VrOVFPV0VUcDlYb1N6WHgxUWl6bnE4TEIwYW5wak1ValM3RldCaUZORGZnaDFpQ240N2hRaVdzRVVDY3RSVzRqOUlPX0NiNEU3RkI5VnFoaXI1TmZHckdVQXJ3ckx",
+      "id": "rss_1793271574258_4",
+      "headline": "[코스닥] 18.05포인트(2.34%) 내린 753.23 마감 - 서울경제",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BUjlPOTZVblc3RlQtUGQyVllfZm1wZzhBamJFc3JuMmJsS1l1ZVZtVXZqVHBVaFRBREdXTDY5dk1BcExoUWlOalMwT0U3MDZBbUHSAVNBVV95cUxQdTZQdmxMMFdGLXYtZl9wamF",
       "insight": null,
-      "source": "대전일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0NDQ2M1VBM3VrOVFPV0VUcDlYb1N6WHgxUWl6bnE4TEIwYW5wak1ValM3RldCaUZORGZnaDFpQ240N2hRaVdzRVVDY3RSVzRqOUlPX0NiNEU3RkI5VnFoaXI1TmZHckdVQXJ3ckxBNNIBc0FVX3lxTE1XZDVBSVNnY2s4RTYwaHB5cEdOWFM0TU9pZDFrWFdkRldrWjNrSGRvbklrampWNjJqdHN2enpRNXB0WnBOT3k5ZkcyS0dUamczb1Mtd053ZGdIcncxenRhTDFlS09jVEJBN0RsSXhsb2t0ZE0?oc=5",
-      "publishedAt": "2026-10-29T00:46:00.000Z",
+      "source": "서울경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BUjlPOTZVblc3RlQtUGQyVllfZm1wZzhBamJFc3JuMmJsS1l1ZVZtVXZqVHBVaFRBREdXTDY5dk1BcExoUWlOalMwT0U3MDZBbUHSAVNBVV95cUxQdTZQdmxMMFdGLXYtZl9wamFCVUZDVk82ay0zX3Z4WjRpd0JYTWRRZ2FLQXV3NUU3UkJrdUpZQjZKWk5kRHVxMFV0VTlRU0JzVVNjVQ?oc=5",
+      "publishedAt": "2026-10-29T06:36:58.000Z",
       "category": "macro",
       "categoryLabel": "거시경제",
       "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1793247154550_3",
-      "headline": "삼전·닉스 동반 강세에 코스피 상승세…코스닥�� 1%대 하락 - 경북도민일보",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9YYWtOQ3A0bW5YY2Y0Ml9UMWVMZWNJUVVZbFU0dUQ1VEdkd3ZRR3FteWdCazM4YTNWTWFDWkxUWW9YUWxLbkxMQ3ZsTFNCa2p1Y1RkOTR0cFRVR2JWX21GZGtrUHd1cUZuVHc?oc=",
-      "insight": null,
-      "source": "경북도민일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YYWtOQ3A0bW5YY2Y0Ml9UMWVMZWNJUVVZbFU0dUQ1VEdkd3ZRR3FteWdCazM4YTNWTWFDWkxUWW9YUWxLbkxMQ3ZsTFNCa2p1Y1RkOTR0cFRVR2JWX21GZGtrUHd1cUZuVHc?oc=5",
-      "publishedAt": "2026-10-29T00:53:36.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1793247154550_4",
-      "headline": "코스피, 상승 출발..코스닥 내림세 개장 - 한강타임즈",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1jbVJNb0ZKcXJ5cWxVZnFaZlo2aUtzamtUbjhwRXFCVnRuOXJ0SXdZQlB6OU1tWlc1blVmSmp2R0RMelM2bzdsV2k0YU5JSzh6MjlqSlZ4VzF0RC0tb21MeXd3R2ZCR1V1SWc4?oc",
-      "insight": null,
-      "source": "한강타임즈",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jbVJNb0ZKcXJ5cWxVZnFaZlo2aUtzamtUbjhwRXFCVnRuOXJ0SXdZQlB6OU1tWlc1blVmSmp2R0RMelM2bzdsV2k0YU5JSzh6MjlqSlZ4VzF0RC0tb21MeXd3R2ZCR1V1SWc4?oc=5",
-      "publishedAt": "2026-10-29T00:23:51.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "positive",
       "impact": "medium",
       "relatedTickers": [],
       "provider": "google_news_rss",
@@ -881,7 +881,7 @@
         "low": 769.24,
         "open": 771.43,
         "prevClose": 769.66,
-        "updatedAt": "2026-10-29T04:12:32.806Z",
+        "updatedAt": "2026-10-29T10:59:32.794Z",
         "isMockData": false
       },
       {
@@ -895,11 +895,11 @@
         "low": 720.3,
         "open": 724.12,
         "prevClose": 721.25,
-        "updatedAt": "2026-10-29T04:12:33.031Z",
+        "updatedAt": "2026-10-29T10:59:33.104Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-10-29T04:12:33.672Z",
+    "collectedAt": "2026-10-29T10:59:33.918Z",
     "provider": "finnhub",
     "isMockData": false
   }
