@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-10-31T22:39:26.990Z",
+    "generatedAt": "2026-11-01T01:43:38.656Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-10-31T23:09:26.990Z"
+    "nextUpdateAt": "2026-11-01T02:13:38.656Z"
   },
   "overview": {
     "id": "market_overview",
@@ -502,12 +502,12 @@
   ],
   "news": [
     {
-      "id": "rss_1793486360395_0",
+      "id": "rss_1793497411916_0",
       "headline": "다시 변동성 커지는 증시…코스피 지난달 -16%, 역대 일곱번째 - 연합뉴스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE55TWw4VlFjdl90RXF0a2dBbElCWTh6RVlhd2c2NFdMVXJiSVpveElFX2cxaUtHd3FXTWpBZGt4VEpGeU13TmdQMnYzZXVReEJFbnZtZlZHNktiMkk?oc=5\" target=\"_blank\"&g",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ua2pTSmIwWWM2a21NZzFTNkZ0UUZHTWlqTERCSkhIMFBpdFAxYVB1ZEVwWFhDMFRLM29GZXhLdmRrM05aeU1PVUpXOUpnbHlvLUVDak40SFlmeUFkYWJzUg?oc=5\" target=\"_b",
       "insight": null,
       "source": "연합뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55TWw4VlFjdl90RXF0a2dBbElCWTh6RVlhd2c2NFdMVXJiSVpveElFX2cxaUtHd3FXTWpBZGt4VEpGeU13TmdQMnYzZXVReEJFbnZtZlZHNktiMkk?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ua2pTSmIwWWM2a21NZzFTNkZ0UUZHTWlqTERCSkhIMFBpdFAxYVB1ZEVwWFhDMFRLM29GZXhLdmRrM05aeU1PVUpXOUpnbHlvLUVDak40SFlmeUFkYWJzUg?oc=5",
       "publishedAt": "2026-10-31T21:25:00.000Z",
       "category": "macro",
       "categoryLabel": "거시경제",
@@ -518,63 +518,63 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793486360396_1",
-      "headline": "코스피, 6천선 회복 관건… 美선거·빅테크 실적 ‘주목’ [주간증시전망] - IT조선",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9rV2FuQWY0SVh3d2kxWks2WGRJX1VPZElDWWdaS1QzWlBhcUx1ZDIwQmFYY0M1N3o4YnpyYi1ZdzZJdzZPYWNBU2ZweGRBWFA2VGJRRG9GeHNYdTZaTmRheHdWR1VlYlA5anhPTFF",
+      "id": "rss_1793497411916_1",
+      "headline": "코스피 절반 넘는 AI 공룡 앤스로픽 상장… 내 주식 괜찮을까 - 조선일보",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQTk80Y2dQaXZ6bVhDTXRzNXp2RXdudFpSeTV2dDE4Q2FOM2pXU3RjMzZTeGNxYU9jUHlQWERpOTRJMDBoRjBmS3c0UWhGZ3E4eWZnVUFLSS1iMnVYU0s2VkNGS2dSSHI1ZDFRSEV",
       "insight": null,
-      "source": "IT조선",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rV2FuQWY0SVh3d2kxWks2WGRJX1VPZElDWWdaS1QzWlBhcUx1ZDIwQmFYY0M1N3o4YnpyYi1ZdzZJdzZPYWNBU2ZweGRBWFA2VGJRRG9GeHNYdTZaTmRheHdWR1VlYlA5anhPTFFVZzPSAXRBVV95cUxOdHBrbUlROHE1T2VINjdtcGRtc0lzSUp5WGdHOXlRNnB0dEJUNklTSnZWckhVNHJjTy1HTmtQTHgxU245MF9YQ3BYTUpyLWZQcTZINUpoVWk0TzhqUV9mejFwblFENFNmTkQyMktWVndUeExHVw?oc=5",
-      "publishedAt": "2026-10-31T21:10:00.000Z",
-      "category": "earnings",
-      "categoryLabel": "실적",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1793486360396_2",
-      "headline": "코스피 떠난 외국인 11월엔 돌아올까, 변수는 미국 중간선거와 앤트로픽 상장 - 비즈니스포스트",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBwYTl4MTdFTDNHNXlUblBKLTdsWW9SclFJT0w0U1puWVMyZnFfZnZxWFozQ0d2NV94RmRNaTMyNjRtT1J0czQyNGJVc0o1bnpEdWc0WExDeVZVZkJyZVFTM1dURWM2Ri1WUnZfTm1",
-      "insight": null,
-      "source": "비즈니스포스트",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwYTl4MTdFTDNHNXlUblBKLTdsWW9SclFJT0w0U1puWVMyZnFfZnZxWFozQ0d2NV94RmRNaTMyNjRtT1J0czQyNGJVc0o1bnpEdWc0WExDeVZVZkJyZVFTM1dURWM2Ri1WUnZfTm1Za1pWOGM?oc=5",
-      "publishedAt": "2026-10-31T21:00:00.000Z",
-      "category": "global",
-      "categoryLabel": "글로벌",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1793486360396_3",
-      "headline": "美 중간선거 이후 코스피 10% 상승…'블루스윕' 반도체 부담 없을 듯 - 뉴스1",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CM2JPNGxvWEVzTUlCQkt3R25sQy1FazN3OUZuTkMtdHBlZmNxTzBJckRQc0RycUY0NVZQcjVueV9VNnRwVGZ3S3hTdzdVTXJEMXpfT3I2TnRzcHhhQWxv?oc=5\" target=\"_bla",
-      "insight": null,
-      "source": "뉴스1",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CM2JPNGxvWEVzTUlCQkt3R25sQy1FazN3OUZuTkMtdHBlZmNxTzBJckRQc0RycUY0NVZQcjVueV9VNnRwVGZ3S3hTdzdVTXJEMXpfT3I2TnRzcHhhQWxv?oc=5",
-      "publishedAt": "2026-10-31T21:00:00.000Z",
-      "category": "sector",
-      "categoryLabel": "섹터",
-      "sentiment": "positive",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1793486360396_4",
-      "headline": "[증시 동향] 코스피, 반짝 반등에 그치나 - 이뉴스투데이",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8tWFdJdWtQeEFpRXVvcTZ2M2RFTF9TYm1ac2lTeGl6WDVyM1hzQlRVYmdhNHNjZGgtZmVrZFplQ1BWMWhxVkFTS3ZhRWhacEliYUo0V2ZER08zVHNVNC16RHVHa25na0syS3pPY2t",
-      "insight": null,
-      "source": "이뉴스투데이",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tWFdJdWtQeEFpRXVvcTZ2M2RFTF9TYm1ac2lTeGl6WDVyM1hzQlRVYmdhNHNjZGgtZmVrZFplQ1BWMWhxVkFTS3ZhRWhacEliYUo0V2ZER08zVHNVNC16RHVHa25na0syS3pPY2tzd2jSAXRBVV95cUxNRXhsTnBGdHByYk92VDFHWEZiSzhETldmdE9HUzRkYXVEV1RFN29ZbHN3c1BQQjFHN2hxNGRCbVlheHotSXZTOUNpcmFqbUZQdjhYSVpSVFlvNE4wWXdVT1o0WXRJZ0dWS05TZWxUYkkteTc5OA?oc=5",
-      "publishedAt": "2026-10-31T10:16:40.000Z",
+      "source": "조선일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTk80Y2dQaXZ6bVhDTXRzNXp2RXdudFpSeTV2dDE4Q2FOM2pXU3RjMzZTeGNxYU9jUHlQWERpOTRJMDBoRjBmS3c0UWhGZ3E4eWZnVUFLSS1iMnVYU0s2VkNGS2dSSHI1ZDFRSEVlekFPQUZITnNvUzgxWlMwbXJtdVdkUlZveWdfNnZoLUJn?oc=5",
+      "publishedAt": "2026-10-31T23:37:00.000Z",
       "category": "macro",
       "categoryLabel": "거시경제",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1793497411917_2",
+      "headline": "주주환원으로 반등 불씨 살리려는 코스피…인텔 29% 급락에 AI 투자 우려 확산 [주간증시] - 에너지경제신문",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HREhLS1IxbG9CTklLTVJKbVNodHZwa2lRRmxFb2xDOUxLT3ZpU2dOMm5OZGZSQU5DTmVoaEE5eElRRmpzN2dBT2tOWC1DR2d2MEZNN1VmN1lVTkU?oc=5\" target=\"_blank\"&g",
+      "insight": null,
+      "source": "에너지경제신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HREhLS1IxbG9CTklLTVJKbVNodHZwa2lRRmxFb2xDOUxLT3ZpU2dOMm5OZGZSQU5DTmVoaEE5eElRRmpzN2dBT2tOWC1DR2d2MEZNN1VmN1lVTkU?oc=5",
+      "publishedAt": "2026-11-01T00:42:03.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "negative",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1793497411917_3",
+      "headline": "[증시-마감] 美빅테크 실적에 다시 번진 AI 우려…코스피·코스닥 3%대↓ | - 연합인포맥스",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE83bG5VUjVDbUpOaGJCYk80NkVmYktlYjI1N0xTcWlqakNiSUZRSGZxemlOTFdlM3FMRDBPR2d5M0NfVWhZOU1fMGNwRlFmcElLd1hCMzRlY2xhSTlSM0RzX1c0Qm5NdDdmNTJNVFp",
+      "insight": null,
+      "source": "연합인포맥스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83bG5VUjVDbUpOaGJCYk80NkVmYktlYjI1N0xTcWlqakNiSUZRSGZxemlOTFdlM3FMRDBPR2d5M0NfVWhZOU1fMGNwRlFmcElLd1hCMzRlY2xhSTlSM0RzX1c0Qm5NdDdmNTJNVFpzWDN1eXJh?oc=5",
+      "publishedAt": "2026-10-30T07:12:39.000Z",
+      "category": "earnings",
+      "categoryLabel": "실적",
+      "sentiment": "negative",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1793497411917_4",
+      "headline": "[AI MY 증시전망] 삼성전자 실적 발표 '주목'…코스피 상승 전망 - 뉴스핌",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tT0lIRGxOdk5ERVRtcTFRRWh2a2JUQU04N2lfbm96Z0ZSTGdwZnIwMmFZb1JQUTBBeGdnaTJJLTFIVVpxamNDS2l0a0pJb0YwYlRmb3I5YVYxZkN0?oc=5\" target=\"_blank\"&",
+      "insight": null,
+      "source": "뉴스핌",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tT0lIRGxOdk5ERVRtcTFRRWh2a2JUQU04N2lfbm96Z0ZSTGdwZnIwMmFZb1JQUTBBeGdnaTJJLTFIVVpxamNDS2l0a0pJb0YwYlRmb3I5YVYxZkN0?oc=5",
+      "publishedAt": "2026-10-28T23:37:00.000Z",
+      "category": "earnings",
+      "categoryLabel": "실적",
       "sentiment": "positive",
       "impact": "medium",
       "relatedTickers": [],
@@ -582,7 +582,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793486361246_0",
+      "id": "rss_1793497412740_0",
+      "headline": "김의찬의 금리시장 동향 - CME Group",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMTdzaXV3U3pUZVVpZ28xeUd5d1U4c0huTDdnV1p1S2Ftb3FENHBzYXVJVFNncmhUd1NJRHBTNExZTUptLWs0QXpuQnNaTnNuemt6Q1k3b3k2RmctcDJrdG9DNEIwWWZKeHhzVEQ",
+      "insight": null,
+      "source": "CME Group",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMTdzaXV3U3pUZVVpZ28xeUd5d1U4c0huTDdnV1p1S2Ftb3FENHBzYXVJVFNncmhUd1NJRHBTNExZTUptLWs0QXpuQnNaTnNuemt6Q1k3b3k2RmctcDJrdG9DNEIwWWZKeHhzVEQydDBJdVN1aVFLejc1LXk1RFUyVFRkYmg2V2J1OUx4dFRWT2k1UXhYOFZV?oc=5",
+      "publishedAt": "2026-10-31T14:18:59.000Z",
+      "category": "fed",
+      "categoryLabel": "연준",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1793497412740_1",
       "headline": "[마켓노트] 금리 안정이 주식시장 반등 조건 - 연합뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yeDJUQjdTeWh2WFQ3VjhHWmVRWFlQaXdRcHhmZ1ZhM1gzamNGNFZLM210ZEZaRTVsMWctMXdESTBvNmtjNUF4aFY2SEhHTkN6dGNrM1kxeDBNTXPSAWBBVV95cUxNVVZ4R3p5Zll",
       "insight": null,
@@ -598,7 +614,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793486361246_1",
+      "id": "rss_1793497412740_2",
       "headline": "주식 급락에 국고채로 눈길…11월 채권 강세 이어질까 - 경북매일",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOMGQ4NjJXWVdoOUR4Yl9tbmRyQzBfU1VlMkJ0N0ZnSm0xc1MxOW1ReEoyWDd1WXdna2Jyc0NHbGhOdmtISmhmVEp5V1VfYVpwd0xNblhrdjZ1UQ?oc=5\" target=\"_blank\"&gt",
       "insight": null,
@@ -614,7 +630,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793486361246_2",
+      "id": "rss_1793497412740_3",
       "headline": "美 큰손 절반 \"주식 더 오른다\"면서도…AI 거품과 금리에 쏠린 불안한 시선 - 글로벌이코노믹",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPWnlDQVFSUEY1Z2gtVTlnNkxkTjQ4TjRoaXVTQ0dyMm4waG15LW5FSFVGeWxrTVA2SGkxUmxINnU3WXl6dVhMZXFNak1VZlpxRjk0ZVRlYmpLY1V4TU1nRmt0WDN5U3ZpSjYtOXV",
       "insight": null,
@@ -630,23 +646,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793486361246_3",
-      "headline": "골드만삭스, 금리 상승과 AI 혼란을 장기 주식 수요 위협 요인으로 경고 - Investing.com 한국어",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBtbDNsMVA0NWRkdjJIRGlhVllDQmVBR2lIeFFsZzcteHA3aElzX1FWenIweTgwUWxYaHdDNVRDSTFib1R6cERfMWdPMC1OZk9sdlBfYW1FMUU1VkRzZjJUYVdlbVowOWJXM0RmcUd",
-      "insight": null,
-      "source": "Investing.com 한국어",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtbDNsMVA0NWRkdjJIRGlhVllDQmVBR2lIeFFsZzcteHA3aElzX1FWenIweTgwUWxYaHdDNVRDSTFib1R6cERfMWdPMC1OZk9sdlBfYW1FMUU1VkRzZjJUYVdlbVowOWJXM0RmcUd2RVA?oc=5",
-      "publishedAt": "2026-10-31T12:27:00.000Z",
-      "category": "fed",
-      "categoryLabel": "연준",
-      "sentiment": "positive",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1793486361247_4",
+      "id": "rss_1793497412740_4",
       "headline": "이달 채권시장 전망은…수급 부담에도 위험회피발 강세 전망도 - 매일경제 마켓",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rOFROYjhJR2tVaGp0VjVyeUJoVmY1WlhzUU11Y0V6a256aEY5Z3RtX1JncFg1b000TWt3VGhpa1FpeFlJTkhOa0tJZEJrSjZOQUE?oc=5\" target=\"_blank\"&gt;이달 채권시장 전망",
       "insight": null,
@@ -662,7 +662,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793486361967_0",
+      "id": "rss_1793497413446_0",
+      "headline": "코스피·코스닥, 미국 기술주 삭풍에 3.48% 급락 마감 - 경북신문",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YYUdXcUF0ZERpX1VSemppbDBzU1JCQlNDWkRPT2gwbGRDbjAxYlAtZWFvUEFUWGJtODdBQl9sV0FrMVZERUwtckczYVM5dmhhM2VVZHJnaVM?oc=5\" target=\"_blank\"&gt;코스",
+      "insight": null,
+      "source": "경북신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YYUdXcUF0ZERpX1VSemppbDBzU1JCQlNDWkRPT2gwbGRDbjAxYlAtZWFvUEFUWGJtODdBQl9sV0FrMVZERUwtckczYVM5dmhhM2VVZHJnaVM?oc=5",
+      "publishedAt": "2026-10-31T19:17:49.000Z",
+      "category": "global",
+      "categoryLabel": "글로벌",
+      "sentiment": "negative",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1793497413446_1",
       "headline": "코스닥 상장기업의 2026년 상반기 경영실적 분석 - KDI 경제교육·정보센터",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYldQV3pRM0Y4ZmFCbFlkVmxSQmJ5cGVyT1NhQU41X0s3bkhGU2UtQnR2MjFIMTdYb3dweFBjOENlb3EydGc0WVVvS1JVNExZaGR6azRPbmNFRVFBRTFocUszNVZpSEJYRU5JN2Z",
       "insight": null,
@@ -678,7 +694,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793486361967_1",
+      "id": "rss_1793497413446_2",
       "headline": "코스피·코스닥, 美 기술주 쇼크에 3%대 급락 마감 - 팍스경제TV",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4SkYxNzhXd3pKQVRyeUIyaFduWFdlVFFya3U2Q1ZQd0ZKN0w2M3N6c3JpaTNfcGRvSzJXX1JUYXp3Uk1VUEtEWk8yRlh2djdIT181ZEZrSFR0ang4UURpajNaeDdCNTdi?oc=5\" ",
       "insight": null,
@@ -694,7 +710,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793486361967_2",
+      "id": "rss_1793497413446_3",
       "headline": "코스피, 6000선 웃돌며 상승세…코스닥은 1%대 하락 - 인더스트리뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1PeGI2Q000eTJzU29WQVhNT3ZubVpMcGRYeHBUTFluM3pIZmZRMm0tQlB5SkJvdVFmck8zZTZfREx5U1QzZ3RxUDRYZ2txYkRJQVJCYkVsWDh3aXJLMGVhSzZPd3lUdlNRQ2gxQlZ",
       "insight": null,
@@ -710,23 +726,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1793486361967_3",
-      "headline": "코스피·코스닥, 미국 기술주 삭풍에 3.48% 급락 마감 - 경북신문",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YYUdXcUF0ZERpX1VSemppbDBzU1JCQlNDWkRPT2gwbGRDbjAxYlAtZWFvUEFUWGJtODdBQl9sV0FrMVZERUwtckczYVM5dmhhM2VVZHJnaVM?oc=5\" target=\"_blank\"&gt;코스",
-      "insight": null,
-      "source": "경북신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YYUdXcUF0ZERpX1VSemppbDBzU1JCQlNDWkRPT2gwbGRDbjAxYlAtZWFvUEFUWGJtODdBQl9sV0FrMVZERUwtckczYVM5dmhhM2VVZHJnaVM?oc=5",
-      "publishedAt": "2026-10-30T06:56:32.000Z",
-      "category": "global",
-      "categoryLabel": "글로벌",
-      "sentiment": "negative",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1793486361967_4",
+      "id": "rss_1793497413446_4",
       "headline": "[속보] 코스피, 3%대 급락 출발…코스닥 2%대↓ - 한국경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kdE5rZ1dvLWJyT3d6VDdRRkFIdzhyZE1oT2hMQUhNRDlmRHVoYzBMT1gzTXh1Z2pJa2pfRTdaNjhvU2ZVQUVIemlwTGNoelZ3S0VlYV9vbm9hZw?oc=5\" target=\"_blank\"&gt",
       "insight": null,
@@ -756,7 +756,7 @@
       "previous": "2.8%",
       "forecast": "2.7%",
       "actual": null,
-      "dDay": "D+521",
+      "dDay": "D+522",
       "source": "mock",
       "isMockData": true
     },
@@ -773,7 +773,7 @@
       "previous": "5.25~5.50%",
       "forecast": "5.25~5.50% (동결)",
       "actual": null,
-      "dDay": "D+506",
+      "dDay": "D+507",
       "source": "mock",
       "isMockData": true
     },
@@ -790,7 +790,7 @@
       "previous": null,
       "forecast": null,
       "actual": null,
-      "dDay": "D+505",
+      "dDay": "D+506",
       "source": "mock",
       "isMockData": true
     },
@@ -807,7 +807,7 @@
       "previous": "3.4%",
       "forecast": "2.5%",
       "actual": null,
-      "dDay": "D+507",
+      "dDay": "D+508",
       "source": "mock",
       "isMockData": true
     }
@@ -881,7 +881,7 @@
         "low": 750.36,
         "open": 761.38,
         "prevClose": 769.36,
-        "updatedAt": "2026-10-31T22:39:20.059Z",
+        "updatedAt": "2026-11-01T01:43:31.472Z",
         "isMockData": false
       },
       {
@@ -895,11 +895,11 @@
         "low": 683.45,
         "open": 697.21,
         "prevClose": 715.34,
-        "updatedAt": "2026-10-31T22:39:20.283Z",
+        "updatedAt": "2026-11-01T01:43:31.752Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-10-31T22:39:20.925Z",
+    "collectedAt": "2026-11-01T01:43:32.519Z",
     "provider": "finnhub",
     "isMockData": false
   }
