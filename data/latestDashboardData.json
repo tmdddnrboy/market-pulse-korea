@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schemaVersion": "4.0",
-    "generatedAt": "2026-11-14T23:12:49.332Z",
+    "generatedAt": "2026-11-15T02:54:36.559Z",
     "generatedBy": "scripts/updateDashboardData.js",
     "status": "degraded",
     "dataDisclaimer": "이 데이터는 최대 30~60분 지연될 수 있으며, 일부 항목은 누락되거나 부정확할 수 있습니다. 투자 참고용 정보이며 매수·매도를 추천하지 않습니다.",
@@ -27,7 +27,7 @@
         "message": "HTTP 400: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7MCJh11997z9Kaw4pBzbDtH_ZwqpS8YU — {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/googl"
       }
     ],
-    "nextUpdateAt": "2026-11-14T23:42:49.332Z"
+    "nextUpdateAt": "2026-11-15T03:24:36.559Z"
   },
   "overview": {
     "id": "market_overview",
@@ -502,23 +502,7 @@
   ],
   "news": [
     {
-      "id": "rss_1794697962773_0",
-      "headline": "[마켓스토리] 롤러코스터 탔던 올해 코스피…내년 투자 전략은? - 매일경제 마켓",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xSC01ampBZS12SjE3czlRRkFHRzdfVzB2R1VMUjF3Q2Y0SjFicmI1OUZ4WTZoQkVXNjNLQ1lucG9BRThwS0ZFcEJNYTlXRGtaaFE?oc=5\" target=\"_blank\"&gt;[마켓스토리] 롤러",
-      "insight": null,
-      "source": "매일경제 마켓",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xSC01ampBZS12SjE3czlRRkFHRzdfVzB2R1VMUjF3Q2Y0SjFicmI1OUZ4WTZoQkVXNjNLQ1lucG9BRThwS0ZFcEJNYTlXRGtaaFE?oc=5",
-      "publishedAt": "2026-11-14T21:30:00.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "neutral",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1794697962773_1",
+      "id": "rss_1794711269990_0",
       "headline": "'젠슨황 스캔들'에 짓눌린 증시…엔비디아 실적·앤트로픽 상장 주시 - 연합뉴스",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nR0p4Y2pYLVk2R3BIak9qbGxBY2NpNWFSY0cwUG85TjFGR0hycl94WjJYTXJZTUt4Nnd2WEVjektXMjRyalYyVDE3MVFZUjl3YVVqTmlOQjl2Y0XSAWBBVV95cUxPMEFvZkx4dXN",
       "insight": null,
@@ -534,13 +518,13 @@
       "isMockData": false
     },
     {
-      "id": "rss_1794697962774_2",
-      "headline": "[주간증시전망] AI 투자 시험대… 코스피 5천선 사수 관건 - IT조선",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9hZm9yT1VvTWhRWUFOLXk3ZW1zdzJONTlSZWNTTjBOOElwV3ZwTl9LakNEdEM2VEdkUHlZSVlqMWtzNHFveUFyc2lhcm5KOHF3M1JYLXFmaEQyNVl6QTRVWUxxRXo1d2hYdVEtazl",
+      "id": "rss_1794711269990_1",
+      "headline": "[마켓스토리] 롤러코스터 탔던 올해 코스피…내년 투자 전략은? - 매일경제 마켓",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xSC01ampBZS12SjE3czlRRkFHRzdfVzB2R1VMUjF3Q2Y0SjFicmI1OUZ4WTZoQkVXNjNLQ1lucG9BRThwS0ZFcEJNYTlXRGtaaFE?oc=5\" target=\"_blank\"&gt;[마켓스토리] 롤러",
       "insight": null,
-      "source": "IT조선",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hZm9yT1VvTWhRWUFOLXk3ZW1zdzJONTlSZWNTTjBOOElwV3ZwTl9LakNEdEM2VEdkUHlZSVlqMWtzNHFveUFyc2lhcm5KOHF3M1JYLXFmaEQyNVl6QTRVWUxxRXo1d2hYdVEtazl0UWLSAXRBVV95cUxQekJ4Tl9QY0MtRFpCS2RhRkZZaWo1M01WSE80bUNKdlZwLVBva2lWNnhaM29zTl9zeGNXQUpZOVd4d0dqbFM2V2trcVVZLUk1X1Y5LVJxU1NCWjdZRFh2M21waG01UkN1dnJ5eDZwa1ZlZ0xHUw?oc=5",
-      "publishedAt": "2026-11-14T21:10:00.000Z",
+      "source": "매일경제 마켓",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xSC01ampBZS12SjE3czlRRkFHRzdfVzB2R1VMUjF3Q2Y0SjFicmI1OUZ4WTZoQkVXNjNLQ1lucG9BRThwS0ZFcEJNYTlXRGtaaFE?oc=5",
+      "publishedAt": "2026-11-14T21:30:00.000Z",
       "category": "macro",
       "categoryLabel": "거시경제",
       "sentiment": "neutral",
@@ -550,15 +534,15 @@
       "isMockData": false
     },
     {
-      "id": "rss_1794697962774_3",
-      "headline": "급락 딛고 반등한 코스피…엔비디아 실적이 다음 주 증시 가른다 - 신아일보",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9sRW56SHB0emswcGRsZDJaUWNfbzBSUlRwdURvOFRtYXVoN1FWS2N2VHY1d1BhMW5pOFJNRFhQX0VDdnlwanFRb3RNZzB3MWthZ24tSG9iZy1DbThQZ0VLSWg4NVFjSkZQRE8wenN",
+      "id": "rss_1794711269990_2",
+      "headline": "코스피 '빚투' 37% 삼전·닉스에 몰려…\"증시 변동성 키워\" - 금융소비자뉴스",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8zNks2ZFQyWVRicnRBX01BODkxb1pVT0N5VjRsODVUWnFXekZrb1JHTjRZSDNMWlo5akpBbWV1WTFBVV95TFZuMEY2d3VKTzBCNTNhM2E2c29kSWVERUFNbFhZa3RhM0VvZ3c?oc=",
       "insight": null,
-      "source": "신아일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sRW56SHB0emswcGRsZDJaUWNfbzBSUlRwdURvOFRtYXVoN1FWS2N2VHY1d1BhMW5pOFJNRFhQX0VDdnlwanFRb3RNZzB3MWthZ24tSG9iZy1DbThQZ0VLSWg4NVFjSkZQRE8wenNYUkM?oc=5",
-      "publishedAt": "2026-11-14T22:00:00.000Z",
-      "category": "earnings",
-      "categoryLabel": "실적",
+      "source": "금융소비자뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zNks2ZFQyWVRicnRBX01BODkxb1pVT0N5VjRsODVUWnFXekZrb1JHTjRZSDNMWlo5akpBbWV1WTFBVV95TFZuMEY2d3VKTzBCNTNhM2E2c29kSWVERUFNbFhZa3RhM0VvZ3c?oc=5",
+      "publishedAt": "2026-11-15T02:08:58.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
       "sentiment": "neutral",
       "impact": "medium",
       "relatedTickers": [],
@@ -566,23 +550,39 @@
       "isMockData": false
     },
     {
-      "id": "rss_1794697962774_4",
-      "headline": "[증시-마감] '팔자' 돌아선 외인…코스피, 엔비디아 쇼크 속 1% 하락 - 연합인포맥스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBWelZ2MVNBNkZETmlVS3ZXdWdfMzJIc1BIeXdYeHBERk00aE5kVk5TUzZTb0stZDVLekt5a1MxWFA4ZGZSMERHNDFuVnk0Z0xQTjZNWUo1Uk12M3ljTW5hd3FLUXg5RlVNNzB1eWx",
+      "id": "rss_1794711269990_3",
+      "headline": "코스피 4.56% 반등에도 불안한 증시…엔비디아發 AI 리스크 확산 - 산경투데이",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE50MERFS0cyVEEwUmJtZlAwWTZHalp1aXVJZXRvZU01Z1JxM0hrUmZUbWx1YXEzVUFjSlo5V3UyaWFwZWZCYllEbV8tYmxLaEVWWXB1YXRDTmVpd0k5U2pGNlptZkRLakZGSTREd2x",
       "insight": null,
-      "source": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWelZ2MVNBNkZETmlVS3ZXdWdfMzJIc1BIeXdYeHBERk00aE5kVk5TUzZTb0stZDVLekt5a1MxWFA4ZGZSMERHNDFuVnk0Z0xQTjZNWUo1Uk12M3ljTW5hd3FLUXg5RlVNNzB1eWxsMnA?oc=5",
-      "publishedAt": "2026-11-13T07:05:22.000Z",
+      "source": "산경투데이",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50MERFS0cyVEEwUmJtZlAwWTZHalp1aXVJZXRvZU01Z1JxM0hrUmZUbWx1YXEzVUFjSlo5V3UyaWFwZWZCYllEbV8tYmxLaEVWWXB1YXRDTmVpd0k5U2pGNlptZkRLakZGSTREd2x4ZEzSAXRBVV95cUxQYVZUUE41S2dxSE1JaW1fakhMOHRmVXUxZThNMm9aLV9pWm9EdzNtZkxkcC00QzhsVGFkOFU4RlZUUFdiczdOZ2tsenkzci05UjBWdGtHQ2N3MWVIMXh6SXNNUms4WDNMT2s1TDRTQ1BiLVdvcQ?oc=5",
+      "publishedAt": "2026-11-14T23:27:10.000Z",
       "category": "sector",
       "categoryLabel": "섹터",
-      "sentiment": "negative",
+      "sentiment": "positive",
       "impact": "medium",
       "relatedTickers": [],
       "provider": "google_news_rss",
       "isMockData": false
     },
     {
-      "id": "rss_1794697963475_0",
+      "id": "rss_1794711269990_4",
+      "headline": "[주간증시전망] ‘젠슨 황 리스크’에 반등 꺾인 코스피…엔비디아 실적 주목 - 브릿지경제",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pVjBLNWdXV2xpVGk1aEVnemJLUDJGb1BhMV9QRmNOLVhBOWtUYTNkR1RPckFMVHFBYTA0dVV1SW9QdzRySE80TGdlUmdWR0VJbkVPbkZORzFXUQ?oc=5\" target=\"_blank\"&gt",
+      "insight": null,
+      "source": "브릿지경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pVjBLNWdXV2xpVGk1aEVnemJLUDJGb1BhMV9QRmNOLVhBOWtUYTNkR1RPckFMVHFBYTA0dVV1SW9QdzRySE80TGdlUmdWR0VJbkVPbkZORzFXUQ?oc=5",
+      "publishedAt": "2026-11-15T00:18:00.000Z",
+      "category": "earnings",
+      "categoryLabel": "실적",
+      "sentiment": "positive",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1794711270731_0",
       "headline": "미국채 금리 조정, 과열 해소와 경기 둔화 사이에서 - 치과신문",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zeGdjSHpBem9hUktSaTR3S0tkbWc5WXFfVDhmbVpncU5jWjRjdTlySTZnbkxQbUtfd3dRTk9KSmJPbVIydjVFenZzRnRtQ2lFeVlqeUY1WmtaQmJyN1UzVGcydkZCZw?oc=5\" ta",
       "insight": null,
@@ -598,7 +598,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1794697963475_1",
+      "id": "rss_1794711270732_1",
       "headline": "엔비디아 젠슨 황 사임 파장 제한적...미 국채금리는 부담 - 네이버페이 머니스토리",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SX2lUYXFaRTVCWWctMmFtMkVwNUYtdzd4YmFXbzdnTzhHcVg1SzhfczhReGZuZTNxMHI2MnlWTDQ5cWVQcVp0bVNKR0RubEdpTzFydng2aGFHdw?oc=5\" target=\"_blank\"&gt",
       "insight": null,
@@ -614,7 +614,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1794697963475_2",
+      "id": "rss_1794711270732_2",
       "headline": "증시에 데인 '개미' 5% 이자 채권에 투자 - 매일일보",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGeDJTTEV6V0p1WUgtLWV3Um9XUzdOSFA1RjBzUmVuWTI1SGtjUzNDX3g2X19lQjRmWktkWXFZeFdiWXVKQUhuRWxlYkUteXlBSDRkZEdwMkdKcGhNRWtaOGtTOGo?oc=5\" targe",
       "insight": null,
@@ -630,23 +630,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1794697963475_3",
-      "headline": "美 물가 쇼크에 금리 인상론 급부상…아시아 증시·채권 동반 하락 우려 By EBN - Investing.com 한국어",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBVYXB0UmRRSkdZTnZVSnFPUUVYVWVTenp1dTRUcDYzUXJIZ0s3aUFIam9LeVNrUXFTNUQtamk1UXQ4eVhfbmQ1OE55NnZZZkhacUQ0QmVBRTdhRnFxbDZEZ3NiT1BDbm1WZTVJa1o",
-      "insight": null,
-      "source": "Investing.com 한국어",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVYXB0UmRRSkdZTnZVSnFPUUVYVWVTenp1dTRUcDYzUXJIZ0s3aUFIam9LeVNrUXFTNUQtamk1UXQ4eVhfbmQ1OE55NnZZZkhacUQ0QmVBRTdhRnFxbDZEZ3NiT1BDbm1WZTVJa1o0RGc?oc=5",
-      "publishedAt": "2026-11-11T02:11:00.000Z",
-      "category": "fed",
-      "categoryLabel": "연준",
-      "sentiment": "negative",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1794697963475_4",
+      "id": "rss_1794711270732_3",
       "headline": "[공동락의 금리산책] 美 중간선거 결과에 따른 금리하락은 '과도' - 주간한국",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBydUhfaWhnYVpDUTg2RklQS2lNTnZCSUgyWXZWdVBQWjFfcVdLLU80aHRKLUtDNUdwd0FVdmQ2MjdZZkZHY3RtSUlqWWpMYW5UTVRpN1ZxU1BOV3VSUEJHdGFCOTVWenhacmI2LUZ",
       "insight": null,
@@ -662,7 +646,23 @@
       "isMockData": false
     },
     {
-      "id": "rss_1794697964178_0",
+      "id": "rss_1794711270732_4",
+      "headline": "미국 10월 물가 예상 웃돌자 금리 인상 경계…한국 증시·환율에도 부담 - 하이뉴스",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5VZUhhZWtQUi1VRld1SnJVeWlCRVBCZlRyd2J6d0lrTU1tWTAweWh3Rl9LSS02NFZnb09YSmY4aWJOaXdkVlVua2FFTmFjeHREazkybEJrenFWQ0pqYUhZajgzV0dFeHRFeXRJNTR",
+      "insight": null,
+      "source": "하이뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VZUhhZWtQUi1VRld1SnJVeWlCRVBCZlRyd2J6d0lrTU1tWTAweWh3Rl9LSS02NFZnb09YSmY4aWJOaXdkVlVua2FFTmFjeHREazkybEJrenFWQ0pqYUhZajgzV0dFeHRFeXRJNTRscURXbmNZUG1n?oc=5",
+      "publishedAt": "2026-11-12T05:46:42.000Z",
+      "category": "fed",
+      "categoryLabel": "연준",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1794711271517_0",
       "headline": "‘코스닥 대책’ 허위 정보 확산…당국 “엄정 조치할 것” - 서울경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LZVJDWEo2NnRhSHhHNEpyejhZNEtYZXRqUzgtaXM2ZGRPSG81ZEZGQ1VEOXMtRWFjY0hxZENMekdCcTJjdDFJUlJPY3JOZDBoSmfSAVNBVV95cUxQeFJiMnlPTUNiOExFZTVFbHh",
       "insight": null,
@@ -678,23 +678,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1794697964178_1",
-      "headline": "[포토] 코스피·코스닥 소폭 하락 마감 - 천지일보",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE84d2R4Mm15YUN3SDdLbjZzLV91azhGNm1za1ZMNXFLZjg0bnNGb1lJdndtYTVDZm9iaDdtajhkeEdNZ3hRU0EwR2U0cWpDTl8xSHI4N0RBVF84clpCWmJCVmJaS2lOTHlHNHc?oc=",
-      "insight": null,
-      "source": "천지일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84d2R4Mm15YUN3SDdLbjZzLV91azhGNm1za1ZMNXFLZjg0bnNGb1lJdndtYTVDZm9iaDdtajhkeEdNZ3hRU0EwR2U0cWpDTl8xSHI4N0RBVF84clpCWmJCVmJaS2lOTHlHNHc?oc=5",
-      "publishedAt": "2026-11-12T07:40:31.000Z",
-      "category": "macro",
-      "categoryLabel": "거시경제",
-      "sentiment": "negative",
-      "impact": "medium",
-      "relatedTickers": [],
-      "provider": "google_news_rss",
-      "isMockData": false
-    },
-    {
-      "id": "rss_1794697964178_2",
+      "id": "rss_1794711271517_1",
       "headline": "[이슈픽5] 李 \"코스닥 부실기업 퇴출\"·한전 어닝쇼크···오늘의 경제 5선 - 시사저널e",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1yMVc4VVFsRG5hWl9MVzBlREUtRWpzc0JTdG1qT0hGZGJGVGVMM0pQRmNoLTJQS0h4R2JZWkhpMERaei1ITWNhZHdKLWFqVDlLTDg2eXpyeEtNMFJoVEV4c1RvOVFnNU1qU1FpdnQ",
       "insight": null,
@@ -710,7 +694,7 @@
       "isMockData": false
     },
     {
-      "id": "rss_1794697964178_3",
+      "id": "rss_1794711271517_2",
       "headline": "코스닥 전면 재설계·M&A 시장 정상화 추진 - 헤럴드경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMY0NtVVRkbFZkM1Q3RW5seTRzQnJlWXNPNnNjYXB1S3BMYjZFaG5ER2JKWC1lUzNMenA5ZVpPUWR1M1NzOWE0UHlILTFfRGQ0V3dUaWZ3?oc=5\" target=\"_blank\"&gt;코스닥 전",
       "insight": null,
@@ -726,13 +710,29 @@
       "isMockData": false
     },
     {
-      "id": "rss_1794697964178_4",
+      "id": "rss_1794711271517_3",
       "headline": "李대통령 코스닥 육성·벤처캐피탈 생태계 혁신에 박차 - 아주경제",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Icy1kOTJFZy1XQWxmbHFVVVdLczJMbkx3ZWx4clhSSHNSNlRIaDFhSjlUREFNX2g5NlM0ek5HV0Y2dnZMNlp0NjkzLXF5UmpHcW5YNEY4SEF0Z9IBWEFVX3lxTFBVQjhMQVo5bEZ",
       "insight": null,
       "source": "아주경제",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Icy1kOTJFZy1XQWxmbHFVVVdLczJMbkx3ZWx4clhSSHNSNlRIaDFhSjlUREFNX2g5NlM0ek5HV0Y2dnZMNlp0NjkzLXF5UmpHcW5YNEY4SEF0Z9IBWEFVX3lxTFBVQjhMQVo5bEZQc1BwUXNZcmhucDZycWlERXB5Q1duYi1GaFlMd3RsamthSjlxc1JWX2JBSFNZem91YWRlaUwtdEZocVBJTEhBVllHdjJfaWU?oc=5",
       "publishedAt": "2026-11-12T06:31:13.000Z",
+      "category": "macro",
+      "categoryLabel": "거시경제",
+      "sentiment": "neutral",
+      "impact": "medium",
+      "relatedTickers": [],
+      "provider": "google_news_rss",
+      "isMockData": false
+    },
+    {
+      "id": "rss_1794711271517_4",
+      "headline": "李 “자본시장 선진화·코스닥 육성 박차…韓, 저평가 매력적 투자 대상” - 이데일리",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzFldVVVZVpqY25EdGt3ZS0zbm5zUTNWMzAyY1RGTldNVFRGUENycmVuRG1LM2xLWW9qb3lGS3BnY3lkSGJOZEgtXzZjS3FYSDlfU1c3ZkFhOHYyZlN6bGdBLXVRdVBmejE1RjN",
+      "insight": null,
+      "source": "이데일리",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzFldVVVZVpqY25EdGt3ZS0zbm5zUTNWMzAyY1RGTldNVFRGUENycmVuRG1LM2xLWW9qb3lGS3BnY3lkSGJOZEgtXzZjS3FYSDlfU1c3ZkFhOHYyZlN6bGdBLXVRdVBmejE1RjNRdFhoWjlJNndGZ3dETUxIejFUWA?oc=5",
+      "publishedAt": "2026-11-12T06:47:40.000Z",
       "category": "macro",
       "categoryLabel": "거시경제",
       "sentiment": "neutral",
@@ -756,7 +756,7 @@
       "previous": "2.8%",
       "forecast": "2.7%",
       "actual": null,
-      "dDay": "D+535",
+      "dDay": "D+536",
       "source": "mock",
       "isMockData": true
     },
@@ -773,7 +773,7 @@
       "previous": "5.25~5.50%",
       "forecast": "5.25~5.50% (동결)",
       "actual": null,
-      "dDay": "D+520",
+      "dDay": "D+521",
       "source": "mock",
       "isMockData": true
     },
@@ -790,7 +790,7 @@
       "previous": null,
       "forecast": null,
       "actual": null,
-      "dDay": "D+519",
+      "dDay": "D+520",
       "source": "mock",
       "isMockData": true
     },
@@ -807,7 +807,7 @@
       "previous": "3.4%",
       "forecast": "2.5%",
       "actual": null,
-      "dDay": "D+521",
+      "dDay": "D+522",
       "source": "mock",
       "isMockData": true
     }
@@ -881,7 +881,7 @@
         "low": 745.2,
         "open": 760.07,
         "prevClose": 757.12,
-        "updatedAt": "2026-11-14T23:12:42.616Z",
+        "updatedAt": "2026-11-15T02:54:29.624Z",
         "isMockData": false
       },
       {
@@ -895,11 +895,11 @@
         "low": 671.681,
         "open": 688.54,
         "prevClose": 688.17,
-        "updatedAt": "2026-11-14T23:12:42.879Z",
+        "updatedAt": "2026-11-15T02:54:29.846Z",
         "isMockData": false
       }
     ],
-    "collectedAt": "2026-11-14T23:12:43.613Z",
+    "collectedAt": "2026-11-15T02:54:30.498Z",
     "provider": "finnhub",
     "isMockData": false
   }
